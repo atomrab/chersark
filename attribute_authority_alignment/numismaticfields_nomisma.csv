@@ -1,0 +1,14 @@
+﻿ark_id,text,form_name,nomisma_sameAs,nomisma_uri,class,notes,defined_values
+numbertype 13 ,weight,Weight (g),weight,http://nomisma.org/id/weight,property,value in grams,N
+numbertype 14 ,coin_diameter,Diameter (measured by coin specialist),diameter,http://nomisma.org/id/diameter,property,we have two diameter fields with one in cm and the other in mm as nomisma (this one) but with a misplaced decimal point,N
+numbertype 15 ,axis,Axis,axis,http://nomisma.org/id/axis,property,expressed as a clock value but because of field formatting appears incorrectly as a decimal value (.06 rather than 6 for 6 o'clock),N
+texttype 60 ,issuing,Issuing Authority,authority,http://nomisma.org/id/authority,property,we also have a separate value for mint that appears under find details; that is where actual mint names are located,Y
+texttype 61 ,denomination,Denomination,nmo:denomination,http://nomisma.org/ontology#Denomination,class,,Y
+texttype 62 ,obverse,Obverse,obverse,http://nomisma.org/id/obverse,property,,N
+texttype 63 ,reverse,Reverse,reverse,http://nomisma.org/id/reverse,property,,N
+texttype 64 ,reference,Reference,reference_work,http://nomisma.org/id/reference_work,property,not always a bibliographic citation; sometimes also a comparandum or type,N
+texttype 65 ,coin_observations,,NA,NA,NA,NA,NA
+,material,Material,nmo:material,http://nomisma.org/ontology#Material,"class; appears under find details; in ARK this probably reflects the list for all finds, but needs to be documented with a nomisma URI for coins",,ONLY BRONZE: http://nomisma.org/id/ae
+,mint,Mint,nmo:mint,http://nomisma.org/ontology#Mint,class; appears under find details,,Y
+,height,Height,thickness,http://nomisma.org/id/thickness,property; sometimes this value appears in the height field and sometimes in the weight field; value in cm,,N
+,width,Width,thickness,http://nomisma.org/id/thickness,property; sometimes this value appears in the height field and sometimes in the weight field; value in cm,,N

@@ -1,0 +1,15 @@
+﻿Source ID,Source Label,Language,Match Type,Target URI_getty,Target Concept_getty,Target URI_ker,Target Concept_ker,created,updated
+1069,Amphora,en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300148696,amphorae (storage vessels),http://kerameikos.org/id/amphora,amphora,2020-06-03T21:03:19.391Z,2020-06-03T21:04:14.889Z
+1070,Cookware,en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300201279,cookware,,,2020-06-03T21:03:18.966Z,2020-06-03T21:04:47.114Z
+1071,Pithos,en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300198882,pithoi,http://kerameikos.org/id/pithos,pithos,2020-06-03T21:03:18.565Z,2020-06-03T21:06:45.112Z
+1072,Storage,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300198880,storage vessels,,,2020-06-03T21:03:18.166Z,2020-06-03T21:07:28.100Z
+1073,Lid,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300045712,lids (covers),http://kerameikos.org/id/lid,lid,2020-06-03T21:03:17.733Z,2020-06-03T21:08:02.751Z
+1074,Fineware,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300264955,slipware,,,2020-06-03T21:03:17.292Z,2020-06-03T21:09:40.468Z
+1075,Mortar (class),en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300395633,mortaria,,,2020-06-03T21:03:16.870Z,2020-06-03T21:15:18.926Z
+1077,Lamp (type),en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300183182,Grecian lamps,,,2020-06-03T21:03:16.446Z,2020-06-03T21:15:30.793Z
+1078,Terracotta,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300047296,terracottas (sculptural works),,,2020-06-03T21:03:12.547Z,2020-06-03T21:11:35.473Z
+1079,Waterpipe (class),en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300432673,water supply pipe,,,2020-06-03T21:03:12.115Z,2020-06-03T21:15:35.224Z
+1080,Tile (class),en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300010699,roofing tile,,,2020-06-03T21:03:11.678Z,2020-06-03T21:15:14.677Z
+1081,Brick (type),en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300010463,brick (clay material),,,2020-06-03T21:03:11.526Z,2020-06-03T21:17:09.695Z
+1082,Jar (class),en,http://www.w3.org/2004/02/skos/core#exactMatch,http://vocab.getty.edu/aat/300195347,jars,,,2020-06-03T21:03:11.382Z,2020-06-03T21:17:06.764Z
+1076,Special,en,no match,,,,,,

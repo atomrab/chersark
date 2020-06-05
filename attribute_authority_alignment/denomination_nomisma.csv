@@ -1,0 +1,28 @@
+ark_label_free,ark_count,ark_label_defined,nomisma_match_label,nomisma_uri,notes
+"""Dupondius"" (according to Anokhin)",1,Dupondius,dupondius,http://nomisma.org/id/dupondius,
+4g43,1,,,,I cannot find the record with which this is associated but seems to be weight and not denomination
+5th c. pentanummium?,1,Pentanummium,NO MATCH,,
+AE 2,1,AE2,http://nomisma.org/id/ae2,,
+AE 3/ 4,1,,,,SHOULD BE COMBINED WITH AE3/4 BELOW
+AE 4,1,,,,SHOULD BE COMBINED WITH AE4 BELOW
+AE Centenionalis,3,AE centenionalis,NO MATCH,,
+AE2,40,AE2,AE2,http://nomisma.org/id/ae2,
+AE2?,2,AE2,AE2,http://nomisma.org/id/ae2,
+AE3,4,AE3,AE3,http://nomisma.org/id/ae3,
+AE3/4,2,AE3/4,AE3-4,http://nomisma.org/id/ae3_4,
+AE3/4?,2,AE3/4,AE3-4,http://nomisma.org/id/ae3_4,
+AE4,6,AE4,AE4,http://nomisma.org/id/ae4,
+AE4?,2,AE4,AE4,http://nomisma.org/id/ae4,
+Assarion or tetrachalkon,1,Assarion,NO MATCH,,if we can provide alternates: tetrachalkon; http://nomisma.org/id/tetrachalkon
+Decanummium,3,Decanummium,NO MATCH,,
+Dichalkon,1,Dichalkon,dichalkon,http://nomisma.org/id/dichalkon,
+Follis,8,Follis,follis,http://nomisma.org/id/follis,
+Follis (792-797),1,Follis,follis,http://nomisma.org/id/follis,
+half follis,3,Half follis,NO MATCH,,
+Lepton,1,Lepton,lepton,http://nomisma.org/id/lepton,
+pentanummium,14,Pentanummium,NO MATCH,,
+Pentanummium (498-518),3,Pentanummium,NO MATCH,,
+Stamenon (Billon trachy),2,Stamenon (Billon trachy),NO MATCH,,
+stater,2,Stater,stater,http://nomisma.org/id/stater,
+Tetrassarion,2,Tetrassarion,NO MATCH,,
+Tressis,1,Tressis,tressis,http://nomisma.org/id/tressis,

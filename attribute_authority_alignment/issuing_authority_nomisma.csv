@@ -1,0 +1,100 @@
+ark_freetext_label,ark_count,ark_standard_label,nomisma_label,nomisma_uri,notes
+"""Bulgarian"" Imitative- Type A",1,,,,not an authority
+10th c. - 1025 ,1,,,,not an authority
+4th c.,1,,,,not an authority
+5th c.?,1,,,,not an authority
+6th c.,1,,,,not an authority
+"7th c. coin, ",1,,,,not an authority
+9th-10th c. local cast coin,2,,,,not an authority
+Aelia Flaccilla (379-386),2,Aelia Flacilla,aelia_flacilla,http://nomisma.org/id/aelia_flacilla,
+Anastasius (498-518)?,1,Anastasius I,anastasius,http://nomisma.org/id/anastasius,
+Anastasius I (481-512)?,2,Anastasius I,anastasius,http://nomisma.org/id/anastasius,
+Anastasius I (481-518),1,Anastasius I,anastasius,http://nomisma.org/id/anastasius,
+Anastasius I (491-518),4,Anastasius I,anastasius,http://nomisma.org/id/anastasius,
+Anastasius I (491-518)?,3,Anastasius I,anastasius,http://nomisma.org/id/anastasius,
+Ancient coin.,1,,,,not an authority
+Anokhin : Leo VI and Alexander (886-912); Grierson: Leo VI (886-912),1,Leo VI,leo_vi,http://nomisma.org/id/leo_vi,
+Anokhin: Basil II and Constantine VIII (1016-1025)      Grierson:Basil I (876-879),11,Basil II,basilius_ii,http://nomisma.org/id/basilius_ii,this would require two options: the previous or the following: Basil I; basilius_i; http://nomisma.org/id/basilius_i; Constantine VIII; constantine_viii; http://nomisma.org/id/constantine_viii
+Anokhin: Constantine VII (913-919); Grierson: Constantine VII (919-920),1,Constantine VII,constantine_vii,http://nomisma.org/id/constantine_vii,
+"Anokhin: Constantine VII, Issue IV: Romanus I (920-944); Grierson: Romanus II (959-963)",1,Romanus I,romanus_i,http://nomisma.org/id/romanus_i,also multiple options: Constantine VII as previous; Romanus II; romanus_ii; http://nomisma.org/id/romanus_ii
+Anokhin: Michael III (824-867) alone Grierson: Michael III and Basil I (866-867) ,1,Michael III,michael_iii,http://nomisma.org/id/michael_iii,
+Anokhin: Romanus I (920-944) Grierson: Romanus II (959-963),13,Romanus I,romanus_i,http://nomisma.org/id/romanus_i,or Romanus II; romanus_ii; http://nomisma.org/id/romanus_ii
+Arcadius (383-408),4,Arcadius,arcadius,http://nomisma.org/id/arcadius,
+Arcadius (383-408)?,1,Arcadius,arcadius,http://nomisma.org/id/arcadius,
+Arcadius (383-408)??,1,Arcadius,arcadius,http://nomisma.org/id/arcadius,
+Basil I (867-886),2,Basil I,basilius_i,http://nomisma.org/id/basilius_i,
+Basil I (879-886),14,Basil I,basilius_i,http://nomisma.org/id/basilius_i,
+Basil II (976-988),9,Basil II,basilius_ii,http://nomisma.org/id/basilius_ii,
+Caracalla (?). City of Chersonesus (ca 212-217),1,Caracalla,caracalla,http://nomisma.org/id/caracalla,
+Caracalla (211-217),1,Caracalla,caracalla,http://nomisma.org/id/caracalla,
+City of Chersonesos ca. 180-192,1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus (80 AD),1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus (ca 180-170 B.C.),1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus (ca 210-200 BC),1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus (ca 30O-290 B.C.),1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus (ca 350-330 B.C.),1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+"City of Chersonesus, ca 50 A.D.",1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Chersonesus. (appr. 180-192) ,1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+City of Kerkinitis (ca 310-300),1,Kerkinitis,cercinitis,http://nomisma.org/id/cercinitis,same as mint
+Ciy of Chersonesus,1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+Constans (337-350),2,Constans,constans,http://nomisma.org/id/constans,
+Constans (337-350) or Contantius II (337-361),1,Constans,constans,http://nomisma.org/id/constans,"should be ""Constantius""; see below for second id if possible to have two uris"
+Constantine I (307-337),2,Constantine I,constantine_i,http://nomisma.org/id/constantine_i,
+"Constantine I (307-337), Constantine II (337-340) ",1,Constantine I,constantine_i,http://nomisma.org/id/constantine_i,see below for Constantine II for second id if possible to have two uris
+Constantine VI and Irene (780-797),1,Constantine VI,constantine_vi,http://nomisma.org/id/constantine_vi,Irene as regent: Irene; irene; http://nomisma.org/id/irene
+Constantine VII (Anokhin; 913-919; Grierson: 919-920),3,Constantine VII,constantine_vii,http://nomisma.org/id/constantine_vii,
+Constantine VII (Anokhin; 920-944; Grierson: 945),1,Constantine VII,constantine_vii,http://nomisma.org/id/constantine_vii,
+"Constantine VII and Romanus II (Anokhin: 948-959, Grierson: 945-959)",17,Constantine VII,constantine_vii,http://nomisma.org/id/constantine_vii,if second id possible add Romanus II; romanus_ii; http://nomisma.org/id/romanus_ii
+Constantinian dynasty,1,,,,not an authority
+Constantinian dynasty? 4th c. ,1,,,,not an authority
+Constantius II (337-361),7,Constantius II,constantius_ii,http://nomisma.org/id/constantius_ii,
+Constantius II (337-361) possibly,1,Constantius II,constantius_ii,http://nomisma.org/id/constantius_ii,
+Constantius II (337-361)?,3,Constantius II,constantius_ii,http://nomisma.org/id/constantius_ii,
+Diocletian (284-305),1,Diocletian,diocletian,http://nomisma.org/id/diocletian,
+End of 9th-10th c. ,1,,,,not an authority
+Hadrian (117-134),1,Hadrian,hadrian,http://nomisma.org/id/hadrian,
+Islamic coin.,1,,,,not an authority
+John II Tzimiskes (969-976) ,1,John II Tzmiskes,johannes_tzimisces,http://nomisma.org/id/johannes_tzimisces,
+John II Tzimiskes (969-976) or Basil II (976-1025),1,John II Tzmiskes,johannes_tzimisces,http://nomisma.org/id/johannes_tzimisces,"if second id possible, use Basil II above"
+Justin I (518-527),1,Justin I,justin_i,http://nomisma.org/id/justin_i,
+Justinian I (527-565),9,Justinian I,justinian_i,http://nomisma.org/id/justinian_i,
+Late Roman coin,1,,,,not an authority
+Late Roman coin countermarked under Heraclius (610-641),1,Heraclius,heraclius,http://nomisma.org/id/heraclius,Not really the issuing authority but a useful link for someone looking for coins of this emperor
+"Late Roman coin, 4th c. ",1,,,,not an authority
+"Late Roman coin, 4th c. ?",2,,,,not an authority
+Late Roman Coin. 4th c. ,1,,,,not an authority
+"Late Roman, 4th c. ",7,,,,not an authority
+"Late Roman, 4th c.?",1,,,,not an authority
+"Latin Imitative. Small module, Type A",1,,,,not an authority
+Leo I (457-474),6,Leo I,leo_i,http://nomisma.org/id/leo_i,
+Leo V (813-820),1,Leo VI,leo_v,http://nomisma.org/id/leo_v,
+Leo VI (886-912),5,Leo VI,leo_vi,http://nomisma.org/id/leo_vi,
+Leo VI and Alexander (886-912),1,Leo VI,leo_vi,http://nomisma.org/id/leo_vi,
+Licinius (308-324),1,Licinius,licinius,http://nomisma.org/id/licinius,
+Michael II (820-829),1,Michael II,michael_ii,http://nomisma.org/id/michael_ii,
+Nicephorus II (963-969] ,2,,,,this has a trailing space and should be combined with the following
+Nicephorus II [963-969],1,Nicephorus II,nikephorus_ii,http://nomisma.org/id/nikephorus_ii,
+Not a coin,3,,,,not an authority
+Not a coin. ,2,,,,not an authority
+Panticopaeum (4th/3rd B.C.),1,Panticapaeum,panticapaeum,http://nomisma.org/id/panticapaeum,same as mint
+Possibly Rhescuporis V (314-343) ,2,Rhescuporis V,rhescuporis_v_bosporus,http://nomisma.org/id/rhescuporis_v_bosporus,
+"Probably Late Roman, 4th c. ",1,,,,not an authority
+Probably Theodosius II (405-420),1,Theodosius II,theodosius_ii,http://nomisma.org/id/theodosius_ii,
+Pulcheria (414-453),1,Pulcheria,aelia_pulcheria,http://nomisma.org/id/aelia_pulcheria,
+Rho monogram type. According to Anokhin coin of late 11th- early 12th c. ,38,,,,not an authority
+Rho monogram type. According to Anokhin coin of Romanus III (1028-1034) ,10,Romanus III,romanus_iii,http://nomisma.org/id/romanus_iii,
+Rho monogram type. According to Anokhin coin of Romanus IV (1067-1071) ,12,Romanus IV,romanus_iv,http://nomisma.org/id/romanus_iv,
+Rho monogram type. According to Anokhin coin of Romanus IV (1067-1071) ?,6,Romanus IV,romanus_iv,http://nomisma.org/id/romanus_iv,
+Roman provincial? ,1,,,,not an authority
+Second 6th c. anonymous issue (apr. under Justin II (565-578),2,Justin II,justin_ii,http://nomisma.org/id/justin_ii,
+Second 6th c. anonymous series,1,,,,not an authority
+"Second anonymus series [probably under Justin II, 565-578)",1,Justin II,justin_ii,http://nomisma.org/id/justin_ii,should probably be standardized and combined with previous Justin II and previous anonymous series
+Theodosius I (379-395),7,Theodosius I,theodosius_i,http://nomisma.org/id/theodosius_i,
+Theodosius II (402-450),2,Theodosius II,theodosius_ii,http://nomisma.org/id/theodosius_ii,
+Theodosius II (405-420),1,Theodosius II,theodosius_ii,http://nomisma.org/id/theodosius_ii,
+Unidentified,31,,,,not an authority
+Unidentified coin of the 4th c. B.C. Probably of the city of Chersonesus,1,Chersonesos,cherronesus,http://nomisma.org/id/cherronesus,same as mint
+Unidentified.,12,,,,not an authority
+Unidentified. 4th-5th c.,1,,,,not an authority
+Valentinian II (375-392),1,Valentinian II,valentinian_ii,http://nomisma.org/id/valentinian_ii,
+Zeno (474-491),2,Zeno,zeno,http://nomisma.org/id/zeno,

@@ -1,0 +1,13 @@
+ark_id,ark_name,nomisma_sameAs,nomisma_URI,pleiades_URI,lat_lon,notes,notes2
+324,Cherson,cherronesus,http://nomisma.org/id/cherronesus,https://pleiades.stoa.org/places/226564,"44.6112696, 33.49279435","used equally for Chersonesos (pre-6th c CE) and Cherson (post 6th c CE); also map to value 333; change our name to ""Chersonesos/Cherson""?",the names of this site are misplaced to other Chersonesus values in both Thrace and Caria
+325,Constantinople,constantinople,http://nomisma.org/id/constantinople,https://pleiades.stoa.org/places/520998,"41.0077908096, 28.9612916083",also map to values 326 and 331 (which is a misspelling that I will try to correct in the db),Nomisma links to Byzantium in Pleiades but this does not seem to be the same as Constantinople
+327,"Constantinople (Hahn 1978, Grierson-Mays 1992, RIC X) or Cherson (Anokhin 1980, Sokolova 1983]",,,,," with 334, how do we deal with multiple either/or values? Provide both 324 and 325 in the serialization?",
+328,Siscia,siscia,http://nomisma.org/id/siscia,https://pleiades.stoa.org/places/197504,"45.483168, 16.371388",,
+329,Nicomedia,nicomedia,http://nomisma.org/id/nicomedia,https://pleiades.stoa.org/places/511337,"40.7651905, 29.919887",also map to value 338,
+330,Kerkinitis,cercinitis,http://nomisma.org/id/cercinitis,https://pleiades.stoa.org/places/226658,"45.203672, 33.361389",description in nomisma places site in Thrace rather than Tauric Chersonesos but located correctly on the map,
+334,Nicomedia or Cyzicus,,,,,how do we deal with multiple either/or values? Provide both 329 and 335 in the serialization?,
+335,Cyzicus,cyzicus,http://nomisma.org/id/cyzicus,https://pleiades.stoa.org/places/511218,"40.3855645, 27.883191",,
+336,Sicily (Syracuse),syracuse,http://nomisma.org/id/syracuse,https://pleiades.stoa.org/places/462503,"37.07164055, 15.2791651",,
+337,Antioch,antiocheia_syria,http://nomisma.org/id/antiocheia_syria,https://pleiades.stoa.org/places/658381,"36.2225515, 36.183214",,
+339,Heracleia,heracleia_pontica,http://nomisma.org/id/heracleia_pontica,https://pleiades.stoa.org/places/844944,"41.2832553333, 31.4174136667",Heracleia Pontica,
+,Panticapaeum,panticapaeum,http://nomisma.org/id/panticapaeum,https://pleiades.stoa.org/places/854719,"45.3532623333, 36.470222",Needs to be added to DB list; listed as authority in coin report but not as mint,
