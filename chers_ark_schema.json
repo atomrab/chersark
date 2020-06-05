@@ -1,0 +1,762 @@
+{
+	"abk_cd": {
+		"fields": {
+			"conf_field_initials": {
+				"classtype": "initials",
+				"dataclass": "txt"
+			},
+			"conf_field_first_name": {
+				"classtype": "firstname",
+				"dataclass": "txt"
+			},
+			"conf_field_last_name": {
+				"classtype": "lastname",
+				"dataclass": "txt"
+			},
+			"conf_field_itemkey": {
+				"classtype": "abk_cd",
+				"module": "abk",
+				"dataclass": "itemkey",
+				"sf_nav_type": "nmedit"
+			}
+		},
+		"itemkey": "abk_cd",
+		"description": "The Address Book"
+	},
+	"drw_cd": {
+		"fields": {
+			"conf_field_mapped": {
+				"attribute": "mapped",
+				"classtype": "mapped",
+				"dataclass": "attribute"
+			},
+			"conf_field_digitized": {
+				"attribute": "digitized",
+				"classtype": "recflag",
+				"dataclass": "attribute"
+			},
+			"conf_field_scale": {
+				"classtype": "scale",
+				"dataclass": "attribute"
+			},
+			"conf_field_drw_cd": {
+				"classtype": "drw_cd",
+				"module": "drw",
+				"dataclass": "itemkey",
+				"sf_nav_type": "nmedit"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_drawnon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "drawnon",
+				"dataclass": "date"
+			},
+			"conf_field_georeferenced": {
+				"attribute": "georeferenced",
+				"classtype": "georeferenced",
+				"dataclass": "attribute"
+			},
+			"conf_field_comments": {
+				"classtype": "comments",
+				"dataclass": "txt"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			},
+			"conf_field_drawnby": {
+				"actors_element": "name",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "drawnby",
+				"actors_style": "single",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			}
+		},
+		"itemkey": "drw_cd",
+		"description": "The Drawing module"
+	},
+	"tps_cd": {
+		"fields": {
+			"conf_field_cxtxmitps": {
+				"classtype": "xmi_list",
+				"module": "tps",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi",
+				"sf_nav_type": "nmedit"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_filepdf": {
+				"classtype": "pdfs",
+				"dataclass": "file"
+			},
+			"conf_field_comments": {
+				"classtype": "comments",
+				"dataclass": "txt"
+			},
+			"conf_field_tps_cd": {
+				"module": "tps",
+				"classtype": "tps_cd",
+				"dataclass": "itemkey"
+			}
+		},
+		"itemkey": "tps_cd",
+		"description": "The Topo Surface module"
+	},
+	"sph_cd": {
+		"fields": {
+			"conf_field_sph_cd": {
+				"module": "sph",
+				"classtype": "sph_cd",
+				"dataclass": "itemkey"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_photographedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "photographedon",
+				"dataclass": "date"
+			},
+			"conf_field_cxtxmisph": {
+				"classtype": "xmi_list",
+				"module": "sph",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi"
+			},
+			"conf_field_face": {
+				"classtype": "face",
+				"dataclass": "attribute"
+			},
+			"conf_field_photographer": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "photographer",
+				"actors_style": "single",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			}
+		},
+		"itemkey": "sph_cd",
+		"description": "The Site Photo module"
+	},
+	"skl_cd": {
+		"fields": {
+			"conf_field_skeletal_preservation": {
+				"classtype": "skeletal_preservation",
+				"dataclass": "txt"
+			},
+			"conf_field_c14az": {
+				"classtype": "c14az",
+				"dataclass": "txt"
+			},
+			"conf_field_cxtxmiskl": {
+				"classtype": "xmi_list",
+				"module": "skl",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi"
+			},
+			"conf_field_c14k": {
+				"classtype": "c14k",
+				"dataclass": "txt"
+			},
+			"conf_field_skl_cd": {
+				"classtype": "skl_cd",
+				"module": "skl",
+				"dataclass": "itemkey",
+				"sf_nav_type": "full"
+			},
+			"conf_field_skeletal_age": {
+				"classtype": "skeletal_age",
+				"dataclass": "txt"
+			},
+			"conf_field_mandible": {
+				"attribute": "mandible",
+				"classtype": "skeletal_frags",
+				"dataclass": "attribute"
+			},
+			"conf_field_13c": {
+				"classtype": "13c",
+				"dataclass": "txt"
+			},
+			"conf_field_c_n": {
+				"classtype": "c_n",
+				"dataclass": "txt"
+			},
+			"conf_field_skull": {
+				"attribute": "skull",
+				"classtype": "skeletal_frags",
+				"dataclass": "attribute"
+			},
+			"conf_field_skltype": {
+				"classtype": "skltype",
+				"dataclass": "modtype"
+			},
+			"conf_field_comments": {
+				"classtype": "comments",
+				"dataclass": "txt"
+			},
+			"conf_field_longbones": {
+				"attribute": "longbone",
+				"classtype": "skeletal_frags",
+				"dataclass": "attribute"
+			},
+			"conf_field_c14z": {
+				"classtype": "c14z",
+				"dataclass": "txt"
+			},
+			"conf_field_15n": {
+				"classtype": "15n",
+				"dataclass": "txt"
+			},
+			"conf_field_skeletal_sex": {
+				"classtype": "skeletal_sex",
+				"dataclass": "attribute"
+			},
+			"conf_field_dna_strontium": {
+				"attribute": "dna_strontium",
+				"classtype": "dna_analysis",
+				"dataclass": "attribute"
+			}
+		},
+		"itemkey": "skl_cd",
+		"description": "Physical anthro module"
+	},
+	"fil_cd": {
+		"fields": {
+			"conf_field_filtype": {
+				"classtype": "filtype",
+				"dataclass": "modtype"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			},
+			"conf_field_fil_cd": {
+				"module": "fil",
+				"classtype": "fil_cd",
+				"dataclass": "itemkey"
+			},
+			"conf_field_short_desc": {
+				"classtype": "short_desc",
+				"dataclass": "txt"
+			}
+		},
+		"itemkey": "fil_cd",
+		"description": "The file module"
+	},
+	"smp_cd": {
+		"fields": {
+			"conf_field_total": {
+				"classtype": "total",
+				"dataclass": "number"
+			},
+			"conf_field_mapped": {
+				"attribute": "mapped",
+				"classtype": "mapped",
+				"dataclass": "attribute"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_botanytype": {
+				"classtype": "botanytype",
+				"dataclass": "attribute"
+			},
+			"conf_field_sampletype": {
+				"classtype": "sampletype",
+				"dataclass": "attribute"
+			},
+			"conf_field_cxtxmismp": {
+				"classtype": "xmi_list",
+				"module": "smp",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi"
+			},
+			"conf_field_oldsamplecode": {
+				"classtype": "oldsamplecode",
+				"dataclass": "txt"
+			},
+			"conf_field_smp_cd": {
+				"module": "smp",
+				"classtype": "smp_cd",
+				"dataclass": "itemkey"
+			}
+		},
+		"itemkey": "smp_cd",
+		"description": "The module for recording samples"
+	},
+	"cxt_cd": {
+		"fields": {
+			"conf_field_stratrel": {
+				"classtype": "stratrel",
+				"dataclass": "attribute"
+			},
+			"conf_field_area": {
+				"classtype": "area",
+				"dataclass": "attribute"
+			},
+			"conf_field_oldcontextcode": {
+				"classtype": "old_context_code",
+				"dataclass": "txt"
+			},
+			"conf_field_ceramic_total": {
+				"classtype": "ceramic_total",
+				"dataclass": "number"
+			},
+			"conf_field_total": {
+				"classtype": "total",
+				"dataclass": "number"
+			},
+			"conf_field_preservation": {
+				"classtype": "preservation",
+				"dataclass": "attribute"
+			},
+			"conf_field_munsellcolour": {
+				"classtype": "munsellcolour",
+				"dataclass": "attribute"
+			},
+			"conf_field_formationtype": {
+				"classtype": "formationtype",
+				"dataclass": "attribute"
+			},
+			"conf_field_cxt_cd": {
+				"module": "cxt",
+				"classtype": "cxt_cd",
+				"dataclass": "itemkey"
+			},
+			"conf_field_interpretedby": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "interpretedby",
+				"actors_style": "list",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_period": {
+				"classtype": "period",
+				"dataclass": "attribute"
+			},
+			"conf_field_formationint": {
+				"classtype": "formationint",
+				"dataclass": "attribute"
+			},
+			"conf_field_birds_total": {
+				"classtype": "birds_total",
+				"dataclass": "number"
+			},
+			"conf_field_room": {
+				"classtype": "room",
+				"dataclass": "attribute"
+			},
+			"conf_field_formationnat": {
+				"classtype": "formationnat",
+				"dataclass": "attribute"
+			},
+			"conf_field_interp": {
+				"classtype": "interp",
+				"dataclass": "txt"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_findtype": {
+				"classtype": "findtype",
+				"dataclass": "attribute"
+			},
+			"conf_field_sameas": {
+				"classtype": "sameas",
+				"dataclass": "span"
+			},
+			"conf_field_fish_total": {
+				"classtype": "fish_total",
+				"dataclass": "number"
+			},
+			"conf_field_desc_brief": {
+				"classtype": "desc_brief",
+				"dataclass": "txt"
+			},
+			"conf_field_excavatedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "dateexcavated",
+				"dataclass": "date"
+			},
+			"conf_field_datingelem": {
+				"classtype": "datingelem",
+				"dataclass": "txt"
+			},
+			"conf_field_interpretedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "interpretedon",
+				"dataclass": "date"
+			},
+			"conf_field_sketch": {
+				"classtype": "sketches",
+				"dataclass": "file"
+			},
+			"conf_field_recsheet": {
+				"classtype": "recording_sheets",
+				"dataclass": "file"
+			},
+			"conf_field_excavatedby": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "excavator",
+				"actors_style": "list",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_cxttype": {
+				"classtype": "cxttype",
+				"dataclass": "modtype"
+			},
+			"conf_field_phase": {
+				"classtype": "phase",
+				"dataclass": "attribute"
+			},
+			"conf_field_observations": {
+				"classtype": "observations",
+				"dataclass": "txt"
+			},
+			"conf_field_closed": {
+				"attribute": "closed",
+				"classtype": "recflag",
+				"dataclass": "attribute"
+			}
+		},
+		"itemkey": "cxt_cd",
+		"description": "The context module"
+	},
+	"fph_cd": {
+		"fields": {
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_photographedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "photographedon",
+				"dataclass": "date"
+			},
+			"conf_field_photographer": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "photographer",
+				"actors_style": "single",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_short_desc": {
+				"classtype": "short_desc",
+				"dataclass": "txt"
+			},
+			"conf_field_fph_cd": {
+				"module": "fph",
+				"classtype": "fph_cd",
+				"dataclass": "itemkey"
+			}
+		},
+		"itemkey": "fph_cd",
+		"description": "The Finds Photos Module"
+	},
+	"mcw_cd": {
+		"fields": {
+			"conf_field_comments": {
+				"classtype": "comments",
+				"dataclass": "txt"
+			},
+			"conf_field_dp4": {
+				"classtype": "dp4",
+				"dataclass": "txt"
+			},
+			"conf_field_payneage": {
+				"classtype": "payneage",
+				"dataclass": "txt"
+			},
+			"conf_field_grant": {
+				"classtype": "grant",
+				"dataclass": "txt"
+			},
+			"conf_field_m2": {
+				"classtype": "m2",
+				"dataclass": "txt"
+			},
+			"conf_field_mws": {
+				"classtype": "mws",
+				"dataclass": "txt"
+			},
+			"conf_field_m3": {
+				"classtype": "m3",
+				"dataclass": "txt"
+			},
+			"conf_field_halstead": {
+				"classtype": "halstead",
+				"dataclass": "txt"
+			},
+			"conf_field_side": {
+				"classtype": "side",
+				"dataclass": "attribute"
+			},
+			"conf_field_microwear": {
+				"attribute": "microwear",
+				"classtype": "microwear",
+				"dataclass": "attribute"
+			},
+			"conf_field_mcwtype": {
+				"classtype": "mcwtype",
+				"dataclass": "modtype"
+			},
+			"conf_field_payne": {
+				"classtype": "payne",
+				"dataclass": "txt"
+			},
+			"conf_field_m1": {
+				"classtype": "m1",
+				"dataclass": "txt"
+			},
+			"conf_field_dp2": {
+				"classtype": "dp2",
+				"dataclass": "txt"
+			},
+			"conf_field_dp3": {
+				"classtype": "dp3",
+				"dataclass": "txt"
+			},
+			"conf_field_mcw_cd": {
+				"classtype": "mcw_cd",
+				"module": "mcw",
+				"dataclass": "itemkey",
+				"sf_nav_type": "full"
+			},
+			"conf_field_teeth": {
+				"classtype": "teeth",
+				"dataclass": "txt"
+			},
+			"conf_field_rollett": {
+				"classtype": "rollett",
+				"dataclass": "txt"
+			}
+		},
+		"itemkey": "mcw_cd",
+		"description": "Microwear module"
+	},
+	"pmp_cd": {
+		"fields": {
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_comments": {
+				"classtype": "comments",
+				"dataclass": "txt"
+			},
+			"conf_field_cxtxmipmp": {
+				"classtype": "xmi_list",
+				"module": "pmp",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			},
+			"conf_field_pmp_cd": {
+				"module": "pmp",
+				"classtype": "pmp_cd",
+				"dataclass": "itemkey"
+			}
+		},
+		"itemkey": "pmp_cd",
+		"description": "The photomodeler project module"
+	},
+	"grp_cd": {
+		"fields": {
+			"conf_field_interp": {
+				"classtype": "interp",
+				"dataclass": "txt"
+			},
+			"conf_field_grptype": {
+				"classtype": "grptype",
+				"dataclass": "modtype"
+			},
+			"conf_field_short_desc": {
+				"classtype": "short_desc",
+				"dataclass": "txt"
+			},
+			"conf_field_interpretedby": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "interpretedby",
+				"actors_style": "list",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_interpretedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "interpretedon",
+				"dataclass": "date"
+			},
+			"conf_field_grp_cd": {
+				"module": "grp",
+				"classtype": "grp_cd",
+				"dataclass": "itemkey"
+			}
+		},
+		"itemkey": "grp_cd",
+		"description": "The Group module"
+	},
+	"sfi_cd": {
+		"fields": {
+			"conf_field_collectionnum": {
+				"classtype": "collectionnum",
+				"dataclass": "txt"
+			},
+			"conf_field_preservation": {
+				"classtype": "preservation",
+				"dataclass": "attribute"
+			},
+			"conf_field_diameter": {
+				"classtype": "diameter",
+				"field_op_hidden": false,
+				"dataclass": "number"
+			},
+			"conf_field_height": {
+				"classtype": "height",
+				"field_op_hidden": false,
+				"dataclass": "number"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_mapped": {
+				"attribute": "mapped",
+				"classtype": "mapped",
+				"dataclass": "attribute"
+			},
+			"conf_field_width": {
+				"classtype": "width",
+				"field_op_hidden": false,
+				"dataclass": "number"
+			},
+			"conf_field_pubtext": {
+				"classtype": "pubtext",
+				"dataclass": "txt"
+			},
+			"conf_field_material": {
+				"classtype": "material",
+				"dataclass": "attribute"
+			},
+			"conf_field_sfi_cd": {
+				"module": "sfi",
+				"classtype": "sfi_cd",
+				"dataclass": "itemkey"
+			},
+			"conf_field_short_desc": {
+				"classtype": "short_desc",
+				"dataclass": "txt"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			},
+			"conf_field_period": {
+				"classtype": "period",
+				"dataclass": "attribute"
+			},
+			"conf_field_intact": {
+				"attribute": "intact",
+				"classtype": "intact",
+				"dataclass": "attribute"
+			},
+			"conf_field_length": {
+				"classtype": "length",
+				"field_op_hidden": false,
+				"dataclass": "number"
+			}
+		},
+		"itemkey": "sfi_cd",
+		"description": "The Special Finds Module"
+	},
+	"gph_cd": {
+		"fields": {
+			"conf_field_digitized": {
+				"attribute": "digitized",
+				"classtype": "recflag",
+				"dataclass": "attribute"
+			},
+			"conf_field_catalog": {
+				"classtype": "catalog_cd",
+				"dataclass": "txt"
+			},
+			"conf_field_description": {
+				"classtype": "description",
+				"dataclass": "txt"
+			},
+			"conf_field_photographedon": {
+				"datestyle": "dd,mm,yr",
+				"classtype": "photographedon",
+				"dataclass": "date"
+			},
+			"conf_field_photographer": {
+				"actors_element": "initials",
+				"actors_grp": false,
+				"actors_mod": "abk",
+				"actors_type": "people",
+				"classtype": "photographer",
+				"actors_style": "single",
+				"dataclass": "action",
+				"actors_elementclass": "txt"
+			},
+			"conf_field_file": {
+				"classtype": "images",
+				"dataclass": "file"
+			},
+			"conf_field_gph_cd": {
+				"module": "gph",
+				"classtype": "gph_cd",
+				"dataclass": "itemkey"
+			},
+			"conf_field_cxtxmi": {
+				"classtype": "xmi_list",
+				"module": "gph",
+				"xmi_mod": "cxt",
+				"op_xmi_itemkey": "cxt_cd",
+				"dataclass": "xmi",
+				"sf_nav_type": "nmedit"
+			}
+		},
+		"itemkey": "gph_cd",
+		"description": "The geo-photo module"
+	}
+}
