@@ -1,0 +1,641 @@
+{
+  "abk_cd": {
+    "items": [
+      {
+        "abk_cd": "CH_87", 
+        "Last Name": "Chakrabarti", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd", 
+        "First Name": "Ishan", 
+        "itemkey": "abk_cd", 
+        "abktype": "2", 
+        "abk_no": "87", 
+        "ste_cd": "CH", 
+        "Initals": "IC", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd/CH_87", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "cre_by": "1"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd", 
+    "description": "The Address Book"
+  }, 
+  "cxt_cd": {
+    "items": [
+      {
+        "Formation (Natural)": "Artificial", 
+        "Area": "Complex 2", 
+        "Recording Sheets": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/text_documentation/scanned_completed_recording_sheets/cxt_CH06SR_921_m.pdf", 
+        "Formation (Intentional)": "Intentional", 
+        "Period": false, 
+        "Covers": "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_999", 
+        "itemkey": "cxt_cd", 
+        "cxttype": [
+          "2", 
+          "2"
+        ], 
+        "cre_on": "2007-03-29 00:00:00", 
+        "Munsell Colour": "2,5Y 4/2", 
+        "Record Status Flag": [
+          "!Secure Date?", 
+          "Sketch?", 
+          "Closed?", 
+          "!Completed?"
+        ], 
+        "Formation Type": "Filling", 
+        "Description": "Layer of compact brown soil just above the bedrock in the eastern most area of cut 909 (at the bottom of cut 900) and a vertical ridge of soil along the base of wall 521. The soil itself, because there was not much of it, contained only a little bit of material - metal, ceramic and bone.", 
+        "Dating Elements": null, 
+        "Excavator": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd/CH_85", 
+        "Fish Count": null, 
+        "Birds Count": [
+          {
+            "Birds": "Anas sp.", 
+            "value": 1.0
+          }, 
+          {
+            "Birds": "Garrulus glandarius", 
+            "value": 2.0
+          }, 
+          {
+            "Fish": "Raja clavata", 
+            "value": 3.0
+          }
+        ], 
+        "Phase": false, 
+        "cxt_no": "921", 
+        "ste_cd": "CH06SR", 
+        "cre_by": "1", 
+        "Definition": "Compact brown surface above bedrock and vertical layer in center of cut 0900, room 38", 
+        "Room": "38", 
+        "Fills": [
+          "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_900", 
+          "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_909"
+        ], 
+        "cxt_cd": "CH06SR_921", 
+        "Findtype": [
+          "Pot", 
+          "Metal", 
+          "Bone"
+        ], 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_921", 
+        "Sketches": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/sketches/SKT_CH06SR_0921_m.jpg", 
+        "Interpreted On": null, 
+        "Interpretation": "This appears to be a first fill layer above the bedrock cut in cut 909. Like 910, it is interesting that the bedrock is covered by brown soil and not clay.", 
+        "Date Excavated": "2006-07-22 00:00:00", 
+        "Stratigraphic Reliability": "Medium Reliability", 
+        "Total of Ceramics": [
+          {
+            "Ceramic Type": "Black gloss", 
+            "Ceramic Class": "Fineware", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 9.0
+          }, 
+          {
+            "Ceramic Type": "Hellenistic jars", 
+            "Ceramic Class": "Fineware", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 61.0
+          }, 
+          {
+            "Ceramic Type": "Unidentified plain fineware", 
+            "Ceramic Class": "Fineware", 
+            "value": 4.0
+          }, 
+          {
+            "Ceramic Type": "Wheelmade cookware", 
+            "Ceramic Class": "Cookware", 
+            "value": 13.0
+          }, 
+          {
+            "Ceramic Type": "Handmade cookware", 
+            "Ceramic Class": "Cookware", 
+            "value": 10.0
+          }, 
+          {
+            "Ceramic Type": "ADSV, type V", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "5th-7th c. AD", 
+            "value": 4.0
+          }, 
+          {
+            "Ceramic Type": "Unidentified Hellenistic/Roman amphora", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "Hellenistic/Roman", 
+            "value": 4.0
+          }, 
+          {
+            "Ceramic Type": "Chersonesos", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 34.0
+          }, 
+          {
+            "Ceramic Type": "Colchis", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 1.0
+          }, 
+          {
+            "Ceramic Type": "Rhodes", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 1.0
+          }, 
+          {
+            "Ceramic Type": "Sinope", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "Hellenistic (Ceramic date)", 
+            "value": 6.0
+          }, 
+          {
+            "Ceramic Type": "Light clay", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "1st c. BC-2nd c. AD", 
+            "value": 1.0
+          }, 
+          {
+            "Ceramic Type": "Red clay (Zeest - 72)", 
+            "Ceramic Class": "Amphora", 
+            "Ceramic Date": "2nd-3rd c. AD", 
+            "value": 2.0
+          }, 
+          {
+            "Ceramic Type": "Lamp", 
+            "Ceramic Class": "Lamp (type)", 
+            "value": 1.0
+          }, 
+          {
+            "Ceramic Type": "Lid (type)", 
+            "Ceramic Class": "Lid", 
+            "value": 5.0
+          }, 
+          {
+            "Ceramic Type": "Mortarium", 
+            "Ceramic Class": "Mortar (class)", 
+            "value": 5.0
+          }
+        ], 
+        "Preservation": "Medium", 
+        "Old Context Code": "CH06SR0921", 
+        "Covered By": [
+          "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_879", 
+          "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd/CH06SR_910"
+        ], 
+        "Total": null, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd", 
+        "Observations": null
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/cxt_cd", 
+    "description": "The context module"
+  }, 
+  "drw_cd": {
+    "items": [
+      {
+        "drw_cd": "CH06SR_78", 
+        "Illustrator": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd/CH_27", 
+        "Record Status Flag": [
+          "Scanned?", 
+          "!GCPs?", 
+          "Digitized?", 
+          "Geo-Referenced?", 
+          "Scanned?", 
+          "!GCPs?", 
+          "Digitized?", 
+          "Geo-Referenced?"
+        ], 
+        "Mapped?": false, 
+        "Comments": null, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/drw_cd", 
+        "Drawn On": "2006-06-24 00:00:00", 
+        "drwtype": "2", 
+        "Scale": [
+          "1:20", 
+          "1:20"
+        ], 
+        "itemkey": "drw_cd", 
+        "Image(s)": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/drawings/master/drw_CH06SR_78_pl_m.tif", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "drw_no": "78", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/drw_cd/CH06SR_78", 
+        "ste_cd": "CH06SR", 
+        "cre_by": "1", 
+        "Description": "Room 38, Layer Plan"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/drw_cd", 
+    "description": "The Drawing module"
+  }, 
+  "tps_cd": {
+    "items": [
+      {
+        "tps_cd": "CH04SR_17", 
+        "tps_no": "17", 
+        "PDF(s)": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/toposurfaces_exports/tps_CH04SR_17_m.pdf", 
+        "Comments": "Clipped to half room outline from CH04 file ctxt_412_spl", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/tps_cd", 
+        "itemkey": "tps_cd", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/tps_cd/CH04SR_17", 
+        "ste_cd": "CH04SR", 
+        "cre_by": "1", 
+        "Description": "Surface of CH04SR0412"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/tps_cd", 
+    "description": "The Topo Surface module"
+  }, 
+  "sfi_cd": {
+    "items": [
+      {
+        "Mapped?": "Mapped?", 
+        "Intact?": false, 
+        "Width": {
+          "value": 1.35
+        }, 
+        "itemkey": "sfi_cd", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "Description": "roughly circular in plan with hole 0.4cm dia inserted centrally; generally thickness ca 0,5 cm but thinner in one quarter, 0,4 cm (wear?); rounded end profile; encrusted generally all faces.", 
+        "Material": "Lead", 
+        "Image(s)": [
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/special_finds/photographs/master/sfi_CH05SR_2978_B_m.JPG", 
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/special_finds/photographs/master/sfi_CH05SR_2978_S1_m.jpg", 
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/special_finds/photographs/master/sfi_CH05SR_2978_S2_m.jpg", 
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/special_finds/illustrations/master/sfi_CH05SR_2978_f_m.tif"
+        ], 
+        "ste_cd": "CH05SR", 
+        "sfi_cd": "CH05SR_2978", 
+        "cre_by": "1", 
+        "Publication Text": null, 
+        "Short Description": "Ring like object annulus", 
+        "Collection #": null, 
+        "Length": {
+          "value": 1.5
+        }, 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/sfi_cd/CH05SR_2978", 
+        "Diameter": {
+          "value": 0.5
+        }, 
+        "Period": "Undated", 
+        "Preservation": "Very Good", 
+        "Height": null, 
+        "sfi_no": "2978", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/sfi_cd"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/sfi_cd", 
+    "description": "The Special Finds Module"
+  }, 
+  "sph_cd": {
+    "items": [
+      {
+        "Description": "Tomb 5, layer 2", 
+        "Date Photographed": "2005-07-15 00:00:00", 
+        "Photographed By": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd/CH_62", 
+        "sph_no": "609", 
+        "Facing": "East", 
+        "sph_cd": "CH05SR_609", 
+        "itemkey": "sph_cd", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/sph_cd", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/sph_cd/CH05SR_609", 
+        "ste_cd": "CH05SR", 
+        "cre_by": "1", 
+        "Image(s)": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/photographs/master/sph_CH05SR_0609_m.tif"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/sph_cd", 
+    "description": "The Site Photo module"
+  }, 
+  "skl_cd": {
+    "items": [
+      {
+        "13C": null, 
+        "Sex": "F", 
+        "Comments": null, 
+        "C14 (AZ)": null, 
+        "15N": null, 
+        "Remains Present": [
+          "Skull", 
+          "Long bones", 
+          "Skull", 
+          "Long bones", 
+          "Skull", 
+          "Long bones"
+        ], 
+        "Age": "50-x", 
+        "C14 (K)": null, 
+        "C14 (Z)": null, 
+        "DNA/Strontium": false, 
+        "Preservation": "nearly compl.", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/skl_cd", 
+        "skl_cd": "CH05SR_S560", 
+        "itemkey": "skl_cd", 
+        "skl_no": "S560", 
+        "cre_on": "2011-04-13 10:53:06", 
+        "C/N": null, 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/skl_cd/CH05SR_S560", 
+        "skltype": [
+          "1", 
+          "1"
+        ], 
+        "cre_by": "1", 
+        "ste_cd": "CH05SR"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/skl_cd", 
+    "description": "Physical anthro module"
+  }, 
+  "smp_cd": {
+    "items": [
+      {
+        "Description": "Metallurgical sample from courtyard", 
+        "Botany Type": false, 
+        "Mapped?": "Mapped?", 
+        "Old Sample Code": "SMPCH05SR0149", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/smp_cd", 
+        "smp_no": "149", 
+        "itemkey": "smp_cd", 
+        "Sample Type": "Metallurgical", 
+        "smp_cd": "CH05SR_149", 
+        "ste_cd": "CH05SR", 
+        "Total": null, 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/smp_cd/CH05SR_149", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "cre_by": "1"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/smp_cd", 
+    "description": "The module for recording samples"
+  }, 
+  "pmp_cd": {
+    "items": [
+      {
+        "Description": "Surface", 
+        "Image(s)": [
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/photomodels_orthophotos/master/pmp_CH06SR_17_m.pdf", 
+          "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/photomodels_orthophotos/master/pmp_CH06SR_17_o_m.tif"
+        ], 
+        "Comments": null, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/pmp_cd", 
+        "pmp_cd": "CH06SR_17", 
+        "pmp_no": "17", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/pmp_cd/CH06SR_17", 
+        "ste_cd": "CH06SR", 
+        "cre_by": "1", 
+        "itemkey": "pmp_cd"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/pmp_cd", 
+    "description": "The photomodeler project module"
+  }, 
+  "fph_cd": {
+    "items": [
+      {
+        "Description": null, 
+        "Date Photographed": null, 
+        "Short Description": null, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/fph_cd", 
+        "itemkey": "fph_cd", 
+        "fph_cd": "CH04SR_1497", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/fph_cd/CH04SR_1497", 
+        "fph_no": "1497", 
+        "cre_by": "1", 
+        "ste_cd": "CH04SR"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/fph_cd", 
+    "description": "The Finds Photos Module"
+  }, 
+  "@context": {
+    "Mortar (class)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1075/True", 
+    "C14 (K)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14k", 
+    "dp4/P4": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp4", 
+    "Lead": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/153/True", 
+    "Comments": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/comments", 
+    "Width": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/width", 
+    "Payne Age": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payneage", 
+    "Hellenistic/Roman": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1089/True", 
+    "Halstead Age": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/halstead", 
+    "Garrulus glandarius": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1199/True", 
+    "C14 (AZ)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14az", 
+    "Unidentified Hellenistic/Roman amphora": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/843/True", 
+    "Photographed By": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer", 
+    "Payne": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payne", 
+    "mcwtype": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/mcwtype", 
+    "Light clay": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/878/True", 
+    "Raja clavata": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1212/True", 
+    "Sample Type": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+    "C14 (Z)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14z", 
+    "2nd-3rd c. AD": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1086/True", 
+    "Hellenistic jars": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/914/True", 
+    "Illustrator": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby", 
+    "Record Status Flag": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag", 
+    "Total of Ceramics": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/ceramic_total", 
+    "Rhodes": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/880/True", 
+    "Length": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/length", 
+    "Colchis": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/842/True", 
+    "Artificial": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/261/True", 
+    "Recording Sheets": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/recording_sheets", 
+    "13C": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/13c", 
+    "Diameter": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter", 
+    "Metallurgical": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136/True", 
+    "Scanned?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/True", 
+    "Lid (type)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/838/True", 
+    "Filling": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/10/True", 
+    "5th-7th c. AD": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1083/True", 
+    "Scale": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale", 
+    "Date Photographed": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/photographedon", 
+    "Area": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area", 
+    "Mortarium": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/875/True", 
+    "Date Excavated": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/dateexcavated", 
+    "Height": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/height", 
+    "M1": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m1", 
+    "M3": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3", 
+    "M2": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m2", 
+    "East": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/285/True", 
+    "!Completed?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/False", 
+    "Formation Type": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
+    "Medium": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/12/True", 
+    "Undated": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/20/True", 
+    "Red clay (Zeest - 72)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/900/True", 
+    "Botany Type": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+    "Material": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+    "Sinope": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/841/True", 
+    "Cookware": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1070/True", 
+    "Fish Count": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/fish_count", 
+    "Birds Count": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/birds_count", 
+    "Excavator": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator", 
+    "C/N": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c_n", 
+    "!Secure Date?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/False", 
+    "2,5Y 4/2": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/85/True", 
+    "Black gloss": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/859/True", 
+    "Age": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age", 
+    "Metal": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/119/True", 
+    "Facing": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face", 
+    "Medium Reliability": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/264/True", 
+    "Grant Age": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant", 
+    "Teeth": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth", 
+    "Geo-Referenced?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/True", 
+    "Anas sp.": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1185/True", 
+    "Interpreted On": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/interpretedon", 
+    "Formation (Intentional)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint", 
+    "38": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/312/True", 
+    "Chersonesos": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/861/True", 
+    "Last Name": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/lastname", 
+    "Fish": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
+    "Complex 2": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/318/True", 
+    "Long bones": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525/True", 
+    "DNA/Strontium": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/dna_analysis", 
+    "Old Context Code": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/old_context_code", 
+    "Catalog Code": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/catalog_cd", 
+    "Microwear": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear", 
+    "Birds": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+    "Fineware": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074/True", 
+    "Very Good": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/15/True", 
+    "dp3/P3": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp3", 
+    "1st c. BC-2nd c. AD": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1095/True", 
+    "Closed?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/True", 
+    "ADSV, type V": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/828/True", 
+    "Digitized?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/True", 
+    "Intact?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/intact", 
+    "Lamp": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/877/True", 
+    "cxttype": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/cxttype", 
+    "Munsell Colour": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+    "Drawn On": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/drawnon", 
+    "Ceramic Type": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+    "Dating Elements": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/datingelem", 
+    "1:20": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/273/True", 
+    "Image(s)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/images", 
+    "Findtype": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+    "Publication Text": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext", 
+    "Definition": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/desc_brief", 
+    "Skull": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/True", 
+    "F": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527/True", 
+    "MWS/Stage": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws", 
+    "R": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414/True", 
+    "!GCPs?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/False", 
+    "dp2/P2": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp2", 
+    "Interpretation": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/interp", 
+    "PDF(s)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/pdfs", 
+    "Period": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period", 
+    "Preservation": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation", 
+    "Sex": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+    "Stratigraphic Reliability": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel", 
+    "Ceramic Date": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date", 
+    "Initals": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/initials", 
+    "Lid": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1073/True", 
+    "Handmade cookware": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/850/True", 
+    "Formation (Natural)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat", 
+    "Mapped?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped", 
+    "Unidentified plain fineware": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/863/True", 
+    "First Name": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/firstname", 
+    "Sketch?": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/True", 
+    "Observations": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/observations", 
+    "Ceramic Class": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class", 
+    "Description": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description", 
+    "Amphora": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1069/True", 
+    "Phase": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+    "Room": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room", 
+    "Short Description": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/short_desc", 
+    "Collection #": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/collectionnum", 
+    "Remains Present": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags", 
+    "skltype": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/skltype", 
+    "Intentional": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/259/True", 
+    "Side": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
+    "Bone": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/120/True", 
+    "Rollett and Chiu (1994)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett", 
+    "Sketches": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/sketches", 
+    "Lamp (type)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1077/True", 
+    "Pot": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/117/True", 
+    "Old Sample Code": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/oldsamplecode", 
+    "Hellenistic (Ceramic date)": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1088/True", 
+    "Wheelmade cookware": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/835/True", 
+    "grptype": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/grptype", 
+    "Total": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/total", 
+    "15N": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n"
+  }, 
+  "mcw_cd": {
+    "items": [
+      {
+        "dp4/P4": null, 
+        "Comments": null, 
+        "M1": null, 
+        "Payne Age": "F  3-4 years", 
+        "M3": "e LT", 
+        "M2": null, 
+        "cre_on": "2011-04-13 10:53:06", 
+        "Halstead Age": null, 
+        "mcw_no": "S54", 
+        "Payne": "F", 
+        "mcwtype": [
+          "2", 
+          "2"
+        ], 
+        "ste_cd": "CH06SR", 
+        "cre_by": "1", 
+        "MWS/Stage": null, 
+        "Grant Age": null, 
+        "Teeth": null, 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/mcw_cd/CH06SR_S54", 
+        "Side": "R", 
+        "Rollett and Chiu (1994)": null, 
+        "dp2/P2": null, 
+        "dp3/P3": null, 
+        "mcw_cd": "CH06SR_S54", 
+        "Microwear": false, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/mcw_cd", 
+        "itemkey": "mcw_cd"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/mcw_cd", 
+    "description": "Microwear module"
+  }, 
+  "grp_cd": {
+    "items": [
+      {
+        "Interpreted On": null, 
+        "Interpretation": null, 
+        "Short Description": null, 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/grp_cd", 
+        "grp_no": "263", 
+        "itemkey": "grp_cd", 
+        "cre_on": "2008-04-29 17:02:17", 
+        "grp_cd": "CH_263", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/grp_cd/CH_263", 
+        "grptype": [
+          "1", 
+          "1"
+        ], 
+        "cre_by": "1", 
+        "ste_cd": "CH"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/grp_cd", 
+    "description": "The Group module"
+  }, 
+  "@id": "https://ica.tacc.utexas.edu/chersonesos/ark", 
+  "gph_cd": {
+    "items": [
+      {
+        "Record Status Flag": "Digitized?", 
+        "Date Photographed": "2005-04-07 00:00:00", 
+        "Image(s)": "http://web.corral.tacc.utexas.edu/ICA/ChersonesosSouth/ChersonesosSouth_ARK/image_documentation/excavation/geophotos/master/gph_CH05SR_161_m.JPG", 
+        "Photographed By": "https://ica.tacc.utexas.edu/chersonesos/ark/abk_cd/CH_62", 
+        "@type": "https://ica.tacc.utexas.edu/chersonesos/ark/gph_cd", 
+        "gph_cd": "CH05SR_161", 
+        "Catalog Code": "GPCCH05SR0003", 
+        "gph_no": "161", 
+        "cre_on": "2007-03-29 00:00:00", 
+        "Description": "collapse in street NE of buildings", 
+        "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/gph_cd/CH05SR_161", 
+        "ste_cd": "CH05SR", 
+        "cre_by": "1", 
+        "itemkey": "gph_cd"
+      }
+    ], 
+    "@id": "https://ica.tacc.utexas.edu/chersonesos/ark/gph_cd", 
+    "description": "The geo-photo module"
+  }
+}
