@@ -77,6 +77,7 @@ def getItem(module,item):
     #loop the modules' available fields
     for fieldidx in module['fields']:
         
+        
         field = module['fields'][fieldidx]
         
         #different classtypes need handled differently as per resfieldfunction 
@@ -87,38 +88,38 @@ def getItem(module,item):
         if fielddata == None:
             print "got None in field: {} for item: {}".format(field, item)
         
+        #fields = fields + fielddata
+        
         #fieldfunctions return lists of results as a field may have more than one value eg a person may hold more than one role
-        fields = fields + fielddata
+        #flatten the properties into the item to make it json-ld like, multiple values become lists
+        for data in fielddata:
+            fieldid=data.keys()[0]
+            if fieldid in item.keys():
+                try:
+                    if field[fieldid] not in item[fieldid]:
+                        try:
+                            item[fieldid].append( data[fieldid] )
+                        except:
+                            item[fieldid] = [ item[fieldid], data[fieldid] ]
+                    
+                except:
+                    item[fieldid] = data[fieldid]
+            else:
+                item[fieldid] = data[fieldid]
     
-    #flatten the properties into the item to make it json-ld like, multiple values become lists
-    for field in fields:
-        fieldid=field.keys()[0]
-        if fieldid in item.keys():
-            try:
-                item[fieldid].append(field[fieldid])
-            except:
-                item[fieldid] = [item[fieldid],field[fieldid]]
-        else:
-            item[fieldid] = field[fieldid]
-    
-    #let the user know whats going on
-    print "retrieved {}/{}".format(item['itemkey'],item[item['itemkey']])
-    sys.stdout.flush()
+#    #let the user know whats going on
+#    print "retrieved {}/{}".format(item['itemkey'],item[item['itemkey']])
+#    sys.stdout.flush()
     
     return item
 
 def getItems(module):
     
     global ark_cookies,api_url,samplelen
-    
-    print "samplelen: {}".format(samplelen)
-    
+        
     items = []
     itemkey = module['itemkey']
     
-    #let the user know whats going on
-    print "loading module {}".format(itemkey)
-
     #the ARK api returns lists of items like { 'cxt':[...] }
     itemsLists = getJson(api_url, ark_cookies, {'req':'getItems','item_key':itemkey})
     itemList = itemsLists[itemkey[:3]]
@@ -128,8 +129,10 @@ def getItems(module):
         sample = random.sample(itemList,min(samplelen,len(itemList)))
     else:
         sample = {}
-    
-    print "samplelen: {}".format(len(sample))
+        
+    #let the user know whats going on
+    print "loading {} {}s".format(len(sample),itemkey)
+    sys.stdout.flush()
     
     #a Queue will let us run some synchronous threads to get the items
     requestItemsQ = Queue(len(sample))
@@ -138,12 +141,14 @@ def getItems(module):
 
     # this function will run in each thread, emptying the queue and calling getItem
     def itemsProcess():
-        item = requestItemsQ.get()
-        items.append(getItem(module, item))
-        requestItemsQ.task_done()
+        while True:
+            item = requestItemsQ.get()
+            items.append(getItem(module, item))
+            requestItemsQ.task_done()
+            print "{}% of {}s complete".format(int((float(len(items)) / float(len(sample)))*100) , itemkey)
 
     # Twenty seems like a reasonable number of threads
-    numberofthreads = min(20,len(sample))
+    numberofthreads = min(40,len(sample))
     for i in range(numberofthreads):
         t = threading.Thread(target=itemsProcess)
         t.daemon = True
@@ -153,17 +158,11 @@ def getItems(module):
     requestItemsQ.join()
 
     #let the user kneo whats going on and return the module
-    print "loaded module {}".format(itemkey)
-    return {
-        "@id":"{}/{}".format(root_url,module['itemkey']),
-        "items":items,
-        "description":module['description']
-    }
+    return items
 
 #a routine for turning ARK api into a prop name and adding it to our vocab
 def cleanPropName(name):
-    name.replace("/","%3A").replace(":","%2F").lower()
-    return name
+    return name.replace("/","_").replace(":"," to ").lower()
 
 def getAttributeType(attributetype):
     return getProp(attributetype)
@@ -176,8 +175,8 @@ def getProp(uri):
         urijson = getJson("{}/json".format(uri), ark_cookies)
         for item in urijson[urijson.keys()[0]]:
             if u'http://purl.org/dc/terms/title' in item.keys():
-                props[uri] = item[u'http://purl.org/dc/terms/title']['value']
-                return cleanPropName(props[uri])
+                props[uri] = cleanPropName(item[u'http://purl.org/dc/terms/title']['value'])
+                return props[uri]
 
 #spans are handled slightly differently as they go in both directions
 def getSpanLabel(spanlabel):
@@ -286,7 +285,7 @@ def resXmiField(item, field):
 def resAttrField(item, field):
     
     rawdata = resFrag(item, field)
-        
+    
     data = rawdata[item[item['itemkey']]][0]
     
     fieldid = field['field_id'].replace('conf_field_','')
@@ -328,14 +327,16 @@ def resAttrField(item, field):
     return returndata
 
 def resModtypeField(item, field):
-    fieldid = field['field_id'].replace('conf_field_','')
-    typeuri = "{}/concept/{}".format(root_url, fieldid)
-    
-    props[typeuri] = fieldid
-    
-    modtype = '{}type'.format(item['itemkey'][0:3])
-        
-    return [{fieldid: item[modtype]}]
+    #the modtype is already in the object
+    return []
+    # fieldid = field['field_id'].replace('conf_field_','')
+#     typeuri = "{}/concept/{}".format(root_url, fieldid)
+#
+#     props[typeuri] = fieldid
+#
+#     modtype = '{}type'.format(item['itemkey'][0:3])
+#
+#     return [{fieldid: item[modtype]}]
 
 def resFileField(item, field):
     
@@ -541,7 +542,8 @@ def process():
     global data
     
     module = requestQ.get()
-    data[module['itemkey']]=getItems(module)
+    #fill the data object a lists of the items in that module
+    data[module['itemkey'][:3]]=getItems(module)
     requestQ.task_done()
 
 #set up a thread for each module
@@ -557,12 +559,14 @@ sys.stdout.flush()
 
 #flip the props, so the IRI's become the values and the propnames the keys
 context = {v: k for k, v in props.iteritems()}
+
+#add the module keys to the context
+for module in modules.keys():
+    modkey =module[:3] 
+    context[modkey] = "{}/module/{}".format(root_url, modkey)
+
 #this is the context
 data["@context"] = context
-
-#write it out to some files
-with open("output/terms.json", "w+") as write_file:
-    write_file.write(json.dumps(context, indent=2))
 
 with open("output/data.json", "w+") as write_file:
     write_file.write(json.dumps(data, indent=2))
