@@ -25,10 +25,12 @@ def getJson(url, cookie = False, values = False, username=False, password=False)
             r = requests.post(url, data=values)
         else:
             r = requests.get(url)
-    except requests.ConnectionError:
-        time.sleep(5)
+    except requests.ConnectionError as r:
+        sleepsec = random.random()*10
+        print "Connection Error, retrying in {}s".format(round(sleepsec,2))
+        sys.stdout.flush()
+        time.sleep(sleepsec)
         return getJson(url, cookie, values)
-    
     try:
         return r.json()
     except ValueError, e:
@@ -36,7 +38,7 @@ def getJson(url, cookie = False, values = False, username=False, password=False)
         try:
             return json.loads(r.text.split("<pre></pre>",1)[1])
         except IndexError, e:
-            time.sleep(5)
+            time.sleep(1)
             print "got: {}".format(r.text)
             return getJson(url, cookie, values)
     return False
@@ -77,7 +79,6 @@ def getItem(module,item):
     #loop the modules' available fields
     for fieldidx in module['fields']:
         
-        
         field = module['fields'][fieldidx]
         
         #different classtypes need handled differently as per resfieldfunction 
@@ -101,7 +102,6 @@ def getItem(module,item):
                             item[fieldid].append( data[fieldid] )
                         except:
                             item[fieldid] = [ item[fieldid], data[fieldid] ]
-                    
                 except:
                     item[fieldid] = data[fieldid]
             else:
@@ -147,17 +147,18 @@ def getItems(module):
             requestItemsQ.task_done()
             print "{}% of {}s complete".format(int((float(len(items)) / float(len(sample)))*100) , itemkey)
 
-    # Twenty seems like a reasonable number of threads
-    numberofthreads = min(40,len(sample))
+    # Fifteen seems like a reasonable number of threads
+    numberofthreads = min(15,len(sample))
     for i in range(numberofthreads):
         t = threading.Thread(target=itemsProcess)
         t.daemon = True
         t.start()
+        time.sleep(0.5)
 
     #rejoin the Queue
     requestItemsQ.join()
 
-    #let the user kneo whats going on and return the module
+    #let the user know whats going on and return the module
     return items
 
 #a routine for turning ARK api into a prop name and adding it to our vocab
@@ -551,6 +552,7 @@ for i in range(x):
     t = threading.Thread(target=process)
     t.daemon = True
     t.start()
+    time.sleep(1/float(x))
 
 #at the end of the queue let the user know whats going on
 requestQ.join()
