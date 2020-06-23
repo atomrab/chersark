@@ -71,7 +71,6 @@ def getItem(module,item):
     #set up the item - @id and @type are json LD things
     item['itemkey'] = module['itemkey']
     item["@id"]="{}/{}/{}".format(root_url, item['itemkey'], item[item['itemkey']])
-    item["@type"]="{}/{}".format(root_url, item['itemkey'])
     
     #empty list for properties
     fields = []
@@ -97,7 +96,7 @@ def getItem(module,item):
             fieldid=data.keys()[0]
             if fieldid in item.keys():
                 try:
-                    if field[fieldid] not in item[fieldid]:
+                    if data[fieldid] not in item[fieldid]:
                         try:
                             item[fieldid].append( data[fieldid] )
                         except:
@@ -188,9 +187,10 @@ def getSpanLabel(spanlabel):
         spanlabeljson = getJson("{}/json".format(spanlabel), ark_cookies)
         for item in spanlabeljson[spanlabel]:
                 try:
-                    spanlabels[spanlabel] = item[u'http://purl.org/dc/terms/title']['value']
+                    spanlabels[spanlabel] = item[u'http://purl.org/dc/terms/title']['value'].lower()
                 except KeyError:
                     continue
+        props[spanlabel] = spanlabels[spanlabel]
         return spanlabels[spanlabel]
         
 #functions used by the dataclass specific functions
