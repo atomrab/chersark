@@ -1,0 +1,1154 @@
+{
+  "@context" : {
+    "inScheme" : "http://www.w3.org/2004/02/skos/core#inScheme",
+    "closeMatch" : "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "exactMatch" : "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "label" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#label",
+      "@container" : "@language"
+    }
+  },
+  "@set" : [
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272",
+      "@type" : "xs:string",
+      "prefLabel" : "1 to 50",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/interp",
+      "@type" : "xs:string",
+      "prefLabel" : "interpretation",
+      "label" : [
+        {
+          "en" : "Interpretationen"
+        },
+        {
+          "ru" : "Толкованиеru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/photographedon",
+      "@type" : "xs:date",
+      "prefLabel" : "date photographed",
+      "label" : [
+        {
+          "en" : "Date Photographeden"
+        },
+        {
+          "ru" : "Дата съемкиru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/324",
+      "exactMatch" : "http://nomisma.org/id/cherronesus",
+      "label" : [],
+      "closeMatch" : "https://pleiades.stoa.org/places/226564",
+      "inScheme" : "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint",
+      "@type" : "xs:string",
+      "prefLabel" : "cherson"
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/comments",
+      "@type" : "xs:string",
+      "prefLabel" : "comments",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/1/1",
+      "@type" : "xs:uri",
+      "prefLabel" : "cuts",
+      "label" : [
+        {
+          "en" : "Cutsen"
+        },
+        {
+          "fr" : "Le Cuttez Vousfr"
+        },
+        {
+          "ru" : "Разрезан (чем-то)ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/1/2",
+      "@type" : "xs:uri",
+      "prefLabel" : "cut by",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett",
+      "@type" : "xs:string",
+      "prefLabel" : "rollett and chiu (1994)",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator",
+      "@type" : "xs:uri",
+      "prefLabel" : "excavator",
+      "label" : [
+        {
+          "en" : "Excavatoren"
+        },
+        {
+          "ru" : "Находка сделана (кем..)ru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/False",
+      "@type" : "xs:string",
+      "prefLabel" : "!secure date",
+      "label" : [
+        {
+          "en" : "Secure Dateen"
+        },
+        {
+          "ru" : "Точная дата?ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/13c",
+      "@type" : "xs:string",
+      "prefLabel" : "13c",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sheepgoat",
+      "@type" : "xs:string",
+      "prefLabel" : "sheep_goat",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material",
+      "@type" : "xs:string",
+      "prefLabel" : "material",
+      "label" : [
+        {
+          "en" : "Materialen"
+        },
+        {
+          "ru" : "Материалru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/oldsamplecode",
+      "@type" : "xs:string",
+      "prefLabel" : "old sample code",
+      "label" : [
+        {
+          "en" : "Old Sample Codeen"
+        },
+        {
+          "ru" : "Старый номер пробыru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp2",
+      "@type" : "xs:string",
+      "prefLabel" : "dp2_p2",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/old_context_code",
+      "@type" : "xs:string",
+      "prefLabel" : "old context code",
+      "label" : [
+        {
+          "en" : "Old Context Codeen"
+        },
+        {
+          "ru" : "Старый номер контекстаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant",
+      "@type" : "xs:string",
+      "prefLabel" : "grant age",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/weight",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/weight",
+      "@type" : "xs:decimal",
+      "prefLabel" : "weight (g)",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523",
+      "@type" : "xs:string",
+      "prefLabel" : "skull",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/authority",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/issuing",
+      "@type" : "xs:string",
+      "prefLabel" : "issuing authority",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/collectionnum",
+      "@type" : "xs:string",
+      "prefLabel" : "collection #",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face",
+      "@type" : "xs:string",
+      "prefLabel" : "facing",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13",
+      "@type" : "xs:string",
+      "prefLabel" : "bad",
+      "label" : [
+        {
+          "en" : "Baden"
+        },
+        {
+          "ru" : "Плохойru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269",
+      "@type" : "xs:string",
+      "prefLabel" : "mapped",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side",
+      "@type" : "xs:string",
+      "prefLabel" : "side",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext",
+      "@type" : "xs:string",
+      "prefLabel" : "publication text",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/sketches",
+      "@type" : "xs:uri",
+      "prefLabel" : "sketches",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/reference_work",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/reference",
+      "@type" : "xs:string",
+      "prefLabel" : "reference",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/recording_sheets",
+      "@type" : "xs:uri",
+      "prefLabel" : "recording sheets",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex",
+      "@type" : "xs:string",
+      "prefLabel" : "sex",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/initials",
+      "@type" : "xs:string",
+      "prefLabel" : "initals",
+      "label" : [
+        {
+          "en" : "Initalsen"
+        },
+        {
+          "ru" : "Подписьru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525",
+      "@type" : "xs:string",
+      "prefLabel" : "long bones",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale",
+      "@type" : "xs:string",
+      "prefLabel" : "scale",
+      "label" : [
+        {
+          "en" : "Scaleen"
+        },
+        {
+          "en" : "Scaleen"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/ceramic_total",
+      "@type" : "xs:decimal",
+      "prefLabel" : "total of ceramics",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/261",
+      "@type" : "xs:string",
+      "prefLabel" : "artificial",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/fish_count",
+      "@type" : "xs:decimal",
+      "prefLabel" : "fish count",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28",
+      "@type" : "xs:string",
+      "prefLabel" : "closed",
+      "label" : [
+        {
+          "en" : "Closeden"
+        },
+        {
+          "ru" : "Закрыто?ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/halstead",
+      "@type" : "xs:string",
+      "prefLabel" : "halstead age",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271",
+      "@type" : "xs:string",
+      "prefLabel" : "digitized",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/dna_analysis",
+      "@type" : "xs:string",
+      "prefLabel" : "dna_strontium",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/20",
+      "@type" : "xs:string",
+      "prefLabel" : "undated",
+      "label" : [
+        {
+          "en" : "Undateden"
+        },
+        {
+          "ru" : "недатированныйru"
+        }
+      ]
+    },
+    {
+      "exactMatch" : "http://nomisma.org/ontology#Denomination",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/denomination",
+      "@type" : "xs:string",
+      "prefLabel" : "denomination",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/319",
+      "@type" : "xs:string",
+      "prefLabel" : "courtyard",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/images",
+      "@type" : "xs:uri",
+      "prefLabel" : "image(s)",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype",
+      "@type" : "xs:string",
+      "prefLabel" : "findtype",
+      "label" : [
+        {
+          "en" : "Findtypeen"
+        },
+        {
+          "ru" : "Тип находкиru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour",
+      "@type" : "xs:string",
+      "prefLabel" : "munsell colour",
+      "label" : [
+        {
+          "en" : "Munsell Colouren"
+        },
+        {
+          "ru" : "Цвет по шкале Манселлru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp3",
+      "@type" : "xs:string",
+      "prefLabel" : "dp3_p3",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype",
+      "@type" : "xs:string",
+      "prefLabel" : "formation type",
+      "label" : [
+        {
+          "en" : "Formation Typeen"
+        },
+        {
+          "ru" : "Тип образованияru"
+        }
+      ]
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/reverse",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/reverse",
+      "@type" : "xs:string",
+      "prefLabel" : "reverse",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer",
+      "@type" : "xs:uri",
+      "prefLabel" : "photographed by",
+      "label" : [
+        {
+          "en" : "Photographed Byen"
+        },
+        {
+          "ru" : "Фотографru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/length",
+      "@type" : "xs:decimal",
+      "prefLabel" : "length",
+      "label" : [
+        {
+          "en" : "Lengthen"
+        },
+        {
+          "ru" : "Длиннаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/birds_count",
+      "@type" : "xs:decimal",
+      "prefLabel" : "birds count",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/desc_brief",
+      "@type" : "xs:string",
+      "prefLabel" : "definition",
+      "label" : [
+        {
+          "en" : "Definitionen"
+        },
+        {
+          "ru" : "Краткое описаниеru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14z",
+      "@type" : "xs:string",
+      "prefLabel" : "c14 (z)",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter",
+      "@type" : "xs:decimal",
+      "prefLabel" : "diameter",
+      "label" : [
+        {
+          "en" : "Diameteren"
+        },
+        {
+          "ru" : "Диаметрru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/15",
+      "@type" : "xs:string",
+      "prefLabel" : "very good",
+      "label" : [
+        {
+          "en" : "Very Gooden"
+        },
+        {
+          "ru" : "Очень хорошийru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period",
+      "@type" : "xs:string",
+      "prefLabel" : "period",
+      "label" : [
+        {
+          "en" : "Perioden"
+        },
+        {
+          "ru" : "Периодru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation",
+      "@type" : "xs:string",
+      "prefLabel" : "preservation",
+      "label" : [
+        {
+          "en" : "Coordinate systemen"
+        },
+        {
+          "en" : "Preservationen"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/height",
+      "@type" : "xs:decimal",
+      "prefLabel" : "height",
+      "label" : [
+        {
+          "en" : "Heighten"
+        },
+        {
+          "ru" : "Высотаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/dateexcavated",
+      "@type" : "xs:date",
+      "prefLabel" : "date excavated",
+      "label" : [
+        {
+          "en" : "Date Excavateden"
+        },
+        {
+          "ru" : "Дата проведения раскопокru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/total",
+      "@type" : "xs:decimal",
+      "prefLabel" : "total",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear",
+      "@type" : "xs:string",
+      "prefLabel" : "microwear",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/diameter",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/coin_diameter",
+      "@type" : "xs:decimal",
+      "prefLabel" : "diameter (measured by coin specialist)",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype",
+      "@type" : "xs:string",
+      "prefLabel" : "botany type",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area",
+      "@type" : "xs:string",
+      "prefLabel" : "area",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/datingelem",
+      "@type" : "xs:string",
+      "prefLabel" : "dating elements",
+      "label" : [
+        {
+          "en" : "Dating Elementsen"
+        },
+        {
+          "ru" : "Датирующие элементыru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/24",
+      "exactMatch" : "http://n2t.net/ark:/99152/p0b6j5mtpfd",
+      "label" : [
+        {
+          "en" : "Early Byzantine (5th-7th century)en"
+        },
+        {
+          "ru" : "Ранневизантийский (V - VII век)ru"
+        }
+      ],
+      "inScheme" : "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period",
+      "@type" : "xs:string",
+      "prefLabel" : "early byzantine (5th-7th century)"
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/intact",
+      "@type" : "xs:string",
+      "prefLabel" : "intact?",
+      "label" : [
+        {
+          "en" : "Intact?en"
+        },
+        {
+          "ru" : "Целый?ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/width",
+      "@type" : "xs:decimal",
+      "prefLabel" : "width",
+      "label" : [
+        {
+          "en" : "Widthen"
+        },
+        {
+          "ru" : "Ширинаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m1",
+      "@type" : "xs:string",
+      "prefLabel" : "m1",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/observations",
+      "@type" : "xs:string",
+      "prefLabel" : "observations",
+      "label" : [
+        {
+          "en" : "Observationsen"
+        },
+        {
+          "ru" : "Наблюденияru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3",
+      "@type" : "xs:string",
+      "prefLabel" : "m3",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277",
+      "@type" : "xs:string",
+      "prefLabel" : "geo-referenced",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sheepgoat",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/411",
+      "@type" : "xs:string",
+      "prefLabel" : "capra",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n",
+      "@type" : "xs:string",
+      "prefLabel" : "15n",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/faunal_count",
+      "@type" : "xs:decimal",
+      "prefLabel" : "faunal count",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/284",
+      "@type" : "xs:string",
+      "prefLabel" : "north",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat",
+      "@type" : "xs:string",
+      "prefLabel" : "formation (natural)",
+      "label" : [
+        {
+          "en" : "Findtypeen"
+        },
+        {
+          "en" : "Formation (Natural)en"
+        },
+        {
+          "ru" : "Процесс образования (естественный)ru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276",
+      "@type" : "xs:string",
+      "prefLabel" : "gcps",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29",
+      "@type" : "xs:string",
+      "prefLabel" : "completed",
+      "label" : [
+        {
+          "en" : "Completeden"
+        },
+        {
+          "ru" : "Завершено?ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m2",
+      "@type" : "xs:string",
+      "prefLabel" : "m2",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c_n",
+      "@type" : "xs:string",
+      "prefLabel" : "c_n",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payne",
+      "@type" : "xs:string",
+      "prefLabel" : "payne",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/firstname",
+      "@type" : "xs:string",
+      "prefLabel" : "first name",
+      "label" : [
+        {
+          "en" : "First Nameen"
+        },
+        {
+          "ru" : "Имяru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/8",
+      "@type" : "xs:string",
+      "prefLabel" : "construction",
+      "label" : [
+        {
+          "en" : "Constructionen"
+        },
+        {
+          "ru" : "Строениеru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp4",
+      "@type" : "xs:string",
+      "prefLabel" : "dp4_p4",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby",
+      "@type" : "xs:uri",
+      "prefLabel" : "illustrator",
+      "label" : [
+        {
+          "en" : "Illustratoren"
+        },
+        {
+          "ru" : "Иллюстраторru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room",
+      "@type" : "xs:string",
+      "prefLabel" : "room",
+      "label" : [
+        {
+          "en" : "Roomen"
+        },
+        {
+          "en" : "21aen"
+        },
+        {
+          "en" : "21ben"
+        },
+        {
+          "en" : "22en"
+        },
+        {
+          "en" : "24en"
+        },
+        {
+          "en" : "Roomen"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14az",
+      "@type" : "xs:string",
+      "prefLabel" : "c14 (az)",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527",
+      "@type" : "xs:string",
+      "prefLabel" : "f",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel",
+      "@type" : "xs:string",
+      "prefLabel" : "stratigraphic reliability",
+      "label" : [
+        {
+          "en" : "Stratigraphic Reliabilityen"
+        },
+        {
+          "ru" : "Стратиграфическая надежностьru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14k",
+      "@type" : "xs:string",
+      "prefLabel" : "c14 (k)",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414",
+      "@type" : "xs:string",
+      "prefLabel" : "r",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/catalog_cd",
+      "@type" : "xs:string",
+      "prefLabel" : "catalog code",
+      "label" : [
+        {
+          "en" : "Catalog Codeen"
+        },
+        {
+          "ru" : "Номер по каталогу растровых изображенийru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136",
+      "@type" : "xs:string",
+      "prefLabel" : "metallurgical",
+      "label" : [
+        {
+          "en" : "Metallurgicalen"
+        },
+        {
+          "ru" : "Металлургическийru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/short_desc",
+      "@type" : "xs:string",
+      "prefLabel" : "short description",
+      "label" : [
+        {
+          "en" : "Short Descriptionen"
+        },
+        {
+          "ru" : "Краткое описаниеru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/pdfs",
+      "@type" : "xs:uri",
+      "prefLabel" : "pdf(s)",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/263",
+      "@type" : "xs:string",
+      "prefLabel" : "bad reliability",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275",
+      "@type" : "xs:string",
+      "prefLabel" : "scanned",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payneage",
+      "@type" : "xs:string",
+      "prefLabel" : "payne age",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint",
+      "@type" : "xs:string",
+      "prefLabel" : "mint",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/298",
+      "@type" : "xs:string",
+      "prefLabel" : "n_a",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/2",
+      "@type" : "xs:uri",
+      "prefLabel" : "filled by",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/axis",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/axis",
+      "@type" : "xs:decimal",
+      "prefLabel" : "axis",
+      "label" : []
+    },
+    {
+      "exactMatch" : "http://nomisma.org/id/obverse",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/obverse",
+      "@type" : "xs:string",
+      "prefLabel" : "obverse",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped",
+      "@type" : "xs:string",
+      "prefLabel" : "mapped?",
+      "label" : [
+        {
+          "en" : "Mapped?en"
+        },
+        {
+          "ru" : "Нанесен на карту?ru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142",
+      "@type" : "xs:string",
+      "prefLabel" : "bronze",
+      "label" : [
+        {
+          "en" : "Bronzeen"
+        },
+        {
+          "ru" : "Бронзаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description",
+      "@type" : "xs:string",
+      "prefLabel" : "description",
+      "label" : [
+        {
+          "en" : "Descriptionen"
+        },
+        {
+          "ru" : "Описаниеru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint",
+      "@type" : "xs:string",
+      "prefLabel" : "formation (intentional)",
+      "label" : [
+        {
+          "en" : "Formation (Intentional)en"
+        },
+        {
+          "ru" : "Процесс образования (преднамеренный)ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags",
+      "@type" : "xs:string",
+      "prefLabel" : "remains present",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase",
+      "@type" : "xs:string",
+      "prefLabel" : "phase",
+      "label" : [
+        {
+          "en" : "Phaseen"
+        },
+        {
+          "ru" : "Фазаru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws",
+      "@type" : "xs:string",
+      "prefLabel" : "mws_stage",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/drawnon",
+      "@type" : "xs:date",
+      "prefLabel" : "drawn on",
+      "label" : [
+        {
+          "en" : "Drawn Onen"
+        },
+        {
+          "ru" : "Рисунок выполнен (дата)ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/interpretedon",
+      "@type" : "xs:date",
+      "prefLabel" : "interpreted on",
+      "label" : [
+        {
+          "en" : "Interpreted Onen"
+        },
+        {
+          "ru" : "Толкование дано (дата)ru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@type" : "xs:string",
+      "prefLabel" : "record status flag",
+      "label" : [
+        {
+          "en" : "Record Status Flagen"
+        },
+        {
+          "ru" : "флажок Состояния записиru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/lastname",
+      "@type" : "xs:string",
+      "prefLabel" : "last name",
+      "label" : [
+        {
+          "en" : "Last Nameen"
+        },
+        {
+          "ru" : "Фамилияru"
+        }
+      ]
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age",
+      "@type" : "xs:string",
+      "prefLabel" : "age",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth",
+      "@type" : "xs:string",
+      "prefLabel" : "teeth",
+      "label" : []
+    },
+    {
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype",
+      "@type" : "xs:string",
+      "prefLabel" : "sample type",
+      "label" : [
+        {
+          "en" : "Sample Typeen"
+        },
+        {
+          "ru" : "Тип пробыru"
+        }
+      ]
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/259",
+      "@type" : "xs:string",
+      "prefLabel" : "intentional",
+      "label" : []
+    },
+    {
+      "inScheme" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag",
+      "@id" : "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/False",
+      "@type" : "xs:string",
+      "prefLabel" : "!sketch",
+      "label" : [
+        {
+          "en" : "Sketchen"
+        },
+        {
+          "ru" : "Наличие рисунка?ru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+"insert into cor_tbl_span(id, spantype, itemkey,itemvalue, beg,end,cre_by,cre_on) values ",,,,,,,,,
+"(",2610,158,"Pumice","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011250",81,"2020-06-03T20:26:26.486Z","),"
+"(",2611,159,"Ivory","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011857",81,"2020-06-03T20:26:54.446Z","),"
+"(",2612,323,"Glass","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300010797",81,"2020-06-03T20:27:34.657Z","),"
+"(",2613,374,"Marble","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011443",81,"2020-06-03T20:28:06.919Z","),"
+"(",2614,377,"Bone","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011798",81,"2020-06-03T20:28:41.740Z","),"
+"(",2615,152,"Wood","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011914",81,"2020-06-03T20:23:26.339Z","),"
+"(",2616,153,"Lead","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011022",81,"2020-06-03T20:23:54.201Z","),"
+"(",2617,154,"Flint","en","http://www.w3.org/2004/02/skos/core#closeMatch","http://vocab.getty.edu/aat/300011141",81,"2020-06-03T20:24:32.039Z","),"
+"(",2618,155,"Horn","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011826",81,"2020-06-03T20:25:02.603Z","),"
+"(",2619,156,"Copper","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011020",81,"2020-06-03T20:25:27.670Z","),"
+"(",2620,142,"Bronze","en","http://www.w3.org/2004/02/skos/core#closeMatch","http://vocab.getty.edu/aat/300010942",81,"2020-06-03T20:16:54.964Z","),"
+"(",2621,144,"Carbon","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300264720",81,"2020-06-03T20:17:23.116Z","),"
+"(",2622,145,"Clay","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300010439",81,"2020-06-03T20:18:01.603Z","),"
+"(",2623,146,"Stone","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011176",81,"2020-06-03T20:19:07.996Z","),"
+"(",2624,147,"Ceramic","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300235507",81,"2020-06-03T20:19:44.081Z","),"
+"(",2625,148,"Semi-precious Stone","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011175",81,"2020-06-03T20:20:23.568Z","),"
+"(",2626,149,"Gold","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011021",81,"2020-06-03T20:20:55.338Z","),"
+"(",2627,150,"Mineral","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011068",81,"2020-06-03T20:21:29.783Z","),"
+"(",2628,151,"Pasta Vitrea","en","http://www.w3.org/2004/02/skos/core#closeMatch","http://vocab.getty.edu/aat/300263723",81,"2020-06-03T20:22:36.912Z","),"
+"(",2629,141,"Iron","en","http://www.w3.org/2004/02/skos/core#exactMatch","http://vocab.getty.edu/aat/300011002",81,"2020-06-03T20:16:19.332Z","),"
+"insert into cor_tbl_attribute(itemvalue,boolean, itemkey,attribute, cre_by, cre_on) values",,,,,,,,,
+"(",2610,1,"cor_tbl_span",1121,81,"2020-06-03T20:26:26.486Z","),",,
+"(",2611,1,"cor_tbl_span",1121,81,"2020-06-03T20:26:54.446Z","),",,
+"(",2612,1,"cor_tbl_span",1121,81,"2020-06-03T20:27:34.657Z","),",,
+"(",2613,1,"cor_tbl_span",1121,81,"2020-06-03T20:28:06.919Z","),",,
+"(",2614,1,"cor_tbl_span",1121,81,"2020-06-03T20:28:41.740Z","),",,
+"(",2615,1,"cor_tbl_span",1121,81,"2020-06-03T20:23:26.339Z","),",,
+"(",2616,1,"cor_tbl_span",1121,81,"2020-06-03T20:23:54.201Z","),",,
+"(",2617,1,"cor_tbl_span",1120,81,"2020-06-03T20:24:32.039Z","),",,
+"(",2618,1,"cor_tbl_span",1121,81,"2020-06-03T20:25:02.603Z","),",,
+"(",2619,1,"cor_tbl_span",1121,81,"2020-06-03T20:25:27.670Z","),",,
+"(",2620,1,"cor_tbl_span",1120,81,"2020-06-03T20:16:54.964Z","),",,
+"(",2621,1,"cor_tbl_span",1121,81,"2020-06-03T20:17:23.116Z","),",,
+"(",2622,1,"cor_tbl_span",1121,81,"2020-06-03T20:18:01.603Z","),",,
+"(",2623,1,"cor_tbl_span",1121,81,"2020-06-03T20:19:07.996Z","),",,
+"(",2624,1,"cor_tbl_span",1121,81,"2020-06-03T20:19:44.081Z","),",,
+"(",2625,1,"cor_tbl_span",1121,81,"2020-06-03T20:20:23.568Z","),",,
+"(",2626,1,"cor_tbl_span",1121,81,"2020-06-03T20:20:55.338Z","),",,
+"(",2627,1,"cor_tbl_span",1121,81,"2020-06-03T20:21:29.783Z","),",,
+"(",2628,1,"cor_tbl_span",1120,81,"2020-06-03T20:22:36.912Z","),",,
+"(",2629,1,"cor_tbl_span",1121,81,"2020-06-03T20:16:19.332Z","),",,

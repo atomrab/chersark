@@ -124,8 +124,8 @@ def getItems(module):
         # if (itemkey == "cxt_cd") :
 #             sample.append({"itemkey":"cxt_cd","cxt_cd":"CH05SR_434"})
 #
-        if (itemkey == "smp_cd") :
-            sample.append({"smp_cd":"CH04SR_2","itemkey":"smp_cd"})
+        # if (itemkey == "smp_cd") :
+   #          sample.append({"smp_cd":"CH04SR_2","itemkey":"smp_cd"})
     else:
         sample = {}
         
@@ -242,7 +242,7 @@ def getAttribute(attribute, boolean):
         
         for item in attributejson[attributejson.keys()[0]]:
             if u'http://purl.org/dc/terms/title' in item.keys():
-                attrvalue = item[u'http://purl.org/dc/terms/title']['value']
+                attrvalue = item[u'http://purl.org/dc/terms/title']['value'].lower()
             elif u'http://www.w3.org/2004/02/skos/core#inScheme' in item.keys():
                 attrid = getAttributeType(item[u'http://www.w3.org/2004/02/skos/core#inScheme']['value'])
             else:
@@ -568,17 +568,52 @@ with open("output/rawcontext.json", "w+") as write_file:
 tot = len(context)
 
 i=0
+ont = []
 
 for prop in context:
+    irisplit = context[prop].split("/")
+    if irisplit[-1] == "True":
+        if "{}/False".format("/".join(irisplit[:-1])) not in props:
+            context[prop] = "/".join(irisplit[:-1])
+    ontobj={
+        "@id":context[prop],
+        "prefLabel":prop
+    }
     i=i+1
     print "{}% complete".format(round((float(i)/float(tot))*100,2))
     conceptJson = getJson("{}/json".format(context[prop]),ark_cookies)
     concepts = conceptJson[conceptJson.keys()[0]]
+    labels = []
     for concept in concepts:
         if u'closeMatch' in concept.keys():
-            context[prop] = concept[u'closeMatch']['value']
+            ontobj[u'closeMatch'] = concept[u'closeMatch']['value']
         if u'exactMatch' in concept.keys():
-            context[prop] = concept[u'exactMatch']['value']
+            ontobj[u'exactMatch'] = concept[u'exactMatch']['value']
+        if u'http://www.w3.org/2004/02/skos/core#inScheme' in concept.keys():
+            ontobj[u'inScheme'] = concept[u'http://www.w3.org/2004/02/skos/core#inScheme']['value']
+        if u'http://www.w3.org/2001/XMLSchema#type' in concept.keys():
+            ontobj[u'@type'] = concept[u'http://www.w3.org/2001/XMLSchema#type']['value']
+        if u'http://www.w3.org/2004/02/skos/core#label' in concept.keys():
+            label = concept[u'http://www.w3.org/2004/02/skos/core#label']
+            labels.append({label["lang"]:label["value"]})
+        if u'http://www.w3.org/2000/01/rdf-schema#label' in concept.keys():
+            label = concept[u'http://www.w3.org/2000/01/rdf-schema#label']
+            labels.append({label["lang"]:label["value"]})
+    ontobj["label"] = labels
+    ont.append(ontobj)
+
+ontology= {
+    "@context": {
+        "label": { "@id": 'http://www.w3.org/2004/02/skos/core#label', "@container": "@language" },
+        "closeMatch" : "http://www.w3.org/2004/02/skos/core#closeMatch",
+        "exactMatch" : "http://www.w3.org/2004/02/skos/core#exactMatch",
+        "inScheme" : "http://www.w3.org/2004/02/skos/core#inScheme"
+    },
+    "@set":ont
+}
+
+with open("output/ontology.json", "w+") as write_file:
+    write_file.write(json.dumps(ontology, indent=2))
 
 #add the module keys to the context
 for module in modules.keys():
