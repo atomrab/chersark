@@ -1,754 +1,942 @@
-dp2_p2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp2
-dp3_p3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp3
-dp4_p4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp4
-grant age,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant
-halstead age,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/halstead
-m1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m1
-m2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m2
-m3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3
-mws_stage,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws
-payne,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payne
-payne age,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payneage
-illustrator,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby
-excavator,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator
-photographed by,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer
-complex 3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/315/True
-stenopos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/316/True
-church,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/317/True
-complex 2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/318/True
-courtyard,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/319/True
-main street,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/320/True
-tomb 3 (courtyard),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/321/True
-tomb 4 (courtyard),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/322/True
-complex 1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/536/True
-gavia arctica,https://eol.org/pages/45508996
-podiceps nigricollis,https://eol.org/pages/45509033
-calidris sp.,https://eol.org/pages/45509221
-columba livia,https://eol.org/pages/45509376
-corvus monedula,https://eol.org/pages/45510000
-corvus cornix,https://eol.org/pages/45510015
-corvus corax,https://eol.org/pages/45510016
-turdus merula,https://eol.org/pages/45510215
-anas sp.,https://eol.org/pages/45510553
-anas platyrhynchos,https://eol.org/pages/45510559
-anas clypeata,https://eol.org/pages/45510567
-aythya ferina,https://eol.org/pages/45510577
-melanitta nigra,https://eol.org/pages/45510595
-clangula hyemalis,https://eol.org/pages/45510598
-bucephala clangula,https://eol.org/pages/45510601
-puffinus puffinus,https://eol.org/pages/45511311
-phalacrocorax carbo,https://eol.org/pages/45511373
-aquila chrysaetos,https://eol.org/pages/45511389
-rufibrenta ruficollis,https://eol.org/pages/45513542
-netta rufina,https://eol.org/pages/45513548
-phalacrocorax aristotelis,https://eol.org/pages/45513571
-otis tarda,https://eol.org/pages/45513576
-columba palumbus,https://eol.org/pages/45513599
-coturnix coturnix,https://eol.org/pages/45513806
-gallus gallus f. domestica,https://eol.org/pages/45513816
-podiceps cristatus,https://eol.org/pages/45513833
-garrulus glandarius,https://eol.org/pages/45515235
-anas strepera,https://eol.org/pages/52231958
-unidentified bird,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1211/True
-trmon or dic rachis internodes,https://eol.org/pages/108051
-trmon or dic spikelet forks,https://eol.org/pages/108051
-setaria glauca,https://eol.org/pages/108098
-galium aparine,https://eol.org/pages/1098038
-triticum dicoccon,https://eol.org/pages/1114086
-bromus arvensis,https://eol.org/pages/1114226
-bromus sterilis,https://eol.org/pages/1114247
-hordeum vulgare,https://eol.org/pages/1114455
-hordeum vulgare var.coeleste,https://eol.org/pages/1114455
-lolium temulentum,https://eol.org/pages/1114469
-panicum miliaceum,https://eol.org/pages/1114498
-setaria viridis,https://eol.org/pages/1114660
-setaria viridis verticillata,https://eol.org/pages/1114661
-setaria italicum,https://eol.org/pages/1114673
-avena sativa,https://eol.org/pages/1114783
-secale cereale,https://eol.org/pages/1115159
-triticum aestivum s.l.,https://eol.org/pages/1115240
-tr aestsl rachis internodes,https://eol.org/pages/1115240
-triticum monococcum,https://eol.org/pages/1115242
-triticum mon spikelet forks,https://eol.org/pages/1115242
-triticum spelta,https://eol.org/pages/1115243
-triticum spelta spikelet forks,https://eol.org/pages/1115243
-echinochloa  crus galli,https://eol.org/pages/1115346
-euphorbia helioscopia,https://eol.org/pages/1144727
-corylus avellana shells,https://eol.org/pages/1147599
-vicia sp,https://eol.org/pages/13463
-prunus cerasus,https://eol.org/pages/242597
-silene sp,https://eol.org/pages/37656
-urtica sp,https://eol.org/pages/38080
-brassica sp.,https://eol.org/pages/38390
-centaurea sp,https://eol.org/pages/39897355
-prunus sp.,https://eol.org/pages/39934521
-unidentified,https://eol.org/pages/42430800
-unidentified leguminosae,https://eol.org/pages/4277
-astragalus sp.,https://eol.org/pages/47113496
-trifolium sp.,https://eol.org/pages/47117019
-malva pusilla,https://eol.org/pages/47124241
-chenopodium album,https://eol.org/pages/47128802
-juglans regia shells,https://eol.org/pages/487229
-sambucusnigra,https://eol.org/pages/488731
-sambucus edulus,https://eol.org/pages/488732
-buglossoides arvense,https://eol.org/pages/489676
-cereal grain fragments,https://eol.org/pages/49307128
-culm remains,https://eol.org/pages/49307128
-vicia faba var minor,https://eol.org/pages/50502932
-olea europaea,https://eol.org/pages/579181
-ballota nigra,https://eol.org/pages/579636
-vitis vinifera,https://eol.org/pages/582304
-convovulus arvensis,https://eol.org/pages/582958
-viola arvensis,https://eol.org/pages/584594
-malva neglecta,https://eol.org/pages/584651
-malva  silvestris,https://eol.org/pages/584656
-rumex acetosella,https://eol.org/pages/585262
-rumex  crispus,https://eol.org/pages/585266
-fallopia convolvulus,https://eol.org/pages/586686
-polygonum convolvulus,https://eol.org/pages/586686
-agrostemma githago,https://eol.org/pages/587250
-fumaria officinalis.,https://eol.org/pages/590512
-ficus carica,https://eol.org/pages/594632
-morus nigra,https://eol.org/pages/596202
-buglossoides officinale,https://eol.org/pages/62204
-rubus  idaeus,https://eol.org/pages/625333
-persica vulgaris,https://eol.org/pages/631649
-lens culinaris,https://eol.org/pages/647510
-pisum sativum,https://eol.org/pages/703192
-vicia ervilia,https://eol.org/pages/703201
-vicia sativa,https://eol.org/pages/703227
-trifolium repens,https://eol.org/pages/703436
-anhusa sp.,https://eol.org/pages/70954
-amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1069/True
-cookware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1070/True
-pithos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1071/True
-storage,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1072/True
-lid,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1073/True
-fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074/True
-mortar (class),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1075/True
-special,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1076/True
-lamp (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1077/True
-terracotta,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1078/True
-waterpipe (class),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1079/True
-tile (class),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1080/True
-brick (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1081/True
-jar (class),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1082/True
-pseudo-kos (?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1000/True
-"lrc, form 1 (?)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1001/True
-unidentified roman amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1002/True
-"light clay, first centuries ad (s-iv, vnukov)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1003/True
-"hellenistic mortar, waster",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1004/True
-closed red-slip form ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1005/True
-light clay (shelov type) ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1006/True
-"class 4 (""gaza"")",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1007/True
-class 22 (zeest-95; lra 3-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1008/True
-syrian (?) glazed ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1009/True
-"adsv, type v (zeest 98)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1010/True
-wheelmade cookware (including frags. of hellenistic cookpots) ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1011/True
-plain red-clay jugs (including hellenistic examples),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1012/True
-syrian,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1013/True
-islamic fritware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1014/True
-"aegean ware (groups 3-4, yakobson)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1015/True
-jugs,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1016/True
-"red clay (zeest 72, 79?)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1017/True
-fine sgraffito group cookware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1018/True
-arsw,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1019/True
-mortar (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1020/True
-red clay (zeest 72),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1021/True
-"light clay (heraklea, sinope)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1022/True
-polychrome white-clay,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1023/True
-unidentified hellenistic or roman amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1024/True
-constantinople white-clay ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1025/True
-anatolian white-clay ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1026/True
-unidentified hellenistic and roman amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1027/True
-unidentified cookware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1028/True
-"glazed white ware ii, hayes",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1029/True
-slip-painted jug,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030/True
-"arsw, form 105",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1031/True
-black gloss (pale and red clay),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1032/True
-"red clay (zeest 72, 76, 80)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1033/True
-hellenistic jugs,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1034/True
-stamped tile,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1035/True
-red-clay with conical foot,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1036/True
-"red-clay (zeest 72, 76)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1037/True
-class 18 (lra 2-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1038/True
-glazed white ware ii (hayes),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1039/True
-"polychrome ware (group 6, yakobson) ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1040/True
-glazed jug,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1041/True
-"lrc, arsw form ?",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1042/True
-gray clay with black gloss,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1043/True
-red-clay glazed ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1044/True
-"arsw, form 32_58",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1045/True
-plain fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046/True
-glazed white ware i (hayes),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1047/True
-"arsw, form 93_97",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1048/True
-unspecified amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1049/True
-light clay (zeest 104-105; shelov types e-f),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1050/True
-black and brown gloss,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1051/True
-red clay (zeest 69),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1052/True
-jug,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1053/True
-jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1054/True
-"red clay (zeest 72), 2nd-3rd c. ad",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1055/True
-plain jug,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1056/True
-lra 1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1057/True
-lra 3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1058/True
-" arsw, form 62 b",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059/True
-"class 43 (gunsenin-ii) (""collared"")",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1060/True
-"champleve ware (group 4, yakobson) ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1061/True
-fine sgraffito group ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1062/True
-strainer,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1063/True
-syrian? (kashin_faience),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064/True
-"lrc, form ?",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1065/True
-chios (capped),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1066/True
-class 33 (35?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067/True
-plain fineware casserole?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1068/True
-"class 2 (""carrot"")",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/826/True
-class 3 (zeest-100),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/827/True
-"adsv, type v",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/828/True
-class 22 (zeest-95; lra 4-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/829/True
-class 24,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/830/True
-class 41,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/831/True
-class 43 (gunsenin-ii),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/832/True
-class 45  (gunsenin-iv),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/833/True
-class 52,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/834/True
-wheelmade cookware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/835/True
-pithos (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/836/True
-closed storage vessel,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/837/True
-lid (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/838/True
-"red clay (zeest - 69, 72, 73)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/839/True
-light clay (zeest 104-105; types \u0435-f-shelov),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/840/True
-sinope,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/841/True
-colchis,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/842/True
-unidentified hellenistic_roman amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/843/True
-"class 1 (""waisted"")",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/844/True
-class 4 (lra 3-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/845/True
-class 12 (lrc 1-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/846/True
-class 18  (lra 2-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/847/True
-class 36,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/848/True
-class 42 (gunsenin-i) ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/849/True
-handmade cookware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/850/True
-plain fineware jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/851/True
-"glazed white ware ii, hayes 1992",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/852/True
-"glazed white ware ii, type 3 (hayes 1992)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/853/True
-"glazed white ware iv (group 9, yakobson)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/854/True
-unidentified glazed fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/855/True
-red-slip,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/856/True
-"lrc, form 2, hayes 1972 ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/857/True
-"lrc, form 3, hayes 1972",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/858/True
-black gloss,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/859/True
-brown gloss,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/860/True
-chersonesos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/861/True
-unidentified amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/862/True
-unidentified plain fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/863/True
-hellenistic or roman plain fineware jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/864/True
-"arsw, form 62 b",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/865/True
-class 48 (gunsenin-iii),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/866/True
-"red clay (zeest - 72, 73, 75)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/867/True
-unidentified early byzantine amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/868/True
-middle byzantine plain fineware jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/869/True
-late byzantine plain fineware jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/870/True
-"zeuxippos ware (groups 1-2, yakobson)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871/True
-"aegean ware (group 3, yakobson)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/872/True
-"slip-painted ware (group 8,  yakobson) ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873/True
-"gww ii, type 2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/874/True
-mortarium,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/875/True
-special vessel,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/876/True
-lamp,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/877/True
-light clay,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/878/True
-heraclea,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/879/True
-rhodes,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/880/True
-unidentified middle byzantine glazed fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/881/True
-terracotta figurine,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/882/True
-unidentified late byzantine glazed fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/883/True
-water pipe,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/884/True
-sgraffito ware (monochrome),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/885/True
-"lrc, form 1, hayes 1972",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/886/True
-"arsw, form 93-97",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/887/True
-tile with stamp,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/888/True
-"lrc, form 10, hayes 1972",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/889/True
-unidentified middle byzantine amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/890/True
-"glazed white ware i, hayes 1992",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/891/True
-"gww ii, type 3, hayes 1992",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892/True
-hellenistic plain fineware jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/893/True
-fine sgraffito ware ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/894/True
-cos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/895/True
-unidentified middle-late byzantine amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/896/True
-"gww ii, type 13-14, hayes 1992",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/897/True
-megarian bowl,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/898/True
-red clay (zeest - 63),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/899/True
-red clay (zeest - 72),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/900/True
-"arsw, form 99 ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/901/True
-brick,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/902/True
-"gww ii, type 13-14",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/903/True
-"gww ii, type 1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/904/True
-"gww ii, type 3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/905/True
-polychrome ware (white clay),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/906/True
-chios,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/907/True
-thasos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/908/True
-knidos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/909/True
-"lrd (""cypriot sigillata""), form 2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/910/True
-knidos (?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/911/True
-kos,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/912/True
-corinth,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913/True
-hellenistic jars,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/914/True
-class 51,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/915/True
-storage jar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/916/True
-fritware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/917/True
-unidentified middle byzantine glazed ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/918/True
-closed storage form,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/919/True
-thasos (?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/920/True
-chios (?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/921/True
-hellenistic jar or bowl,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/922/True
-hellenistic plain fineware jar or bowl,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/923/True
-pan tiles of the 10th-13th c. with stamps,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/924/True
-kalypter of the 8th-10th c. (?) with stamp,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/925/True
-chersonesos (of which one fragment with a stamp),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/926/True
-heraklea,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/927/True
-red clay,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/928/True
-"light clay, first centuries ad ",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/929/True
-class 1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/930/True
-class 2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/931/True
-class 4 (gaza type; lra 3-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/932/True
-"class 12 (""running wave""; lrc 1-riley)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/933/True
-class 18 (with funnel rim; lra 2-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/934/True
-class 22 (zeest-95; lra 10-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/935/True
-"class 24 (""black sea"" with rilled zones)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/936/True
-"class 36 (""black sea"")",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/937/True
-cookpots,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/938/True
-hellenistic casserole,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/939/True
-lid (type)s,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/940/True
-oinochoai,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/941/True
-closed plain form,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/942/True
-open plain forms,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/943/True
-zeuxippos ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/944/True
-group 3 (yakobson) - aegean ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/945/True
-group 6 (yakobson) - polychrome sgraffito ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/946/True
-group 8 (yakobson ) - slip-painted ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947/True
-unidentified waster,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/948/True
-glazed white ware ii ,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/949/True
-incense-burner,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/950/True
-"lrc, form 1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/951/True
-"lrc, form 2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/952/True
-"lrc, form 10 a",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/953/True
-"lrc, lrd, arsw (stems, walls)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/954/True
-red-slip jug,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/955/True
-bowls of 1st-2nd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/956/True
-closed gray-clay forms,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/957/True
-open gray-clay forms,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/958/True
-open black-gloss forms,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/959/True
-closed black-gloss forms,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/960/True
-tiles with stamps,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/961/True
-late roman,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962/True
-zeest 72,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/963/True
-cookware (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964/True
-group 8 (yakobson) - slip-painted ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/965/True
-class 18 (with funnel rim) (lra 2-riley),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/966/True
-unidentified type,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/967/True
-megarian bowls,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/968/True
-"class 36 (""black sea"" ribbed)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/969/True
-incense-burners,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/970/True
-tile (type),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/971/True
-group 3-4 (yakobson) - aegean ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/972/True
-"light clay, first centuries ad (sinope)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/973/True
-fine sgraffito group (?),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974/True
-white-clay jugs,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/975/True
-hellenistic amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/976/True
-kashin pottery - turquoise glazed faience bowl,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/977/True
-plain lids,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/978/True
-unidentified red-clay glazed ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/979/True
-light clay (zeest 104-105; shelov type e-f),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/980/True
-"mortars, bowls",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/981/True
-unidentified white-clay glazed fineware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/982/True
-unidentified 5th-7th c. amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/983/True
-red-clay (e.g. zeest 72),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/984/True
-unidentified white-clay glazed ware,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/985/True
-class 51-52,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/986/True
-unidentified amphora (small fragments),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/987/True
-"chersonesos, stamped",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/988/True
-late roman red-clay,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/989/True
-polychrome,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/990/True
-"lrc, form 3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/991/True
-"lrd, form 2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/992/True
-glazed white ware i,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/993/True
-"zeest 72 (""myrmekeion"" type)",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/994/True
-closed plain form (e.g. flask),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/995/True
-hellenistic_roman amphora,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/996/True
-kashin - turquoise faience,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/997/True
-"lrc, form 10",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/998/True
-class 42 (gunsenin-i) and imitations,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/999/True
-hellenistic (ceramic date), http://n2t.net/ark:/99152/p0b6j5mgvqt
-roman (ceramic date), http://n2t.net/ark:/99152/p0b6j5mh84m
-9th-11th c. ad, http://n2t.net/ark:/99152/p0b6j5mq3ms
-5th-7th c. ad,http://n2t.net/ark:/99152/p0b6j5mtpfd
-12th-13th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1085/True
-2nd-3rd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1086/True
-hellenistic_roman,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1089/True
-3rd-4th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1090/True
-5th-6th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1091/True
-4th-6th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1092/True
-2nd-4th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1093/True
-13th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1094/True
-1st c. bc-2nd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1095/True
-4th-5th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1096/True
-1st-2nd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1097/True
-6th-middle of the 7th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1098/True
-6th-7th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1099/True
-7th-9th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1100/True
-9th-10th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1101/True
-9th-13th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1102/True
-12th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1103/True
-late 10th-11th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1104/True
-5th-first quarter 7th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1105/True
-2nd-1st c. bc,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1106/True
-2nd c. bc,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1107/True
-11th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1108/True
-10th or 13th c. ad?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1109/True
-9th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1110/True
-1st c. bc -2nd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1111/True
-3rd-5th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1112/True
-8th-10th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1113/True
-1st-3rd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1114/True
-second half of 6th-first half of 7th c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1115/True
-early medieval,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1116/True
-1st c. bc-3rd c. ad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1117/True
-9th c. ad?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1118/True
-comments,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/comments
-area,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area
-birds,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds
-botany type,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype
-ceramic class,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class
-ceramic date,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date
-ceramic type,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type
-facing,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face
-findtype,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype
-fish,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish
-formation (intentional),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint
-formation (natural),http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat
-formation type,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype
-intact?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/intact
-mapped?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped
-material,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material
-microwear,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear
-munsell colour,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour
-period,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period
-phase,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase
-record status flag,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag
-room,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room
-sample type,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype
-scale,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale
-side,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side
-remains present,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags
-sex,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex
-stratigraphic reliability,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel
-definition,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/desc_brief
-description,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description
-short description,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/short_desc
-age,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age
-preservation,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_preservation
-teeth,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth
-dating elements,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/datingelem
-observations,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/observations
-publication text,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext
-rollett and chiu (1994),http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett
-dna_strontium,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/526/True
-!mapped,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/False
-mapped,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/True
-!sketch,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/False
-sketch,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/True
-!digitized,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/False
-digitized,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/True
-!scanned,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/False
-scanned,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/True
-!gcps,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/False
-gcps,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/True
-!geo-referenced,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/False
-geo-referenced,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/True
-date excavated,http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/dateexcavated
-drawn on,http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/drawnon
-interpreted on,http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/interpretedon
-date photographed,http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/photographedon
-northwest,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/278/True
-northeast,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/279/True
-southwest,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/280/True
-west,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/281/True
-southeast,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/282/True
-south,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/283/True
-north,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/284/True
-east,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/285/True
-last name,http://chema.org/familyName
-tile,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/115/True
-glass,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/116/True
-pot,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/117/True
-none,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/118/True
-metal,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/119/True
-bone,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/120/True
-rubble stone,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/122/True
-charcoal,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/124/True
-plaster,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/126/True
-chert,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127/True
-marble,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/374/True
-cyprinidae,https://eol.org/pages/3198
-raja clavata,https://eol.org/pages/46560547
-alosa sp.,https://eol.org/pages/46562368
-scorpaena sp.,https://eol.org/pages/46567865
-scophthalmus rhombus,https://eol.org/pages/46570246
-liza sp.,https://eol.org/pages/46571485
-gobius cobitis,https://eol.org/pages/46575227
-sarda sarda,https://eol.org/pages/46577302
-sander lucioperca,https://eol.org/pages/46580134
-silurus glanis,https://eol.org/pages/46581838
-esox lucius,https://eol.org/pages/46582152
-labridae,https://eol.org/pages/5305
-acipenseridae,https://eol.org/pages/8302
-unidentified fish,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1225/True
-intentional,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/259/True
-casual,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/260/True
-artificial,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/261/True
-natural,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/262/True
-filling,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/10/True
-dumping,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/11/True
-erosion,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3/True
-accumulation,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/4/True
-destruction,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/5/True
-metalworking,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/6/True
-root,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/7/True
-construction,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/8/True
-burial,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/9/True
-first name,http://schema.org/givenName
-catalog code,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/catalog_cd
-collection #,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/collectionnum
-initals,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/initials
-old context code,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/old_context_code
-old sample code,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/oldsamplecode
-iron,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/141/True
-bronze,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142/True
-iron_bronze,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/143/True
-carbon,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/144/True
-clay,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/145/True
-stone,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/146/True
-ceramic,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/147/True
-semi-precious stone,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/148/True
-gold,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/149/True
-mineral,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/150/True
-pasta vitrea,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/151/True
-wood,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/152/True
-lead,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/153/True
-flint,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/154/True
-horn,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/155/True
-copper,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/156/True
-bone_metal,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/157/True
-pumice\r\npumice,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/158/True
-ivory,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/159/True
-image(s),http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/images
-pdf(s),http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/pdfs
-recording sheets,http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/recording_sheets
-sketches,http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/sketches
-abk,http://ica.tacc.utexas.edu/chersonesos/ark/module/abk
-cxt,http://ica.tacc.utexas.edu/chersonesos/ark/module/cxt
-drw,http://ica.tacc.utexas.edu/chersonesos/ark/module/drw
-fph,http://ica.tacc.utexas.edu/chersonesos/ark/module/fph
-gph,http://ica.tacc.utexas.edu/chersonesos/ark/module/gph
-grp,http://ica.tacc.utexas.edu/chersonesos/ark/module/grp
-mcw,http://ica.tacc.utexas.edu/chersonesos/ark/module/mcw
-pmp,http://ica.tacc.utexas.edu/chersonesos/ark/module/pmp
-sfi,http://ica.tacc.utexas.edu/chersonesos/ark/module/sfi
-skl,http://ica.tacc.utexas.edu/chersonesos/ark/module/skl
-smp,http://ica.tacc.utexas.edu/chersonesos/ark/module/smp
-sph,http://ica.tacc.utexas.edu/chersonesos/ark/module/sph
-tps,http://ica.tacc.utexas.edu/chersonesos/ark/module/tps
-7_5 yr 6_8,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/100/True
-"2,5y 7_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/101/True
-5y 3_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/102/True
-7_5 yr 6_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/103/True
-"2,5y 5_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/104/True
-10yr 7_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/105/True
-"2,5yr 7_3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/106/True
-5yr 5_6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/107/True
-5yr 6_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/108/True
-7_5 yr 3_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/109/True
-5yr 7_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/110/True
-7_5 yr 4_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/111/True
-10r 7_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/112/True
-gley 5g 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/113/True
-"10r 2,5_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/243/True
-5yr 3_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244/True
-7_5 yr 7_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/245/True
-"2,5y 7_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/246/True
-5yr 4_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/247/True
-"2,5yr 7_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/248/True
-10r 5_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/249/True
-"2,5y 3_5",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/250/True
-5y 3_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/251/True
-5y 5_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/252/True
-"2,5yr 4_3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/253/True
-5y 2_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/254/True
-10yr 3_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/32/True
-10yr 4_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/33/True
-gley 5gy 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/34/True
-10yr 4_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/35/True
-"2,5yr 4_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/36/True
-5yr 5_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/37/True
-5yr 4_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/38/True
-7_5 yr 4_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/39/True
-10yr 6_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40/True
-10yr 3_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/41/True
-10yr 5_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/42/True
-10yr 5_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/43/True
-"2,5y 3_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/44/True
-"2,5y 3_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/45/True
-7_5 yr 5_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46/True
-7_5 yr 4_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/47/True
-5yr 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/48/True
-5yr 5_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/49/True
-"gley n 2,5_",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/50/True
-10yr 2_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/51/True
-10yr 4_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/52/True
-10yr 6_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/53/True
-10yr 7_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/539/True
-10yr 3_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54/True
-10yr 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/55/True
-10r 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56/True
-7_5 yr 3_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57/True
-5y 8_6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/58/True
-"5yr 2,5_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/59/True
-5yr 4_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/60/True
-5y 4_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/61/True
-"2,5y 6_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/62/True
-7_5 yr 4_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/63/True
-"2,5yr 3_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/64/True
-10yr 6_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/65/True
-7_5 yr 5_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/66/True
-10yr 2_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/67/True
-10yr 5_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/68/True
-7_5 yr 3_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/69/True
-"5yr 2,5_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/70/True
-"7_5 yr 2,5_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/71/True
-10yr 3_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/72/True
-7_5 yr 6_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/73/True
-"2,5yr 6_3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74/True
-"2,5y 4_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/75/True
-10yr 5_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/76/True
-"2,5yr 4_6",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/77/True
-"2,5y 6_6",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/78/True
-10yr 7_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/79/True
-10r 5_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/80/True
-5y 6_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81/True
-"2,5y 2,5_1",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/82/True
-"2,5yr 3_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/83/True
-"2,5y 4_3",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/84/True
-"2,5y 4_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/85/True
-10yr 4_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/86/True
-10yr 5_6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/87/True
-"2,5yr 7_6",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/88/True
-10yr 7_6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/89/True
-10yr 7_8,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90/True
-"2,5yr 4_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/91/True
-2.5y 4_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/92/True
-"2,5y 7_6",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/93/True
-"2,5yr 6_4",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/95/True
-5yr 3_3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/96/True
-7_5 yr 4_6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/97/True
-"2,5y 5_2",http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/98/True
-7_5 yr 5_2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/99/True
-birds count,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/birds_count
-total of ceramics,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/ceramic_total
-diameter,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter
-fish count,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/fish_count
-height,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/height
-length,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/length
-total,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/total
-width,http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/width
-13th century,http://n2t.net/ark:/99152/p0b6j5m3t44
-modern,http://n2t.net/ark:/99152/p0b6j5m46gm
-14th century,http://n2t.net/ark:/99152/p0b6j5mchgh
-roman,http://n2t.net/ark:/99152/p0b6j5mh84m
-byzantine (general),http://n2t.net/ark:/99152/p0b6j5mmfbc
-11th to 12th century,http://n2t.net/ark:/99152/p0b6j5mmx9p
-middle byzantine (9-12th century),http://n2t.net/ark:/99152/p0b6j5mq3ms
-early byzantine (5th-7th century),http://n2t.net/ark:/99152/p0b6j5mtpfd
-late byzantine (13th-14th century),http://n2t.net/ark:/99152/p0b6j5mzmnj
-undated,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/20/True
-hellenistic,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/25/True
-viii,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/128/True
-v,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/129/True
-vii,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/130/True
-vi,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/131/True
-x,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255/True
-xiv,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/256/True
-xii,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257/True
-xiii,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258/True
-ii,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/289/True
-xi,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/293/True
-xv,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/376/True
-medium,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/12/True
-bad,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13/True
-good,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/14/True
-very good,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/15/True
-excellent,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/16/True
-!secure date,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/False
-secure date,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/True
-!closed,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/False
-closed,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/True
-!completed,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/False
-completed,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/True
-28,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/294/True
-33,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/295/True
-32,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/296/True
-29,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/297/True
-n_a,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/298/True
-31,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/299/True
-26,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/300/True
-23,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/301/True
-20,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/302/True
-25,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303/True
-36,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/304/True
-30,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/305/True
-tomb 2,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/306/True
-grave 1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/307/True
-35,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/308/True
-31a,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/309/True
-37,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/310/True
-34,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/311/True
-38,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/312/True
-tomb 5,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/313/True
-31 probe,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/314/True
-21a,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/534/True
-22,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/535/True
-21b,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/537/True
-27,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/538/True
-tomb 1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/540/True
-organic material,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/132/True
-flotation,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/133/True
-carbonised wood,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/134/True
-residue analysis,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/135/True
-metallurgical,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136/True
-palaeobotanical,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/137/True
-soil composition,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/138/True
-mortar,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/139/True
-architectural sample,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/140/True
-1 to 50,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272/True
-1 to 20,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/273/True
-1 to 10,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/274/True
-13c,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/13c
-15n,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n
-c_n,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c_n
-c14 (az),http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14az
-c14 (k),http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14k
-c14 (z),http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14z
-l,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/413/True
-r,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414/True
-!skull,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/False
-skull,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/True
-long bones,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525/True
-f,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527/True
-m?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/528/True
-m,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/529/True
-child,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/530/True
-f?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/531/True
-child m?,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/532/True
-bad reliability,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/263/True
-medium reliability,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/264/True
-very good reliabilty,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/265/True
-good reliability,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/266/True
-excellent reliability,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/267/True
-interpretation,http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/interp
+"dp2_p2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp2"
+"dp3_p3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp3"
+"dp4_p4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp4"
+"grant age":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant"
+"halstead age":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/halstead"
+"m1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m1"
+"m2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m2"
+"m3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3"
+"mws_stage":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws"
+"payne":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payne"
+"payne age":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payneage"
+"illustrator":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby"
+"excavator":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator"
+"photographed by":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer"
+"complex 3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/315"
+"stenopos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/316"
+"church":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/317"
+"complex 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/318"
+"courtyard":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/319"
+"main street":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/320"
+"tomb 3 (courtyard)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/321"
+"tomb 4 (courtyard)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/322"
+"complex 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/536"
+"gavia arctica":"https://eol.org/pages/45508996"
+"podiceps nigricollis":"https://eol.org/pages/45509033"
+"calidris sp.":"https://eol.org/pages/45509221"
+"columba livia":"https://eol.org/pages/45509376"
+"corvus monedula":"https://eol.org/pages/45510000"
+"corvus cornix":"https://eol.org/pages/45510015"
+"corvus corax":"https://eol.org/pages/45510016"
+"turdus merula":"https://eol.org/pages/45510215"
+"anas sp.":"https://eol.org/pages/45510553"
+"anas platyrhynchos":"https://eol.org/pages/45510559"
+"anas clypeata":"https://eol.org/pages/45510567"
+"aythya ferina":"https://eol.org/pages/45510577"
+"melanitta nigra":"https://eol.org/pages/45510595"
+"clangula hyemalis":"https://eol.org/pages/45510598"
+"bucephala clangula":"https://eol.org/pages/45510601"
+"puffinus puffinus":"https://eol.org/pages/45511311"
+"phalacrocorax carbo":"https://eol.org/pages/45511373"
+"aquila chrysaetos":"https://eol.org/pages/45511389"
+"rufibrenta ruficollis":"https://eol.org/pages/45513542"
+"netta rufina":"https://eol.org/pages/45513548"
+"phalacrocorax aristotelis":"https://eol.org/pages/45513571"
+"otis tarda":"https://eol.org/pages/45513576"
+"columba palumbus":"https://eol.org/pages/45513599"
+"coturnix coturnix":"https://eol.org/pages/45513806"
+"gallus gallus f. domestica":"https://eol.org/pages/45513816"
+"podiceps cristatus":"https://eol.org/pages/45513833"
+"garrulus glandarius":"https://eol.org/pages/45515235"
+"anas strepera":"https://eol.org/pages/52231958"
+"unidentified bird":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1211"
+"trmon or dic rachis internodes":"https://eol.org/pages/108051"
+"trmon or dic spikelet forks":"https://eol.org/pages/108051"
+"setaria glauca":"https://eol.org/pages/108098"
+"galium aparine":"https://eol.org/pages/1098038"
+"triticum dicoccon":"https://eol.org/pages/1114086"
+"bromus arvensis":"https://eol.org/pages/1114226"
+"bromus sterilis":"https://eol.org/pages/1114247"
+"hordeum vulgare":"https://eol.org/pages/1114455"
+"hordeum vulgare var.coeleste":"https://eol.org/pages/1114455"
+"lolium temulentum":"https://eol.org/pages/1114469"
+"panicum miliaceum":"https://eol.org/pages/1114498"
+"setaria viridis":"https://eol.org/pages/1114660"
+"setaria viridis verticillata":"https://eol.org/pages/1114661"
+"setaria italicum":"https://eol.org/pages/1114673"
+"avena sativa":"https://eol.org/pages/1114783"
+"secale cereale":"https://eol.org/pages/1115159"
+"triticum aestivum s.l.":"https://eol.org/pages/1115240"
+"tr aestsl rachis internodes":"https://eol.org/pages/1115240"
+"triticum monococcum":"https://eol.org/pages/1115242"
+"triticum mon spikelet forks":"https://eol.org/pages/1115242"
+"triticum spelta":"https://eol.org/pages/1115243"
+"triticum spelta spikelet forks":"https://eol.org/pages/1115243"
+"echinochloa  crus galli":"https://eol.org/pages/1115346"
+"euphorbia helioscopia":"https://eol.org/pages/1144727"
+"corylus avellana shells":"https://eol.org/pages/1147599"
+"vicia sp":"https://eol.org/pages/13463"
+"prunus cerasus":"https://eol.org/pages/242597"
+"silene sp":"https://eol.org/pages/37656"
+"urtica sp":"https://eol.org/pages/38080"
+"brassica sp.":"https://eol.org/pages/38390"
+"centaurea sp":"https://eol.org/pages/39897355"
+"prunus sp.":"https://eol.org/pages/39934521"
+"unidentified":"https://eol.org/pages/42430800"
+"unidentified leguminosae":"https://eol.org/pages/4277"
+"astragalus sp.":"https://eol.org/pages/47113496"
+"trifolium sp.":"https://eol.org/pages/47117019"
+"malva pusilla":"https://eol.org/pages/47124241"
+"chenopodium album":"https://eol.org/pages/47128802"
+"juglans regia shells":"https://eol.org/pages/487229"
+"sambucusnigra":"https://eol.org/pages/488731"
+"sambucus edulus":"https://eol.org/pages/488732"
+"buglossoides arvense":"https://eol.org/pages/489676"
+"cereal grain fragments":"https://eol.org/pages/49307128"
+"culm remains":"https://eol.org/pages/49307128"
+"vicia faba var minor":"https://eol.org/pages/50502932"
+"olea europaea":"https://eol.org/pages/579181"
+"ballota nigra":"https://eol.org/pages/579636"
+"vitis vinifera":"https://eol.org/pages/582304"
+"convovulus arvensis":"https://eol.org/pages/582958"
+"viola arvensis":"https://eol.org/pages/584594"
+"malva neglecta":"https://eol.org/pages/584651"
+"malva  silvestris":"https://eol.org/pages/584656"
+"rumex acetosella":"https://eol.org/pages/585262"
+"rumex  crispus":"https://eol.org/pages/585266"
+"fallopia convolvulus":"https://eol.org/pages/586686"
+"polygonum convolvulus":"https://eol.org/pages/586686"
+"agrostemma githago":"https://eol.org/pages/587250"
+"fumaria officinalis.":"https://eol.org/pages/590512"
+"ficus carica":"https://eol.org/pages/594632"
+"morus nigra":"https://eol.org/pages/596202"
+"buglossoides officinale":"https://eol.org/pages/62204"
+"rubus  idaeus":"https://eol.org/pages/625333"
+"persica vulgaris":"https://eol.org/pages/631649"
+"lens culinaris":"https://eol.org/pages/647510"
+"pisum sativum":"https://eol.org/pages/703192"
+"vicia ervilia":"https://eol.org/pages/703201"
+"vicia sativa":"https://eol.org/pages/703227"
+"trifolium repens":"https://eol.org/pages/703436"
+"anhusa sp.":"https://eol.org/pages/70954"
+"amphora":"http://vocab.getty.edu/aat/300148696"
+"cookware":"http://vocab.getty.edu/aat/300201279"
+"pithos":"http://vocab.getty.edu/aat/300198882"
+"storage":"http://vocab.getty.edu/aat/300198880"
+"lid":"http://vocab.getty.edu/aat/300045712"
+"fineware":"http://vocab.getty.edu/aat/300264955"
+"mortar (class)":"http://vocab.getty.edu/aat/300395633"
+"special":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1076"
+"lamp (type)":"http://vocab.getty.edu/aat/300183182"
+"terracotta":"http://vocab.getty.edu/aat/300047296"
+"waterpipe (class)":"http://vocab.getty.edu/aat/300432673"
+"tile (class)":"http://vocab.getty.edu/aat/300010699"
+"brick (type)":"http://vocab.getty.edu/aat/300010463"
+"jar (class)":"http://vocab.getty.edu/aat/300195347"
+"pseudo-kos (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1000"
+"lrc, form 1 (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1001"
+"unidentified roman amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1002"
+"light clay, first centuries ad (s-iv, vnukov)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1003"
+"hellenistic mortar, waster":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1004"
+"closed red-slip form ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1005"
+"light clay (shelov type) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1006"
+"class 4 (""gaza"")":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1007"
+"class 22 (zeest-95; lra 3-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1008"
+"syrian (?) glazed ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1009"
+"adsv, type v (zeest 98)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1010"
+"wheelmade cookware (including frags. of hellenistic cookpots) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1011"
+"plain red-clay jugs (including hellenistic examples)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1012"
+"syrian":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1013"
+"islamic fritware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1014"
+"aegean ware (groups 3-4, yakobson)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1015"
+"jugs":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1016"
+"red clay (zeest 72, 79?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1017"
+"fine sgraffito group cookware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1018"
+"arsw":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1019"
+"mortar (type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1020"
+"red clay (zeest 72)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1021"
+"light clay (heraklea, sinope)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1022"
+"polychrome white-clay":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1023"
+"unidentified hellenistic or roman amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1024"
+"constantinople white-clay ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1025"
+"anatolian white-clay ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1026"
+"unidentified hellenistic and roman amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1027"
+"unidentified cookware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1028"
+"glazed white ware ii, hayes":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1029"
+"slip-painted jug":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030"
+"arsw, form 105":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1031"
+"black gloss (pale and red clay)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1032"
+"red clay (zeest 72, 76, 80)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1033"
+"hellenistic jugs":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1034"
+"stamped tile":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1035"
+"red-clay with conical foot":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1036"
+"red-clay (zeest 72, 76)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1037"
+"class 18 (lra 2-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1038"
+"glazed white ware ii (hayes)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1039"
+"polychrome ware (group 6, yakobson) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1040"
+"glazed jug":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1041"
+"lrc, arsw form ?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1042"
+"gray clay with black gloss":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1043"
+"red-clay glazed ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1044"
+"arsw, form 32_58":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1045"
+"plain fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046"
+"glazed white ware i (hayes)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1047"
+"arsw, form 93_97":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1048"
+"unspecified amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1049"
+"light clay (zeest 104-105; shelov types e-f)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1050"
+"black and brown gloss":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1051"
+"red clay (zeest 69)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1052"
+"jug":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1053"
+"jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1054"
+"red clay (zeest 72), 2nd-3rd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1055"
+"plain jug":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1056"
+"lra 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1057"
+"lra 3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1058"
+" arsw, form 62 b":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059"
+"class 43 (gunsenin-ii) (""collared"")":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1060"
+"champleve ware (group 4, yakobson) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1061"
+"fine sgraffito group ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1062"
+"strainer":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1063"
+"syrian? (kashin_faience)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064"
+"lrc, form ?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1065"
+"chios (capped)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1066"
+"class 33 (35?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067"
+"plain fineware casserole?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1068"
+"class 2 (""carrot"")":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/826"
+"class 3 (zeest-100)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/827"
+"adsv, type v":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/828"
+"class 22 (zeest-95; lra 4-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/829"
+"class 24":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/830"
+"class 41":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/831"
+"class 43 (gunsenin-ii)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/832"
+"class 45  (gunsenin-iv)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/833"
+"class 52":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/834"
+"wheelmade cookware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/835"
+"pithos (type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/836"
+"closed storage vessel":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/837"
+"lid (type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/838"
+"red clay (zeest - 69, 72, 73)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/839"
+"light clay (zeest 104-105; types \u0435-f-shelov)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/840"
+"sinope":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/841"
+"colchis":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/842"
+"unidentified hellenistic_roman amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/843"
+"class 1 (""waisted"")":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/844"
+"class 4 (lra 3-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/845"
+"class 12 (lrc 1-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/846"
+"class 18  (lra 2-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/847"
+"class 36":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/848"
+"class 42 (gunsenin-i) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/849"
+"handmade cookware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/850"
+"plain fineware jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/851"
+"glazed white ware ii, hayes 1992":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/852"
+"glazed white ware ii, type 3 (hayes 1992)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/853"
+"glazed white ware iv (group 9, yakobson)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/854"
+"unidentified glazed fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/855"
+"red-slip":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/856"
+"lrc, form 2, hayes 1972 ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/857"
+"lrc, form 3, hayes 1972":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/858"
+"black gloss":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/859"
+"brown gloss":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/860"
+"chersonesos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/861"
+"unidentified amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/862"
+"unidentified plain fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/863"
+"hellenistic or roman plain fineware jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/864"
+"arsw, form 62 b":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/865"
+"class 48 (gunsenin-iii)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/866"
+"red clay (zeest - 72, 73, 75)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/867"
+"unidentified early byzantine amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/868"
+"middle byzantine plain fineware jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/869"
+"late byzantine plain fineware jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/870"
+"zeuxippos ware (groups 1-2, yakobson)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871"
+"aegean ware (group 3, yakobson)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/872"
+"slip-painted ware (group 8,  yakobson) ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873"
+"gww ii, type 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/874"
+"mortarium":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/875"
+"special vessel":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/876"
+"lamp":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/877"
+"light clay":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/878"
+"heraclea":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/879"
+"rhodes":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/880"
+"unidentified middle byzantine glazed fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/881"
+"terracotta figurine":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/882"
+"unidentified late byzantine glazed fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/883"
+"water pipe":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/884"
+"sgraffito ware (monochrome)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/885"
+"lrc, form 1, hayes 1972":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/886"
+"arsw, form 93-97":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/887"
+"tile with stamp":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/888"
+"lrc, form 10, hayes 1972":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/889"
+"unidentified middle byzantine amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/890"
+"glazed white ware i, hayes 1992":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/891"
+"gww ii, type 3, hayes 1992":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892"
+"hellenistic plain fineware jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/893"
+"fine sgraffito ware ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/894"
+"cos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/895"
+"unidentified middle-late byzantine amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/896"
+"gww ii, type 13-14, hayes 1992":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/897"
+"megarian bowl":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/898"
+"red clay (zeest - 63)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/899"
+"red clay (zeest - 72)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/900"
+"arsw, form 99 ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/901"
+"brick":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/902"
+"gww ii, type 13-14":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/903"
+"gww ii, type 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/904"
+"gww ii, type 3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/905"
+"polychrome ware (white clay)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/906"
+"chios":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/907"
+"thasos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/908"
+"knidos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/909"
+"lrd (""cypriot sigillata""), form 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/910"
+"knidos (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/911"
+"kos":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/912"
+"corinth":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913"
+"hellenistic jars":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/914"
+"class 51":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/915"
+"storage jar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/916"
+"fritware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/917"
+"unidentified middle byzantine glazed ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/918"
+"closed storage form":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/919"
+"thasos (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/920"
+"chios (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/921"
+"hellenistic jar or bowl":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/922"
+"hellenistic plain fineware jar or bowl":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/923"
+"pan tiles of the 10th-13th c. with stamps":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/924"
+"kalypter of the 8th-10th c. (?) with stamp":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/925"
+"chersonesos (of which one fragment with a stamp)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/926"
+"heraklea":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/927"
+"red clay":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/928"
+"light clay, first centuries ad ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/929"
+"class 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/930"
+"class 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/931"
+"class 4 (gaza type; lra 3-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/932"
+"class 12 (""running wave""; lrc 1-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/933"
+"class 18 (with funnel rim; lra 2-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/934"
+"class 22 (zeest-95; lra 10-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/935"
+"class 24 (""black sea"" with rilled zones)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/936"
+"class 36 (""black sea"")":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/937"
+"cookpots":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/938"
+"hellenistic casserole":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/939"
+"lid (type)s":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/940"
+"oinochoai":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/941"
+"closed plain form":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/942"
+"open plain forms":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/943"
+"zeuxippos ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/944"
+"group 3 (yakobson) - aegean ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/945"
+"group 6 (yakobson) - polychrome sgraffito ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/946"
+"group 8 (yakobson ) - slip-painted ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947"
+"unidentified waster":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/948"
+"glazed white ware ii ":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/949"
+"incense-burner":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/950"
+"lrc, form 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/951"
+"lrc, form 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/952"
+"lrc, form 10 a":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/953"
+"lrc, lrd, arsw (stems, walls)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/954"
+"red-slip jug":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/955"
+"bowls of 1st-2nd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/956"
+"closed gray-clay forms":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/957"
+"open gray-clay forms":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/958"
+"open black-gloss forms":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/959"
+"closed black-gloss forms":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/960"
+"tiles with stamps":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/961"
+"late roman":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962"
+"zeest 72":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/963"
+"cookware (type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964"
+"group 8 (yakobson) - slip-painted ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/965"
+"class 18 (with funnel rim) (lra 2-riley)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/966"
+"unidentified type":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/967"
+"megarian bowls":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/968"
+"class 36 (""black sea"" ribbed)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/969"
+"incense-burners":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/970"
+"tile (type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/971"
+"group 3-4 (yakobson) - aegean ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/972"
+"light clay, first centuries ad (sinope)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/973"
+"fine sgraffito group (?)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974"
+"white-clay jugs":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/975"
+"hellenistic amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/976"
+"kashin pottery - turquoise glazed faience bowl":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/977"
+"plain lids":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/978"
+"unidentified red-clay glazed ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/979"
+"light clay (zeest 104-105; shelov type e-f)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/980"
+"mortars, bowls":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/981"
+"unidentified white-clay glazed fineware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/982"
+"unidentified 5th-7th c. amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/983"
+"red-clay (e.g. zeest 72)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/984"
+"unidentified white-clay glazed ware":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/985"
+"class 51-52":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/986"
+"unidentified amphora (small fragments)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/987"
+"chersonesos, stamped":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/988"
+"late roman red-clay":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/989"
+"polychrome":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/990"
+"lrc, form 3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/991"
+"lrd, form 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/992"
+"glazed white ware i":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/993"
+"zeest 72 (""myrmekeion"" type)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/994"
+"closed plain form (e.g. flask)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/995"
+"hellenistic_roman amphora":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/996"
+"kashin - turquoise faience":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/997"
+"lrc, form 10":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/998"
+"class 42 (gunsenin-i) and imitations":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/999"
+"hellenistic (ceramic date)":" http://n2t.net/ark:/99152/p0b6j5mgvqt"
+"roman (ceramic date)":" http://n2t.net/ark:/99152/p0b6j5mh84m"
+"9th-11th c. ad":" http://n2t.net/ark:/99152/p0b6j5mq3ms"
+"5th-7th c. ad":"http://n2t.net/ark:/99152/p0b6j5mtpfd"
+"12th-13th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1085"
+"2nd-3rd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1086"
+"hellenistic_roman":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1089"
+"3rd-4th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1090"
+"5th-6th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1091"
+"4th-6th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1092"
+"2nd-4th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1093"
+"13th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1094"
+"1st c. bc-2nd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1095"
+"4th-5th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1096"
+"1st-2nd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1097"
+"6th-middle of the 7th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1098"
+"6th-7th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1099"
+"7th-9th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1100"
+"9th-10th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1101"
+"9th-13th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1102"
+"12th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1103"
+"late 10th-11th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1104"
+"5th-first quarter 7th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1105"
+"2nd-1st c. bc":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1106"
+"2nd c. bc":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1107"
+"11th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1108"
+"10th or 13th c. ad?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1109"
+"9th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1110"
+"1st c. bc -2nd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1111"
+"3rd-5th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1112"
+"8th-10th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1113"
+"1st-3rd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1114"
+"second half of 6th-first half of 7th c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1115"
+"early medieval":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1116"
+"1st c. bc-3rd c. ad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1117"
+"9th c. ad?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1118"
+"comments":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/comments"
+"area":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area"
+"birds":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds"
+"botany type":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype"
+"ceramic class":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class"
+"ceramic date":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date"
+"ceramic type":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type"
+"facing":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face"
+"findtype":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype"
+"fish":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish"
+"formation (intentional)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint"
+"formation (natural)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat"
+"formation type":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype"
+"intact?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/intact"
+"mapped?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped"
+"material":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material"
+"microwear":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear"
+"munsell colour":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour"
+"period":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period"
+"phase":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase"
+"record status flag":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag"
+"room":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room"
+"sample type":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype"
+"scale":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale"
+"side":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side"
+"remains present":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags"
+"sex":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex"
+"stratigraphic reliability":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel"
+"definition":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/desc_brief"
+"description":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description"
+"short description":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/short_desc"
+"age":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age"
+"preservation":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_preservation"
+"teeth":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth"
+"dating elements":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/datingelem"
+"observations":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/observations"
+"publication text":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext"
+"rollett and chiu (1994)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett"
+"dna_strontium":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/526/True"
+"!mapped":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/False"
+"mapped":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/True"
+"!sketch":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/False"
+"sketch":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/True"
+"!digitized":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/False"
+"digitized":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/True"
+"!scanned":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/False"
+"scanned":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/True"
+"!gcps":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/False"
+"gcps":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/True"
+"!geo-referenced":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/False"
+"geo-referenced":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/True"
+"date excavated":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/dateexcavated"
+"drawn on":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/drawnon"
+"interpreted on":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/interpretedon"
+"date photographed":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/photographedon"
+"northwest":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/278"
+"northeast":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/279"
+"southwest":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/280"
+"west":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/281"
+"southeast":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/282"
+"south":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/283"
+"north":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/284"
+"east":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/285"
+"last name":"http://chema.org/familyNames"
+"tile":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/115"
+"glass":"http://vocab.getty.edu/aat/300010797"
+"pot":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/117"
+"none":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/118"
+"metal":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/119"
+"bone":"http://vocab.getty.edu/aat/300011798"
+"rubble stone":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/122"
+"charcoal":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/124"
+"plaster":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/126"
+"chert":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127"
+"marble":"http://vocab.getty.edu/aat/300011443"
+"cyprinidae":"https://eol.org/pages/3198"
+"raja clavata":"https://eol.org/pages/46560547"
+"alosa sp.":"https://eol.org/pages/46562368"
+"scorpaena sp.":"https://eol.org/pages/46567865"
+"scophthalmus rhombus":"https://eol.org/pages/46570246"
+"liza sp.":"https://eol.org/pages/46571485"
+"gobius cobitis":"https://eol.org/pages/46575227"
+"sarda sarda":"https://eol.org/pages/46577302"
+"sander lucioperca":"https://eol.org/pages/46580134"
+"silurus glanis":"https://eol.org/pages/46581838"
+"esox lucius":"https://eol.org/pages/46582152"
+"labridae":"https://eol.org/pages/5305"
+"acipenseridae":"https://eol.org/pages/8302"
+"unidentified fish":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1225"
+"intentional":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/259"
+"casual":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/260"
+"artificial":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/261"
+"natural":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/262"
+"filling":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/10"
+"dumping":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/11"
+"erosion":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3"
+"accumulation":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/4"
+"destruction":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/5"
+"metalworking":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/6"
+"root":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/7"
+"construction":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/8"
+"burial":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/9"
+"first name":"http://schema.org/givenName"
+"catalog code":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/catalog_cd"
+"collection #":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/collectionnum"
+"initals":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/initials"
+"old context code":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/old_context_code"
+"old sample code":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/oldsamplecode"
+"iron":"http://vocab.getty.edu/aat/300011002"
+"bronze":"http://vocab.getty.edu/aat/300010942"
+"iron_bronze":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/143"
+"carbon":"http://vocab.getty.edu/aat/300264720"
+"clay":"http://vocab.getty.edu/aat/300010439"
+"stone":"http://vocab.getty.edu/aat/300011176"
+"ceramic":"http://vocab.getty.edu/aat/300235507"
+"semi-precious stone":"http://vocab.getty.edu/aat/300011175"
+"gold":"http://vocab.getty.edu/aat/300011021"
+"mineral":"http://vocab.getty.edu/aat/300011068"
+"pasta vitrea":"http://vocab.getty.edu/aat/300263723"
+"wood":"http://vocab.getty.edu/aat/300011914"
+"lead":"http://vocab.getty.edu/aat/300011022"
+"flint":"http://vocab.getty.edu/aat/300011141"
+"horn":"http://vocab.getty.edu/aat/300011826"
+"copper":"http://vocab.getty.edu/aat/300011020"
+"bone_metal":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/157"
+"pumice\r\npumice":"http://vocab.getty.edu/aat/300011250"
+"ivory":"http://vocab.getty.edu/aat/300011857"
+"image(s)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/images"
+"pdf(s)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/pdfs"
+"recording sheets":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/recording_sheets"
+"sketches":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/sketches"
+"abk":"http://ica.tacc.utexas.edu/chersonesos/ark/module/abk"
+"cxt":"http://ica.tacc.utexas.edu/chersonesos/ark/module/cxt"
+"drw":"http://ica.tacc.utexas.edu/chersonesos/ark/module/drw"
+"fph":"http://ica.tacc.utexas.edu/chersonesos/ark/module/fph"
+"gph":"http://ica.tacc.utexas.edu/chersonesos/ark/module/gph"
+"grp":"http://ica.tacc.utexas.edu/chersonesos/ark/module/grp"
+"mcw":"http://ica.tacc.utexas.edu/chersonesos/ark/module/mcw"
+"pmp":"http://ica.tacc.utexas.edu/chersonesos/ark/module/pmp"
+"sfi":"http://ica.tacc.utexas.edu/chersonesos/ark/module/sfi"
+"skl":"http://ica.tacc.utexas.edu/chersonesos/ark/module/skl"
+"smp":"http://ica.tacc.utexas.edu/chersonesos/ark/module/smp"
+"sph":"http://ica.tacc.utexas.edu/chersonesos/ark/module/sph"
+"tps":"http://ica.tacc.utexas.edu/chersonesos/ark/module/tps"
+"7_5 yr 6_8":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/100"
+"2,5y 7_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/101"
+"5y 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/102"
+"7_5 yr 6_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/103"
+"2,5y 5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/104"
+"10yr 7_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/105"
+"2,5yr 7_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/106"
+"5yr 5_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/107"
+"5yr 6_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/108"
+"7_5 yr 3_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/109"
+"5yr 7_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/110"
+"7_5 yr 4_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/111"
+"10r 7_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/112"
+"gley 5g 8_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/113"
+"10r 2,5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/243"
+"5yr 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244"
+"7_5 yr 7_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/245"
+"2,5y 7_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/246"
+"5yr 4_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/247"
+"2,5yr 7_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/248"
+"10r 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/249"
+"2,5y 3_5":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/250"
+"5y 3_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/251"
+"5y 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/252"
+"2,5yr 4_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/253"
+"5y 2_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/254"
+"10yr 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/32"
+"10yr 4_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/33"
+"gley 5gy 8_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/34"
+"10yr 4_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/35"
+"2,5yr 4_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/36"
+"5yr 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/37"
+"5yr 4_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/38"
+"7_5 yr 4_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/39"
+"10yr 6_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40"
+"10yr 3_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/41"
+"10yr 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/42"
+"10yr 5_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/43"
+"2,5y 3_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/44"
+"2,5y 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/45"
+"7_5 yr 5_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46"
+"7_5 yr 4_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/47"
+"5yr 8_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/48"
+"5yr 5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/49"
+"gley n 2,5_":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/50"
+"10yr 2_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/51"
+"10yr 4_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/52"
+"10yr 6_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/53"
+"10yr 7_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/539"
+"10yr 3_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54"
+"10yr 8_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/55"
+"10r 8_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56"
+"7_5 yr 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57"
+"5y 8_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/58"
+"5yr 2,5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/59"
+"5yr 4_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/60"
+"5y 4_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/61"
+"2,5y 6_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/62"
+"7_5 yr 4_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/63"
+"2,5yr 3_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/64"
+"10yr 6_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/65"
+"7_5 yr 5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/66"
+"10yr 2_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/67"
+"10yr 5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/68"
+"7_5 yr 3_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/69"
+"5yr 2,5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/70"
+"7_5 yr 2,5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/71"
+"10yr 3_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/72"
+"7_5 yr 6_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/73"
+"2,5yr 6_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74"
+"2,5y 4_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/75"
+"10yr 5_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/76"
+"2,5yr 4_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/77"
+"2,5y 6_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/78"
+"10yr 7_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/79"
+"10r 5_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/80"
+"5y 6_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81"
+"2,5y 2,5_1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/82"
+"2,5yr 3_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/83"
+"2,5y 4_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/84"
+"2,5y 4_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/85"
+"10yr 4_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/86"
+"10yr 5_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/87"
+"2,5yr 7_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/88"
+"10yr 7_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/89"
+"10yr 7_8":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90"
+"2,5yr 4_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/91"
+"2.5y 4_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/92"
+"2,5y 7_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/93"
+"2,5yr 6_4":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/95"
+"5yr 3_3":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/96"
+"7_5 yr 4_6":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/97"
+"2,5y 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/98"
+"7_5 yr 5_2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/99"
+"birds count":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/birds_count"
+"total of ceramics":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/ceramic_total"
+"diameter":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter"
+"fish count":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/fish_count"
+"height":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/height"
+"length":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/length"
+"total":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/total"
+"width":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/width"
+"13th century":"http://n2t.net/ark:/99152/p0b6j5m3t44"
+"modern":"http://n2t.net/ark:/99152/p0b6j5m46gm"
+"14th century":"http://n2t.net/ark:/99152/p0b6j5mchgh"
+"roman":"http://n2t.net/ark:/99152/p0b6j5mh84m"
+"byzantine (general)":"http://n2t.net/ark:/99152/p0b6j5mmfbc"
+"11th to 12th century":"http://n2t.net/ark:/99152/p0b6j5mmx9p"
+"middle byzantine (9-12th century)":"http://n2t.net/ark:/99152/p0b6j5mq3ms"
+"early byzantine (5th-7th century)":"http://n2t.net/ark:/99152/p0b6j5mtpfd"
+"late byzantine (13th-14th century)":"http://n2t.net/ark:/99152/p0b6j5mzmnj"
+"undated":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/20"
+"hellenistic":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/25"
+"viii":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/128"
+"v":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/129"
+"vii":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/130"
+"vi":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/131"
+"x":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255"
+"xiv":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/256"
+"xii":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257"
+"xiii":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258"
+"ii":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/289"
+"xi":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/293"
+"xv":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/376"
+"medium":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/12"
+"bad":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13"
+"good":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/14"
+"very good":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/15"
+"excellent":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/16/True"
+"!secure date":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/False"
+"secure date":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/True"
+"!closed":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/False"
+"closed":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/True"
+"!completed":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/False"
+"completed":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/True"
+28:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/294"
+33:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/295"
+32:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/296"
+29:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/297"
+"n_a":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/298"
+31:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/299"
+26:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/300"
+23:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/301"
+20:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/302"
+25:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303"
+36:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/304"
+30:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/305"
+"tomb 2":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/306"
+"grave 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/307"
+35:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/308"
+"31a":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/309"
+37:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/310"
+34:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/311"
+38:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/312"
+"tomb 5":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/313"
+"31 probe":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/314"
+"21a":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/534"
+22:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/535"
+"21b":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/537"
+27:"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/538"
+"tomb 1":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/540"
+"organic material":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/132"
+"flotation":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/133"
+"carbonised wood":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/134"
+"residue analysis":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/135"
+"metallurgical":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136"
+"palaeobotanical":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/137"
+"soil composition":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/138"
+"mortar":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/139"
+"architectural sample":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/140"
+"1 to 50":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272"
+"1 to 20":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/273"
+"1 to 10":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/274"
+"13c":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/13c"
+"15n":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n"
+"c_n":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c_n"
+"c14 (az)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14az"
+"c14 (k)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14k"
+"c14 (z)":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14z"
+"l":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/413"
+"r":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414"
+"!skull":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/False"
+"skull":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/True"
+"long bones":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525"
+"f":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527"
+"m?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/528"
+"m":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/529"
+"child":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/530"
+"f?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/531"
+"child m?":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/532"
+"bad reliability":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/263"
+"medium reliability":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/264"
+"very good reliabilty":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/265"
+"good reliability":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/266"
+"excellent reliability":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/267"
+"interpretation":"http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/interp"
+"cuts":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/1/1"
+"covers":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/2/2"
+"abutts":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/3/1"
+"fills":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/1"
+"bonds with":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/5"
+"same as":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/6"
+"cut by":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/1/2"
+"covered by":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/2/2"
+"abutted by":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/3/2"
+"filled by":"https://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/2"
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0
+0:0

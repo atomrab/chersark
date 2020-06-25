@@ -93,19 +93,14 @@ def getItem(module,item):
         #fieldfunctions return lists of results as a field may have more than one value eg a person may hold more than one role
         #flatten the properties into the item to make it json-ld like, multiple values become lists
         for data in fielddata:
-            fieldid=data.keys()[0]
-            if fieldid in item.keys():
-                try:
-                    if data[fieldid] not in item[fieldid]:
-                        try:
-                            item[fieldid].append( data[fieldid] )
-                        except:
-                            item[fieldid] = [ item[fieldid], data[fieldid] ]
-                except:
-                    item[fieldid] = data[fieldid]
-            else:
+            fieldid = data.keys()[0]
+            try:
+                if isinstance(item[fieldid], list):
+                    item[fieldid].append( data[fieldid] )
+                else:
+                    item[fieldid] = [ item[fieldid], data[fieldid] ]
+            except KeyError:
                 item[fieldid] = data[fieldid]
-    
 #    #let the user know whats going on
 #    print "retrieved {}/{}".format(item['itemkey'],item[item['itemkey']])
 #    sys.stdout.flush()
@@ -126,6 +121,11 @@ def getItems(module):
     # if the user specified a sample length, only get that may items of each module
     if itemList:
         sample = random.sample(itemList,min(samplelen,len(itemList)))
+        # if (itemkey == "cxt_cd") :
+#             sample.append({"itemkey":"cxt_cd","cxt_cd":"CH05SR_434"})
+#
+        if (itemkey == "smp_cd") :
+            sample.append({"smp_cd":"CH04SR_2","itemkey":"smp_cd"})
     else:
         sample = {}
         
@@ -146,7 +146,8 @@ def getItems(module):
             requestItemsQ.task_done()
             print "{}% of {}s complete".format(int((float(len(items)) / float(len(sample)))*100) , itemkey)
 
-    # Fifteen seems like a reasonable number of threads
+    # Fifteen seems like a reasonable number of thread
+    # after testing - more than that the VM starts to reject connections
     numberofthreads = min(15,len(sample))
     for i in range(numberofthreads):
         t = threading.Thread(target=itemsProcess)
@@ -299,8 +300,8 @@ def resAttrField(item, field):
     
     chainRequest = {
         'req':'getFrags',
-        'item_key':'cor_tbl_number',
-        'dataclass':'attribute',
+        'item_key':'cor_tbl_attribute',
+        'dataclass':'number',
         'classtype':'all'
     }
     
@@ -312,16 +313,16 @@ def resAttrField(item, field):
         if attr['attached_frags']:
             chainRequest['cor_tbl_attribute'] = attr['id']
             chainData = getJson( api_url, ark_cookies, chainRequest)
-            for chainDatum in chainData:
+            for chainDatum in chainData[attr['id']][0]:
                 try:
                     dataclasstype = '{}type'.format(chainDatum['dataclass'])
-                    chain_attr_boolean = '1' == attr['boolean']
-                    chainid = "{}/concept/{}/type/{}".format(root_url,dataclasstype,chainDatum[dataclasstype] )
-                    chainAttr = getAttribute(chainid, chain_attr_boolean)
-                    fielddata.append( chainAttr )
+                    chainid = "{}/concept/{}/{}".format(root_url,dataclasstype,chainDatum[dataclasstype] )
+                    chainprop = getProp(chainid)
+                    chainval = chainDatum[chainDatum['dataclass']]
+                    atpro=attrobj.keys()[0]
+                    attrobj[atpro] = { atpro: attrobj[atpro], chainprop: chainval }
                 except TypeError:
-                    if chainData[0][0] != False:
-                        print "error on chainData: {}".format(chainData)
+                    print "error on chainData: {}".format(chainData)
                     continue
         returndata.append(attrobj)
     
@@ -398,6 +399,8 @@ def resActionField(item, field):
 
 def resNumberField(item, field):
     
+    returndata = []
+    
     fieldtype = field['dataclass']
     
     fielduri = "{}/concept/{}type/{}".format(root_url, fieldtype, field['classtype'])
@@ -406,7 +409,11 @@ def resNumberField(item, field):
     
     rawdata = resFrag(item, field)
     
-    returndata = []
+    data = rawdata[item[item['itemkey']]][0]
+        
+    if not data:
+        returndata.append({ fieldid: None })
+        return returndata
     
     chainRequest = {
         'req':'getFrags',
@@ -414,12 +421,6 @@ def resNumberField(item, field):
         'dataclass':'attribute',
         'classtype':'all'
     }
-    
-    data = rawdata[item[item['itemkey']]][0]
-        
-    if not data:
-        returndata.append({ fieldid: None })
-        return returndata
         
     for field in data:
         fieldvalue = float(field[fieldtype])
@@ -427,7 +428,6 @@ def resNumberField(item, field):
         if field['attached_frags']:
             chainRequest['cor_tbl_number'] = field['id']
             rawChainData = getJson( api_url, ark_cookies, chainRequest)
-            # try:
             chainData = rawChainData[field['id']][0]
             for chainDatum in chainData:
                 chainid = "{}/concept/attribute/{}".format(root_url, chainDatum['attribute'])
@@ -556,19 +556,38 @@ for i in range(x):
 
 #at the end of the queue let the user know whats going on
 requestQ.join()
-print "writing {} modules".format(x)
+print "resolving context"
 sys.stdout.flush()
 
 #flip the props, so the IRI's become the values and the propnames the keys
 context = {v: k for k, v in props.iteritems()}
 
+with open("output/rawcontext.json", "w+") as write_file:
+    write_file.write(json.dumps(context, indent=2))
+
+tot = len(context)
+
+i=0
+
+for prop in context:
+    i=i+1
+    print "{}% complete".format(round((float(i)/float(tot))*100,2))
+    conceptJson = getJson("{}/json".format(context[prop]),ark_cookies)
+    concepts = conceptJson[conceptJson.keys()[0]]
+    for concept in concepts:
+        if u'closeMatch' in concept.keys():
+            context[prop] = concept[u'closeMatch']['value']
+        if u'exactMatch' in concept.keys():
+            context[prop] = concept[u'exactMatch']['value']
+
 #add the module keys to the context
 for module in modules.keys():
     modkey =module[:3] 
     context[modkey] = "{}/module/{}".format(root_url, modkey)
-
+    
 #this is the context
 data["@context"] = context
 
+print "writing {} modules".format(x)
 with open("output/data.json", "w+") as write_file:
     write_file.write(json.dumps(data, indent=2))
