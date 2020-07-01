@@ -12,25 +12,26 @@ from Queue import Queue
 
 #getJson wraps requests with some useful checks and returns parsed Json
 def getJson(url, cookie = False, values = False, username=False, password=False):
+    verify=True
     headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
     try:
         if (username and password and values):
-            r = requests.post(url, data=values, auth=(username, password))
+            r = requests.post(url, data=values, auth=(username, password),verify=verify)
         elif (username and password):
-            r = requests.get(url, auth=(username, password))
+            r = requests.get(url, auth=(username, password),verify=verify)
         elif (cookie and values):
             requrl ="{}?{}".format(url,"&".join(['{}={}'.format(k,v) for k,v in values.iteritems()]))
-            r = requests.post(requrl, json=json.dumps(values), cookies=cookie,headers=headers)
+            r = requests.post(requrl, json=json.dumps(values), cookies=cookie,headers=headers,verify=verify)
         elif (values):
-            r = requests.post(url, data=values)
+            r = requests.post(url, data=values,verify=verify)
         else:
-            r = requests.get(url)
-    except requests.ConnectionError as r:
+            r = requests.get(url,verify=verify)
+    except:
         sleepsec = random.random()*10
         print "Connection Error, retrying in {}s".format(round(sleepsec,2))
         sys.stdout.flush()
         time.sleep(sleepsec)
-        return getJson(url, cookie, values)
+        return getJson(url, cookie, values, username, password)
     try:
         return r.json()
     except ValueError, e:
@@ -51,7 +52,7 @@ def startSession():
     
     #use requests to try and login and get arkcookies
     start_session_url = '{0}/user_home.php?handle={1}&passwd={2}'.format(root_url, ark_user, pswd)
-    r = requests.get(start_session_url)
+    r = requests.get(start_session_url,verify=True)
     ark_cookies = r.cookies
 
     # if we got no cookies, the password was probably wrong try again
@@ -146,14 +147,13 @@ def getItems(module):
             requestItemsQ.task_done()
             print "{}% of {}s complete".format(int((float(len(items)) / float(len(sample)))*100) , itemkey)
 
-    # Fifteen seems like a reasonable number of thread
-    # after testing - more than that the VM starts to reject connections
-    numberofthreads = min(15,len(sample))
+    # 20 threads slightly spread out randomly to spread the load
+    numberofthreads = min(20,len(sample))
     for i in range(numberofthreads):
         t = threading.Thread(target=itemsProcess)
         t.daemon = True
         t.start()
-        time.sleep(0.5)
+        time.sleep(random.random())
 
     #rejoin the Queue
     requestItemsQ.join()

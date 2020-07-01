@@ -10,13 +10,13 @@
   }, 
   "@set": [
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90", 
       "@type": "xs:string", 
-      "prefLabel": "1 to 50", 
+      "prefLabel": "10yr 7_8", 
       "label": [
         {
-          "en": "1:50"
+          "en": "10YR 7/8"
         }
       ]
     }, 
@@ -81,10 +81,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/147", 
-      "@type": "xs:string", 
-      "prefLabel": "ceramic", 
+      "exactMatch": "http://vocab.getty.edu/aat/300235507", 
       "label": [
         {
           "en": "Ceramic"
@@ -94,6 +92,20 @@
         }, 
         {
           "ru": "\u041a\u0435\u0440\u0430\u043c\u0438\u043a\u0430ru"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "ceramic"
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059", 
+      "@type": "xs:string", 
+      "prefLabel": " arsw, form 62 b", 
+      "label": [
+        {
+          "en": " ARSW, form 62 B"
         }
       ]
     }, 
@@ -487,10 +499,7 @@
       "prefLabel": "cherson"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/134", 
-      "@type": "xs:string", 
-      "prefLabel": "carbonised wood", 
       "label": [
         {
           "en": "Carbonised Wood"
@@ -501,16 +510,20 @@
         {
           "ru": "\u041e\u0431\u0443\u0433\u043b\u0435\u043d\u043d\u043e\u0435  \u0434\u0435\u0440\u0435\u0432\u043eru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8877", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "carbonised wood"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/479", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74", 
       "@type": "xs:string", 
-      "prefLabel": "astragalus", 
+      "prefLabel": "2,5yr 6_3", 
       "label": [
         {
-          "en": "Astragalus"
+          "en": "2,5YR 6/3"
         }
       ]
     }, 
@@ -548,15 +561,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/487", 
-      "@type": "xs:string", 
-      "prefLabel": "mpp", 
       "label": [
         {
           "en": "Mpp"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0003821", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mpp"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
@@ -636,24 +650,25 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/463", 
-      "@type": "xs:string", 
-      "prefLabel": "humerus distal", 
       "label": [
         {
           "en": "Humerus Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000976", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "humerus distal"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/326", 
       "@type": "xs:string", 
-      "prefLabel": "f", 
+      "prefLabel": "constantinople?", 
       "label": [
         {
-          "en": "F"
+          "en": "Constantinople?"
         }
       ]
     }, 
@@ -669,13 +684,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40", 
       "@type": "xs:string", 
-      "prefLabel": "corinth", 
+      "prefLabel": "10yr 6_3", 
       "label": [
         {
-          "en": "Corinth"
+          "en": "10YR 6/3"
         }
       ]
     }, 
@@ -759,15 +774,17 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56", 
-      "@type": "xs:string", 
-      "prefLabel": "10r 8_1", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/328", 
+      "exactMatch": "http://nomisma.org/id/siscia", 
       "label": [
         {
-          "en": "10R 8/1"
+          "en": "Siscia"
         }
-      ]
+      ], 
+      "closeMatch": "https://pleiades.stoa.org/places/197504", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
+      "@type": "xs:string", 
+      "prefLabel": "siscia"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -792,16 +809,15 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1132/False", 
-      "exactMatch": "http://nomisma.org/id/ae3_4", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244", 
+      "@type": "xs:string", 
+      "prefLabel": "5yr 3_2", 
       "label": [
         {
-          "en": "AE3/4"
+          "en": "5YR 3/2"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!ae3_4"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -815,15 +831,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140/False", 
-      "@type": "xs:string", 
-      "prefLabel": "!pentanummium", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/224", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=90397", 
       "label": [
         {
-          "en": "Pentanummium"
+          "en": "Echinochloa  crus galli"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+      "@type": "xs:string", 
+      "prefLabel": "echinochloa  crus galli"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
@@ -870,10 +887,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/155", 
-      "@type": "xs:string", 
-      "prefLabel": "horn", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011826", 
       "label": [
         {
           "en": "Horn"
@@ -884,7 +899,10 @@
         {
           "ru": "\u0420\u043e\u0433ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "horn"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -1070,15 +1088,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/512", 
-      "@type": "xs:string", 
-      "prefLabel": "ulna shaft", 
       "label": [
         {
           "en": "Ulna Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001424", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "ulna shaft"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -1120,6 +1139,18 @@
       ]
     }, 
     {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/222", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181180", 
+      "label": [
+        {
+          "en": "Buglossoides officinale"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+      "@type": "xs:string", 
+      "prefLabel": "buglossoides officinale"
+    }, 
+    {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1167", 
       "exactMatch": "http://nomisma.org/id/licinius", 
       "label": [
@@ -1132,15 +1163,16 @@
       "prefLabel": "licinius"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871", 
-      "@type": "xs:string", 
-      "prefLabel": "zeuxippos ware (groups 1-2, yakobson)", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/486", 
       "label": [
         {
-          "en": "Zeuxippos ware (groups 1-2, Yakobson)"
+          "en": "Mtt Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001448", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtt shaft"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett", 
@@ -1423,15 +1455,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40", 
-      "@type": "xs:string", 
-      "prefLabel": "10yr 6_3", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1129", 
+      "exactMatch": "http://nomisma.org/id/ae2", 
       "label": [
         {
-          "en": "10YR 6/3"
+          "en": "AE2"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "ae2"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -1445,10 +1478,7 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136", 
-      "@type": "xs:string", 
-      "prefLabel": "metallurgical", 
       "label": [
         {
           "en": "Metallurgical"
@@ -1458,6 +1488,21 @@
         }, 
         {
           "ru": "\u041c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439ru"
+        }
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8879", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "metallurgical"
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871", 
+      "@type": "xs:string", 
+      "prefLabel": "zeuxippos ware (groups 1-2, yakobson)", 
+      "label": [
+        {
+          "en": "Zeuxippos ware (groups 1-2, Yakobson)"
         }
       ]
     }, 
@@ -1507,17 +1552,6 @@
       "label": [
         {
           "en": "Total"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1195", 
-      "@type": "xs:string", 
-      "prefLabel": "corvus cornix", 
-      "label": [
-        {
-          "en": "Corvus cornix"
         }
       ]
     }, 
@@ -1749,16 +1783,22 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144/True", 
-      "exactMatch": "http://nomisma.org/id/tressis", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/146", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011176", 
       "label": [
         {
-          "en": "Tressis"
+          "en": "Stone"
+        }, 
+        {
+          "en": "Stoneen"
+        }, 
+        {
+          "ru": "\u041a\u0430\u043c\u0435\u043d\u044cru"
         }
       ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@type": "xs:string", 
-      "prefLabel": "tressis"
+      "prefLabel": "stone"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
@@ -1832,15 +1872,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/519", 
-      "@type": "xs:string", 
-      "prefLabel": "adult", 
       "label": [
         {
           "en": "Adult"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/5D8848D1-75EE-47FF-95B9-2A73AFAC72F0", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age", 
+      "@type": "xs:string", 
+      "prefLabel": "adult"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation", 
@@ -1920,18 +1961,6 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1136/False", 
-      "exactMatch": "http://nomisma.org/id/dichalkon", 
-      "label": [
-        {
-          "en": "Dichalkon"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!dichalkon"
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/118", 
       "@type": "xs:string", 
@@ -1987,16 +2016,16 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1137/False", 
-      "exactMatch": "http://nomisma.org/id/follis", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527", 
       "label": [
         {
-          "en": "Follis"
+          "en": "F"
         }
       ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "closeMatch": "http://opencontext.org/types/5C3FEB6B-5F7B-4179-008C-3C98908C39AE", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@type": "xs:string", 
-      "prefLabel": "!follis"
+      "prefLabel": "f"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1151", 
@@ -2127,15 +2156,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/521", 
-      "@type": "xs:string", 
-      "prefLabel": "male", 
       "label": [
         {
           "en": "Male"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/903C6D12-D868-4411-C4FD-CD0DD392B7BF", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "male"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
@@ -2323,13 +2353,37 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/531", 
-      "@type": "xs:string", 
-      "prefLabel": "f?", 
       "label": [
         {
           "en": "F?"
+        }
+      ], 
+      "closeMatch": "http://opencontext.org/types/120_606_DT_VarVal", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "f?"
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1142", 
+      "exactMatch": "http://nomisma.org/id/stater", 
+      "label": [
+        {
+          "en": "Stater"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "stater"
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1208", 
+      "@type": "xs:string", 
+      "prefLabel": "puffinus puffinus", 
+      "label": [
+        {
+          "en": "Puffinus puffinus"
         }
       ]
     }, 
@@ -2466,17 +2520,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1143/False", 
-      "@type": "xs:string", 
-      "prefLabel": "!tetrassarion", 
-      "label": [
-        {
-          "en": "Tetrassarion"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/982", 
       "@type": "xs:string", 
@@ -2527,15 +2570,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/470", 
-      "@type": "xs:string", 
-      "prefLabel": "mtc proximal", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1139", 
+      "exactMatch": "http://nomisma.org/id/lepton", 
       "label": [
         {
-          "en": "Mtc Proximal"
+          "en": "Lepton"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "lepton"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
@@ -2620,17 +2664,6 @@
       "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
       "@type": "xs:string", 
       "prefLabel": "viola arvensis"
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74", 
-      "@type": "xs:string", 
-      "prefLabel": "2,5yr 6_3", 
-      "label": [
-        {
-          "en": "2,5YR 6/3"
-        }
-      ]
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description", 
@@ -2738,27 +2771,28 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/413", 
-      "@type": "xs:string", 
-      "prefLabel": "l", 
       "label": [
         {
           "en": "L"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/599B5A8E-B4F3-461B-2C48-ABC59E41B882", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
+      "@type": "xs:string", 
+      "prefLabel": "l"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/417", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9925", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/217", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=89629", 
       "label": [
         {
-          "en": "Domestic Goat"
+          "en": "Anhusa sp."
         }
       ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
       "@type": "xs:string", 
-      "prefLabel": "domestic goat"
+      "prefLabel": "anhusa sp."
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel", 
@@ -2844,6 +2878,18 @@
       ]
     }, 
     {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/452", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9742", 
+      "label": [
+        {
+          "en": "porpoise"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "@type": "xs:string", 
+      "prefLabel": "porpoise"
+    }, 
+    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/45", 
       "@type": "xs:string", 
@@ -2855,13 +2901,19 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1208", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127", 
       "@type": "xs:string", 
-      "prefLabel": "puffinus puffinus", 
+      "prefLabel": "chert", 
       "label": [
         {
-          "en": "Puffinus puffinus"
+          "en": "Chert"
+        }, 
+        {
+          "en": "Cherten"
+        }, 
+        {
+          "ru": "\u0421\u043b\u0430\u043d\u0435\u0446ru"
         }
       ]
     }, 
@@ -2895,6 +2947,17 @@
       "label": [
         {
           "en": "2,5Y 3/5"
+        }
+      ]
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134", 
+      "@type": "xs:string", 
+      "prefLabel": "assarion", 
+      "label": [
+        {
+          "en": "Assarion"
         }
       ]
     }, 
@@ -3004,21 +3067,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/156", 
-      "@type": "xs:string", 
-      "prefLabel": "copper", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/479", 
       "label": [
         {
-          "en": "Copper"
-        }, 
-        {
-          "en": "Copperen"
-        }, 
-        {
-          "ru": "\u041c\u0435\u0434\u044cru"
+          "en": "Astragalus"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002395", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "astragalus"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
@@ -3161,13 +3219,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303", 
       "@type": "xs:string", 
-      "prefLabel": "gww ii, type 3, hayes 1992", 
+      "prefLabel": "25", 
       "label": [
         {
-          "en": "GWW II, type 3, Hayes 1992"
+          "en": "25"
         }
       ]
     }, 
@@ -3296,13 +3354,13 @@
       "prefLabel": "domestic pig"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064", 
       "@type": "xs:string", 
-      "prefLabel": "7_5 yr 3_2", 
+      "prefLabel": "syrian? (kashin_faience)", 
       "label": [
         {
-          "en": "7/5 YR 3/2"
+          "en": "Syrian? (kashin/faience)"
         }
       ]
     }, 
@@ -3411,18 +3469,13 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067", 
       "@type": "xs:string", 
-      "prefLabel": "material", 
+      "prefLabel": "class 33 (35?)", 
       "label": [
         {
-          "en": "Material"
-        }, 
-        {
-          "en": "Materialen"
-        }, 
-        {
-          "ru": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043bru"
+          "en": "Class 33 (35?)"
         }
       ]
     }, 
@@ -3464,10 +3517,7 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/154", 
-      "@type": "xs:string", 
-      "prefLabel": "flint", 
       "label": [
         {
           "en": "Flint"
@@ -3478,7 +3528,11 @@
         {
           "ru": "\u041a\u0440\u0435\u043c\u0435\u043d\u044cru"
         }
-      ]
+      ], 
+      "closeMatch": "http://vocab.getty.edu/aat/300011141", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "flint"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant", 
@@ -3491,10 +3545,7 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/133", 
-      "@type": "xs:string", 
-      "prefLabel": "flotation", 
       "label": [
         {
           "en": "Flotation"
@@ -3505,19 +3556,22 @@
         {
           "ru": "\u0424\u043b\u043e\u0442\u0430\u0446\u0438\u044fru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8876", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "flotation"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/217", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=89629", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1223", 
+      "@type": "xs:string", 
+      "prefLabel": "sarda sarda", 
       "label": [
         {
-          "en": "Anhusa sp."
+          "en": "Sarda sarda"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "anhusa sp."
+      ]
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1073", 
@@ -3613,10 +3667,7 @@
       "prefLabel": "wild boar"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/151", 
-      "@type": "xs:string", 
-      "prefLabel": "pasta vitrea", 
       "label": [
         {
           "en": "Pasta Vitrea"
@@ -3627,7 +3678,11 @@
         {
           "ru": "\u0421\u0442\u0435\u043a\u043b\u043e\u0432\u0438\u0434\u043d\u0430\u044f \u043f\u0430\u0441\u0442\u0430ru"
         }
-      ]
+      ], 
+      "closeMatch": "http://vocab.getty.edu/aat/300263723", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "pasta vitrea"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1080", 
@@ -3683,25 +3738,27 @@
       "prefLabel": "euphorbia helioscopia"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
-      "@type": "xs:string", 
-      "prefLabel": "side", 
       "label": [
         {
           "en": "Side"
         }
-      ]
+      ], 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
+      "@type": "xs:string", 
+      "prefLabel": "side", 
+      "closeMatch": "http://opencontext.org/predicates/B1BB9E0B-B9B8-46B9-63F6-7E851D4F6E75"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/377", 
-      "@type": "xs:string", 
-      "prefLabel": "bone", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011798", 
       "label": [
         {
           "en": "Bone"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+      "@type": "xs:string", 
+      "prefLabel": "bone"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext", 
@@ -3765,34 +3822,20 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/522", 
-      "@type": "xs:string", 
-      "prefLabel": "female", 
       "label": [
         {
           "en": "Female"
         }
-      ]
-    }, 
-    {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/328", 
-      "exactMatch": "http://nomisma.org/id/siscia", 
-      "label": [
-        {
-          "en": "Siscia"
-        }
       ], 
-      "closeMatch": "https://pleiades.stoa.org/places/197504", 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
+      "closeMatch": "http://opencontext.org/types/6C480A08-2A37-4D08-FBC7-7C56D130AEDB", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex", 
       "@type": "xs:string", 
-      "prefLabel": "siscia"
+      "prefLabel": "female"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/148", 
-      "@type": "xs:string", 
-      "prefLabel": "semi-precious stone", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011175", 
       "label": [
         {
           "en": "Semi-Precious Stone"
@@ -3803,7 +3846,10 @@
         {
           "ru": "\u041f\u043e\u043b\u0443\u0434\u0440\u0430\u0433\u043e\u0446\u0435\u043d\u043d\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044cru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "semi-precious stone"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
@@ -3867,6 +3913,17 @@
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913", 
+      "@type": "xs:string", 
+      "prefLabel": "corinth", 
+      "label": [
+        {
+          "en": "Corinth"
+        }
+      ]
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/961", 
       "@type": "xs:string", 
       "prefLabel": "tiles with stamps", 
@@ -3904,6 +3961,17 @@
       "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
       "@type": "xs:string", 
       "prefLabel": "lens culinaris"
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54", 
+      "@type": "xs:string", 
+      "prefLabel": "10yr 3_3", 
+      "label": [
+        {
+          "en": "10YR 3/3"
+        }
+      ]
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/232", 
@@ -3981,24 +4049,31 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/492", 
-      "@type": "xs:string", 
-      "prefLabel": "skull brain parts", 
       "label": [
         {
           "en": "Skull Brain Parts"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001703", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "skull brain parts"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13", 
       "@type": "xs:string", 
-      "prefLabel": " arsw, form 62 b", 
+      "prefLabel": "bad", 
       "label": [
         {
-          "en": " ARSW, form 62 B"
+          "en": "Bad"
+        }, 
+        {
+          "en": "Baden"
+        }, 
+        {
+          "ru": "\u041f\u043b\u043e\u0445\u043e\u0439ru"
         }
       ]
     }, 
@@ -4048,15 +4123,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/532", 
-      "@type": "xs:string", 
-      "prefLabel": "child m?", 
       "label": [
         {
           "en": "Child M?"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/122_596_DT_VarVal | http://opencontext.org/types/120_607_DT_VarVal", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "child m?"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/421", 
@@ -4069,6 +4145,17 @@
       "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
       "@type": "xs:string", 
       "prefLabel": "red deer"
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1141", 
+      "@type": "xs:string", 
+      "prefLabel": "stamenon (billon trachy)", 
+      "label": [
+        {
+          "en": "Stamenon (Billon trachy)"
+        }
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
@@ -4211,15 +4298,16 @@
       "prefLabel": "brick (type)"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/498", 
-      "@type": "xs:string", 
-      "prefLabel": "femur proximal", 
       "label": [
         {
           "en": "Femur Proximal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000981", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "femur proximal"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -4245,13 +4333,13 @@
       "prefLabel": "astragalus sp."
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1218", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255", 
       "@type": "xs:string", 
-      "prefLabel": "sander lucioperca", 
+      "prefLabel": "x", 
       "label": [
         {
-          "en": "Sander lucioperca"
+          "en": "X"
         }
       ]
     }, 
@@ -4328,10 +4416,7 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/139", 
-      "@type": "xs:string", 
-      "prefLabel": "mortar", 
       "label": [
         {
           "en": "Mortar"
@@ -4342,7 +4427,11 @@
         {
           "ru": "\u0418\u0437\u0432\u0435\u0441\u0442\u043a\u043e\u0432\u044b\u0439 \u0440\u0430\u0441\u0442\u0432\u043e\u0440ru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8882", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "mortar"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -4352,17 +4441,6 @@
       "label": [
         {
           "en": "Glazed White Ware I (Hayes)"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257", 
-      "@type": "xs:string", 
-      "prefLabel": "xii", 
-      "label": [
-        {
-          "en": "XII"
         }
       ]
     }, 
@@ -4389,13 +4467,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257", 
       "@type": "xs:string", 
-      "prefLabel": "5y 6_2", 
+      "prefLabel": "xii", 
       "label": [
         {
-          "en": "5Y 6/2"
+          "en": "XII"
         }
       ]
     }, 
@@ -4434,16 +4512,16 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/452", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9742", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/501", 
       "label": [
         {
-          "en": "porpoise"
+          "en": "Mtt whole"
         }
       ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001448", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@type": "xs:string", 
-      "prefLabel": "porpoise"
+      "prefLabel": "mtt whole"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face", 
@@ -4468,16 +4546,22 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1142/False", 
-      "exactMatch": "http://nomisma.org/id/stater", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/156", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011020", 
       "label": [
         {
-          "en": "Stater"
+          "en": "Copper"
+        }, 
+        {
+          "en": "Copperen"
+        }, 
+        {
+          "ru": "\u041c\u0435\u0434\u044cru"
         }
       ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@type": "xs:string", 
-      "prefLabel": "!stater"
+      "prefLabel": "copper"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
@@ -4597,17 +4681,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/486", 
-      "@type": "xs:string", 
-      "prefLabel": "mtt shaft", 
-      "label": [
-        {
-          "en": "Mtt Shaft"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1022", 
       "@type": "xs:string", 
@@ -4635,22 +4708,6 @@
       "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
       "@type": "xs:string", 
       "prefLabel": "juglans regia shells"
-    }, 
-    {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
-      "@type": "xs:string", 
-      "prefLabel": "findtype", 
-      "label": [
-        {
-          "en": "Findtype"
-        }, 
-        {
-          "en": "Findtypeen"
-        }, 
-        {
-          "ru": "\u0422\u0438\u043f \u043d\u0430\u0445\u043e\u0434\u043a\u0438ru"
-        }
-      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag", 
@@ -4692,13 +4749,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1141/False", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56", 
       "@type": "xs:string", 
-      "prefLabel": "!stamenon (billon trachy)", 
+      "prefLabel": "10r 8_1", 
       "label": [
         {
-          "en": "Stamenon (Billon trachy)"
+          "en": "10R 8/1"
         }
       ]
     }, 
@@ -4764,13 +4821,13 @@
       "prefLabel": "malva  silvestris"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81", 
       "@type": "xs:string", 
-      "prefLabel": "late roman", 
+      "prefLabel": "5y 6_2", 
       "label": [
         {
-          "en": "Late Roman"
+          "en": "5Y 6/2"
         }
       ]
     }, 
@@ -4786,15 +4843,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244", 
-      "@type": "xs:string", 
-      "prefLabel": "5yr 3_2", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1078", 
       "label": [
         {
-          "en": "5YR 3/2"
+          "en": "Terracotta"
         }
-      ]
+      ], 
+      "closeMatch": "http://vocab.getty.edu/aat/300047296", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class", 
+      "@type": "xs:string", 
+      "prefLabel": "terracotta"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter", 
@@ -4813,15 +4871,22 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1214", 
-      "@type": "xs:string", 
-      "prefLabel": "alosa sp.", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/181", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564", 
       "label": [
         {
-          "en": "Alosa sp."
+          "en": "Trmon or dic rachis internodes"
+        }, 
+        {
+          "en": "Trmon or dic rachis internodesen"
+        }, 
+        {
+          "ru": "\u0427\u043b\u0435\u043d\u0438\u043a \u043e\u0441\u0438 \u043a\u043e\u043b\u043e\u0441\u043a\u0430 \u043f\u0448\u0435\u043d\u0438\u0446\u044b-\u043e\u0434\u043d\u043e\u0437\u0435\u0440\u043d\u044f\u043d\u043a\u0438 \u0438\u043b\u0438 \u043f\u0448\u0435\u043d\u0438\u0446\u044b-\u0434\u0432\u0443\u0437\u0435\u0440\u043d\u044f\u043d\u043a\u0438ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+      "@type": "xs:string", 
+      "prefLabel": "trmon or dic rachis internodes"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -4885,15 +4950,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/374", 
-      "@type": "xs:string", 
-      "prefLabel": "marble", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011443", 
       "label": [
         {
           "en": "Marble"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+      "@type": "xs:string", 
+      "prefLabel": "marble"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -5130,15 +5196,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/464", 
-      "@type": "xs:string", 
-      "prefLabel": "humerus shaft", 
       "label": [
         {
           "en": "Humerus Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000976", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "humerus shaft"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3", 
@@ -5162,14 +5229,22 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/faunal_count", 
-      "@type": "xs:decimal", 
-      "prefLabel": "faunal count", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/200", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3754", 
       "label": [
         {
-          "en": "Faunal Count"
+          "en": "Prunus sp."
+        }, 
+        {
+          "en": "Prunus sp.en"
+        }, 
+        {
+          "ru": "\u041f\u0440\u0443\u043d\u0443\u0441 (\u0432\u0438\u0434 \u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d)ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+      "@type": "xs:string", 
+      "prefLabel": "prunus sp."
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -5194,15 +5269,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414", 
-      "@type": "xs:string", 
-      "prefLabel": "r", 
       "label": [
         {
           "en": "R"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/685E2BCC-2814-4F1C-7FFA-C136D47EB0FB", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side", 
+      "@type": "xs:string", 
+      "prefLabel": "r"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -5238,10 +5314,7 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/135", 
-      "@type": "xs:string", 
-      "prefLabel": "residue analysis", 
       "label": [
         {
           "en": "Residue Analysis"
@@ -5252,7 +5325,11 @@
         {
           "ru": "\u0410\u043d\u0430\u043b\u0438\u0437 \u043e\u0441\u0442\u0430\u0442\u043a\u043e\u0432ru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8878", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "residue analysis"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -5329,19 +5406,13 @@
       "prefLabel": "bromus arvensis"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1195", 
       "@type": "xs:string", 
-      "prefLabel": "bad", 
+      "prefLabel": "corvus cornix", 
       "label": [
         {
-          "en": "Bad"
-        }, 
-        {
-          "en": "Baden"
-        }, 
-        {
-          "ru": "\u041f\u043b\u043e\u0445\u043e\u0439ru"
+          "en": "Corvus cornix"
         }
       ]
     }, 
@@ -5431,16 +5502,15 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/437", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9685", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1199", 
+      "@type": "xs:string", 
+      "prefLabel": "garrulus glandarius", 
       "label": [
         {
-          "en": "Domestic Cat"
+          "en": "Garrulus glandarius"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
-      "@type": "xs:string", 
-      "prefLabel": "domestic cat"
+      ]
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
@@ -5476,30 +5546,25 @@
       "prefLabel": "mortar (class)"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/465", 
-      "@type": "xs:string", 
-      "prefLabel": "radius proximal", 
       "label": [
         {
           "en": "Radius Proximal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001423", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "radius proximal"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1201", 
       "@type": "xs:string", 
-      "prefLabel": "chert", 
+      "prefLabel": "melanitta nigra", 
       "label": [
         {
-          "en": "Chert"
-        }, 
-        {
-          "en": "Cherten"
-        }, 
-        {
-          "ru": "\u0421\u043b\u0430\u043d\u0435\u0446ru"
+          "en": "Melanitta nigra"
         }
       ]
     }, 
@@ -5621,15 +5686,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/499", 
-      "@type": "xs:string", 
-      "prefLabel": "tibia", 
       "label": [
         {
           "en": "Tibia"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000979", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "tibia"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -5643,15 +5709,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525", 
-      "@type": "xs:string", 
-      "prefLabel": "long bones", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1132", 
+      "exactMatch": "http://nomisma.org/id/ae3_4", 
       "label": [
         {
-          "en": "Long bones"
+          "en": "AE3/4"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "ae3_4"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/177", 
@@ -5739,9 +5806,17 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030", 
       "@type": "xs:string", 
-      "prefLabel": "phase", 
+      "prefLabel": "slip-painted jug", 
+      "label": [
+        {
+          "en": "Slip-painted jug"
+        }
+      ]
+    }, 
+    {
       "label": [
         {
           "en": "Phase"
@@ -5752,7 +5827,11 @@
         {
           "ru": "\u0424\u0430\u0437\u0430ru"
         }
-      ]
+      ], 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+      "@type": "xs:string", 
+      "prefLabel": "phase", 
+      "closeMatch": "http://opencontext.org/vocabularies/oc-general/cat-phase"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws", 
@@ -5782,15 +5861,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46", 
-      "@type": "xs:string", 
-      "prefLabel": "7_5 yr 5_3", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1148", 
+      "exactMatch": "http://nomisma.org/id/constantine_vii", 
       "label": [
         {
-          "en": "7/5 YR 5/3"
+          "en": "Constantine VII"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority", 
+      "@type": "xs:string", 
+      "prefLabel": "constantine vii"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag", 
@@ -5826,10 +5906,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/150", 
-      "@type": "xs:string", 
-      "prefLabel": "mineral", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011068", 
       "label": [
         {
           "en": "Mineral"
@@ -5840,7 +5918,10 @@
         {
           "ru": "\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "mineral"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/1", 
@@ -5881,15 +5962,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/529", 
-      "@type": "xs:string", 
-      "prefLabel": "m", 
       "label": [
         {
           "en": "M"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/8C21EC03-4029-4EA0-283C-B49324D8D610", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "m"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/422", 
@@ -5927,17 +6009,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974", 
-      "@type": "xs:string", 
-      "prefLabel": "fine sgraffito group (?)", 
-      "label": [
-        {
-          "en": "Fine sgraffito group (?)"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/284", 
       "@type": "xs:string", 
@@ -5960,13 +6031,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272", 
       "@type": "xs:string", 
-      "prefLabel": "10yr 7_8", 
+      "prefLabel": "1 to 50", 
       "label": [
         {
-          "en": "10YR 7/8"
+          "en": "1:50"
         }
       ]
     }, 
@@ -5987,10 +6058,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/149", 
-      "@type": "xs:string", 
-      "prefLabel": "gold", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011021", 
       "label": [
         {
           "en": "Gold"
@@ -6001,7 +6070,10 @@
         {
           "ru": "\u0417\u043e\u043b\u043e\u0442\u043eru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "gold"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6059,15 +6131,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/511", 
-      "@type": "xs:string", 
-      "prefLabel": "femur", 
       "label": [
         {
           "en": "Femur"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000981", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "femur"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
@@ -6177,15 +6250,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/501", 
-      "@type": "xs:string", 
-      "prefLabel": "mtt whole", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1133", 
+      "exactMatch": "http://nomisma.org/id/ae4", 
       "label": [
         {
-          "en": "Mtt whole"
+          "en": "AE4"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "ae4"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator", 
@@ -6226,15 +6300,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/514", 
-      "@type": "xs:string", 
-      "prefLabel": "grifel'naya", 
       "label": [
         {
           "en": "Grifel'naya"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0012267", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "grifel'naya"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -6281,10 +6356,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/152", 
-      "@type": "xs:string", 
-      "prefLabel": "wood", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011914", 
       "label": [
         {
           "en": "Wood"
@@ -6295,7 +6368,10 @@
         {
           "ru": "\u0414\u0435\u0440\u0435\u0432\u043eru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+      "@type": "xs:string", 
+      "prefLabel": "wood"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6309,15 +6385,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/481", 
-      "@type": "xs:string", 
-      "prefLabel": "central", 
       "label": [
         {
           "en": "Central"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0012131", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "central"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
@@ -6370,15 +6447,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/474", 
-      "@type": "xs:string", 
-      "prefLabel": "femur distal", 
       "label": [
         {
           "en": "Femur Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000981", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "femur distal"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6502,13 +6580,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57", 
       "@type": "xs:string", 
-      "prefLabel": "syrian? (kashin_faience)", 
+      "prefLabel": "7_5 yr 3_2", 
       "label": [
         {
-          "en": "Syrian? (kashin/faience)"
+          "en": "7/5 YR 3/2"
         }
       ]
     }, 
@@ -6557,10 +6635,7 @@
       "prefLabel": "jar (class)"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/137", 
-      "@type": "xs:string", 
-      "prefLabel": "palaeobotanical", 
       "label": [
         {
           "en": "Palaeobotanical"
@@ -6571,7 +6646,11 @@
         {
           "ru": "\u041f\u0430\u043b\u0435\u043e\u0431\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439ru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8880", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "palaeobotanical"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6630,13 +6709,13 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1192", 
       "@type": "xs:string", 
-      "prefLabel": "10yr 3_3", 
+      "prefLabel": "columba livia", 
       "label": [
         {
-          "en": "10YR 3/3"
+          "en": "Columba livia"
         }
       ]
     }, 
@@ -6693,24 +6772,24 @@
       "prefLabel": "urtica sp"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1218", 
       "@type": "xs:string", 
-      "prefLabel": "x", 
+      "prefLabel": "sander lucioperca", 
       "label": [
         {
-          "en": "X"
+          "en": "Sander lucioperca"
         }
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1130/False", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258", 
       "@type": "xs:string", 
-      "prefLabel": "!ae centenionalis", 
+      "prefLabel": "xiii", 
       "label": [
         {
-          "en": "AE centenionalis"
+          "en": "XIII"
         }
       ]
     }, 
@@ -6791,17 +6870,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134/False", 
-      "@type": "xs:string", 
-      "prefLabel": "!assarion", 
-      "label": [
-        {
-          "en": "Assarion"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/886", 
       "@type": "xs:string", 
@@ -6813,15 +6881,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/497", 
-      "@type": "xs:string", 
-      "prefLabel": "radius", 
       "label": [
         {
           "en": "Radius"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001423", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "radius"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6862,15 +6931,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/462", 
-      "@type": "xs:string", 
-      "prefLabel": "humerus proximal", 
       "label": [
         {
           "en": "Humerus Proximal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000976", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "humerus proximal"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6884,16 +6954,15 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1148", 
-      "exactMatch": "http://nomisma.org/id/constantine_vii", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46", 
+      "@type": "xs:string", 
+      "prefLabel": "7_5 yr 5_3", 
       "label": [
         {
-          "en": "Constantine VII"
+          "en": "7/5 YR 5/3"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority", 
-      "@type": "xs:string", 
-      "prefLabel": "constantine vii"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -6908,12 +6977,12 @@
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974", 
       "@type": "xs:string", 
-      "prefLabel": "slip-painted ware (group 8,  yakobson) ", 
+      "prefLabel": "fine sgraffito group (?)", 
       "label": [
         {
-          "en": "Slip-painted ware (group 8,  Yakobson) "
+          "en": "Fine sgraffito group (?)"
         }
       ]
     }, 
@@ -7052,10 +7121,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/141", 
-      "@type": "xs:string", 
-      "prefLabel": "iron", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011002", 
       "label": [
         {
           "en": "Iron"
@@ -7066,16 +7133,19 @@
         {
           "ru": "\u0416\u0435\u043b\u0435\u0437\u043eru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "iron"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892", 
       "@type": "xs:string", 
-      "prefLabel": "25", 
+      "prefLabel": "gww ii, type 3, hayes 1992", 
       "label": [
         {
-          "en": "25"
+          "en": "GWW II, type 3, Hayes 1992"
         }
       ]
     }, 
@@ -7110,16 +7180,15 @@
       "prefLabel": "setaria viridis"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/212", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4202", 
+      "exactMatch": "http://nomisma.org/ontology#Denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "denomination", 
       "label": [
         {
-          "en": "Sambucusnigra"
+          "en": "Denomination"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "sambucusnigra"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area", 
@@ -7166,18 +7235,18 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/5/1", 
-      "@type": "xs:uri", 
-      "prefLabel": "bonds with", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype", 
+      "@type": "xs:string", 
+      "prefLabel": "findtype", 
       "label": [
         {
-          "en": "Bonds With"
+          "en": "Findtype"
         }, 
         {
-          "en": "Bonds Withen"
+          "en": "Findtypeen"
         }, 
         {
-          "ru": "\u0421\u0432\u044f\u0437\u0430\u043d \u0441ru"
+          "ru": "\u0422\u0438\u043f \u043d\u0430\u0445\u043e\u0434\u043a\u0438ru"
         }
       ]
     }, 
@@ -7193,15 +7262,16 @@
       ]
     }, 
     {
-      "exactMatch": "http://nomisma.org/ontology#Denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/442", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73334", 
       "label": [
         {
-          "en": "Denomination"
+          "en": "Koulan ?"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "@type": "xs:string", 
+      "prefLabel": "koulan ?"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
@@ -7260,9 +7330,6 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
-      "@type": "xs:string", 
-      "prefLabel": "formation type", 
       "label": [
         {
           "en": "Formation Type"
@@ -7273,7 +7340,11 @@
         {
           "ru": "\u0422\u0438\u043f \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044fru"
         }
-      ]
+      ], 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
+      "@type": "xs:string", 
+      "prefLabel": "formation type", 
+      "closeMatch": "http://opencontext.org/predicates/040b458d-98cd-4c41-83ee-c289d3cc0a0b"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -7283,17 +7354,6 @@
       "label": [
         {
           "en": "Cos"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/326", 
-      "@type": "xs:string", 
-      "prefLabel": "constantinople?", 
-      "label": [
-        {
-          "en": "Constantinople?"
         }
       ]
     }, 
@@ -7309,15 +7369,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/513", 
-      "@type": "xs:string", 
-      "prefLabel": "ulna distal", 
       "label": [
         {
           "en": "Ulna Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001424", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "ulna distal"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -7342,25 +7403,13 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/224", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=90397", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962", 
+      "@type": "xs:string", 
+      "prefLabel": "late roman", 
       "label": [
         {
-          "en": "Echinochloa  crus galli"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "echinochloa  crus galli"
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1138/False", 
-      "@type": "xs:string", 
-      "prefLabel": "!half follis", 
-      "label": [
-        {
-          "en": "Half follis"
+          "en": "Late Roman"
         }
       ]
     }, 
@@ -7402,6 +7451,17 @@
       "label": [
         {
           "en": "Early medieval"
+        }
+      ]
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1143", 
+      "@type": "xs:string", 
+      "prefLabel": "tetrassarion", 
+      "label": [
+        {
+          "en": "Tetrassarion"
         }
       ]
     }, 
@@ -7453,17 +7513,15 @@
       "prefLabel": "triticum mon spikelet forks"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/335", 
-      "exactMatch": "http://nomisma.org/id/cyzicus", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947", 
+      "@type": "xs:string", 
+      "prefLabel": "group 8 (yakobson ) - slip-painted ware", 
       "label": [
         {
-          "en": "Cyzicus"
+          "en": "Group 8 (Yakobson ) - slip-painted ware"
         }
-      ], 
-      "closeMatch": "https://pleiades.stoa.org/places/511218", 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
-      "@type": "xs:string", 
-      "prefLabel": "cyzicus"
+      ]
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1154", 
@@ -7579,17 +7637,6 @@
       "prefLabel": "scallop"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1135/False", 
-      "@type": "xs:string", 
-      "prefLabel": "!decanummium", 
-      "label": [
-        {
-          "en": "Decanummium"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1009", 
       "@type": "xs:string", 
@@ -7610,18 +7657,6 @@
           "en": "Church"
         }
       ]
-    }, 
-    {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1133/False", 
-      "exactMatch": "http://nomisma.org/id/ae4", 
-      "label": [
-        {
-          "en": "AE4"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!ae4"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear", 
@@ -7785,10 +7820,18 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1138", 
       "@type": "xs:string", 
-      "prefLabel": "bronze", 
+      "prefLabel": "half follis", 
+      "label": [
+        {
+          "en": "Half follis"
+        }
+      ]
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142", 
       "label": [
         {
           "en": "Bronze"
@@ -7799,7 +7842,11 @@
         {
           "ru": "\u0411\u0440\u043e\u043d\u0437\u0430ru"
         }
-      ]
+      ], 
+      "closeMatch": "http://vocab.getty.edu/aat/300010942", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "bronze"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -7813,15 +7860,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964", 
-      "@type": "xs:string", 
-      "prefLabel": "cookware (type)", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/503", 
       "label": [
         {
-          "en": "Cookware (type)"
+          "en": "Humerus Whole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000976", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "humerus whole"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/208", 
@@ -7945,15 +7993,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/530", 
-      "@type": "xs:string", 
-      "prefLabel": "child", 
       "label": [
         {
           "en": "Child"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/122_596_DT_VarVal", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "child"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale", 
@@ -7989,15 +8038,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/485", 
-      "@type": "xs:string", 
-      "prefLabel": "mtt distal", 
       "label": [
         {
           "en": "Mtt Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001448", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtt distal"
     }, 
     {
       "exactMatch": "http://nomisma.org/id/obverse", 
@@ -8108,15 +8158,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258", 
-      "@type": "xs:string", 
-      "prefLabel": "xiii", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/470", 
       "label": [
         {
-          "en": "XIII"
+          "en": "Mtc Proximal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002374", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtc proximal"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/3/1", 
@@ -8173,15 +8224,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/478", 
-      "@type": "xs:string", 
-      "prefLabel": "tibia shaft", 
       "label": [
         {
           "en": "Tibia Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000979", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "tibia shaft"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1153", 
@@ -8196,15 +8248,16 @@
       "prefLabel": "caracalla"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/493", 
-      "@type": "xs:string", 
-      "prefLabel": "skull facial parts", 
       "label": [
         {
           "en": "Skull Facial Parts"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000209", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "skull facial parts"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -8302,6 +8355,18 @@
       "prefLabel": "sturgeon-type"
     }, 
     {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1137", 
+      "exactMatch": "http://nomisma.org/id/follis", 
+      "label": [
+        {
+          "en": "Follis"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "follis"
+    }, 
+    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/289", 
       "@type": "xs:string", 
@@ -8374,10 +8439,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/144", 
-      "@type": "xs:string", 
-      "prefLabel": "carbon", 
+      "exactMatch": "http://vocab.getty.edu/aat/300264720", 
       "label": [
         {
           "en": "Carbon"
@@ -8388,7 +8451,10 @@
         {
           "ru": "\u0423\u0433\u043e\u043b\u044cru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "carbon"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -8463,6 +8529,17 @@
       "label": [
         {
           "en": "Red clay (Zeest - 72)"
+        }
+      ]
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1130", 
+      "@type": "xs:string", 
+      "prefLabel": "ae centenionalis", 
+      "label": [
+        {
+          "en": "AE centenionalis"
         }
       ]
     }, 
@@ -8585,7 +8662,7 @@
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140/True", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140", 
       "@type": "xs:string", 
       "prefLabel": "pentanummium", 
       "label": [
@@ -8595,13 +8672,30 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/476", 
-      "@type": "xs:string", 
-      "prefLabel": "tibia proximal", 
       "label": [
         {
           "en": "Tibia Proximal"
+        }
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000979", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "tibia proximal"
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "material", 
+      "label": [
+        {
+          "en": "Material"
+        }, 
+        {
+          "en": "Materialen"
+        }, 
+        {
+          "ru": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043bru"
         }
       ]
     }, 
@@ -8771,17 +8865,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1201", 
-      "@type": "xs:string", 
-      "prefLabel": "melanitta nigra", 
-      "label": [
-        {
-          "en": "Melanitta nigra"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/827", 
       "@type": "xs:string", 
@@ -8827,15 +8910,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/472", 
-      "@type": "xs:string", 
-      "prefLabel": "mtc shaft", 
       "label": [
         {
           "en": "Mtc Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002374", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtc shaft"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
@@ -8860,15 +8944,17 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947", 
-      "@type": "xs:string", 
-      "prefLabel": "group 8 (yakobson ) - slip-painted ware", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/335", 
+      "exactMatch": "http://nomisma.org/id/cyzicus", 
       "label": [
         {
-          "en": "Group 8 (Yakobson ) - slip-painted ware"
+          "en": "Cyzicus"
         }
-      ]
+      ], 
+      "closeMatch": "https://pleiades.stoa.org/places/511218", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
+      "@type": "xs:string", 
+      "prefLabel": "cyzicus"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase", 
@@ -8889,17 +8975,6 @@
       "label": [
         {
           "en": "3rd-5th c. AD"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1192", 
-      "@type": "xs:string", 
-      "prefLabel": "columba livia", 
-      "label": [
-        {
-          "en": "Columba livia"
         }
       ]
     }, 
@@ -9033,17 +9108,6 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1223", 
-      "@type": "xs:string", 
-      "prefLabel": "sarda sarda", 
-      "label": [
-        {
-          "en": "Sarda sarda"
-        }
-      ]
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/934", 
       "@type": "xs:string", 
@@ -9089,24 +9153,30 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/504", 
-      "@type": "xs:string", 
-      "prefLabel": "femur whole", 
       "label": [
         {
           "en": "Femur Whole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000981", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "femur whole"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030", 
-      "@type": "xs:string", 
-      "prefLabel": "slip-painted jug", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/5/1", 
+      "@type": "xs:uri", 
+      "prefLabel": "bonds with", 
       "label": [
         {
-          "en": "Slip-painted jug"
+          "en": "Bonds With"
+        }, 
+        {
+          "en": "Bonds Withen"
+        }, 
+        {
+          "ru": "\u0421\u0432\u044f\u0437\u0430\u043d \u0441ru"
         }
       ]
     }, 
@@ -9132,18 +9202,6 @@
           "en": "Main street"
         }
       ]
-    }, 
-    {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1078", 
-      "label": [
-        {
-          "en": "Terracotta"
-        }
-      ], 
-      "closeMatch": "http://vocab.getty.edu/aat/300047296", 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class", 
-      "@type": "xs:string", 
-      "prefLabel": "terracotta"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face", 
@@ -9186,15 +9244,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/500", 
-      "@type": "xs:string", 
-      "prefLabel": "tibia whole", 
       "label": [
         {
           "en": "Tibia Whole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000979", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "tibia whole"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1176", 
@@ -9347,6 +9406,18 @@
       ]
     }, 
     {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/417", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9925", 
+      "label": [
+        {
+          "en": "Domestic Goat"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "@type": "xs:string", 
+      "prefLabel": "domestic goat"
+    }, 
+    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/963", 
       "@type": "xs:string", 
@@ -9358,13 +9429,19 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3", 
       "@type": "xs:string", 
-      "prefLabel": "class 33 (35?)", 
+      "prefLabel": "erosion", 
       "label": [
         {
-          "en": "Class 33 (35?)"
+          "en": "Erosion"
+        }, 
+        {
+          "en": "Erosionen"
+        }, 
+        {
+          "ru": "\u042d\u0440\u043e\u0437\u0438\u044fru"
         }
       ]
     }, 
@@ -9375,6 +9452,17 @@
       "label": [
         {
           "en": "Collection #"
+        }
+      ]
+    }, 
+    {
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964", 
+      "@type": "xs:string", 
+      "prefLabel": "cookware (type)", 
+      "label": [
+        {
+          "en": "Cookware (type)"
         }
       ]
     }, 
@@ -9412,15 +9500,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/484", 
-      "@type": "xs:string", 
-      "prefLabel": "mtt proximal", 
       "label": [
         {
           "en": "Mtt Proximal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001448", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtt proximal"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1163", 
@@ -9543,26 +9632,28 @@
       "prefLabel": "trifolium sp."
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/477", 
-      "@type": "xs:string", 
-      "prefLabel": "tibia distal", 
       "label": [
         {
           "en": "Tibia Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000979", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "tibia distal"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/469", 
-      "@type": "xs:string", 
-      "prefLabel": "mtcwhole", 
       "label": [
         {
           "en": "MtcWhole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002374", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtcwhole"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/19", 
@@ -9583,27 +9674,27 @@
       "prefLabel": "late byzantine (13th-14th century)"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525", 
+      "@type": "xs:string", 
+      "prefLabel": "long bones", 
       "label": [
         {
-          "en": "Fineware"
+          "en": "Long bones"
         }
-      ], 
-      "closeMatch": "http://vocab.getty.edu/aat/300264955", 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class", 
-      "@type": "xs:string", 
-      "prefLabel": "fineware"
+      ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/507", 
-      "@type": "xs:string", 
-      "prefLabel": "mtc whole", 
       "label": [
         {
           "en": "Mtc Whole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002374", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtc whole"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/215", 
@@ -9618,10 +9709,8 @@
       "prefLabel": "setaria viridis verticillata"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/153", 
-      "@type": "xs:string", 
-      "prefLabel": "lead", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011022", 
       "label": [
         {
           "en": "Lead"
@@ -9632,7 +9721,10 @@
         {
           "ru": "\u0421\u0432\u0438\u043d\u0435\u0446ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "lead"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -9700,16 +9792,15 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1129/False", 
-      "exactMatch": "http://nomisma.org/id/ae2", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1135", 
+      "@type": "xs:string", 
+      "prefLabel": "decanummium", 
       "label": [
         {
-          "en": "AE2"
+          "en": "Decanummium"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!ae2"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint", 
@@ -9778,10 +9869,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/145", 
-      "@type": "xs:string", 
-      "prefLabel": "clay", 
+      "exactMatch": "http://vocab.getty.edu/aat/300010439", 
       "label": [
         {
           "en": "Clay"
@@ -9792,7 +9881,10 @@
         {
           "ru": "\u0413\u043b\u0438\u043d\u0430ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "clay"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -9893,21 +9985,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/146", 
-      "@type": "xs:string", 
-      "prefLabel": "stone", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144", 
+      "exactMatch": "http://nomisma.org/id/tressis", 
       "label": [
         {
-          "en": "Stone"
-        }, 
-        {
-          "en": "Stoneen"
-        }, 
-        {
-          "ru": "\u041a\u0430\u043c\u0435\u043d\u044cru"
+          "en": "Tressis"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "tressis"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
@@ -9921,21 +10008,20 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/475", 
-      "@type": "xs:string", 
-      "prefLabel": "femur shaft", 
       "label": [
         {
           "en": "Femur Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0000981", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "femur shaft"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/158", 
-      "@type": "xs:string", 
-      "prefLabel": "pumice", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011250", 
       "label": [
         {
           "en": "Pumice"
@@ -9946,7 +10032,10 @@
         {
           "ru": "\u041f\u0435\u043c\u0437\u0430ru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "pumice"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
@@ -10031,15 +10120,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/467", 
-      "@type": "xs:string", 
-      "prefLabel": "radius shaft", 
       "label": [
         {
           "en": "Radius Shaft"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001423", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "radius shaft"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -10156,10 +10246,7 @@
       "prefLabel": "hordeum vulgare var.coeleste"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/132", 
-      "@type": "xs:string", 
-      "prefLabel": "organic material", 
       "label": [
         {
           "en": "Organic Material"
@@ -10170,7 +10257,11 @@
         {
           "ru": "\u041e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043bru"
         }
-      ]
+      ], 
+      "closeMatch": "https://www.britishmuseum.org/collection/term/x8875", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype", 
+      "@type": "xs:string", 
+      "prefLabel": "organic material"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -10291,22 +10382,15 @@
       "prefLabel": "ficus carica"
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/181", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1214", 
+      "@type": "xs:string", 
+      "prefLabel": "alosa sp.", 
       "label": [
         {
-          "en": "Trmon or dic rachis internodes"
-        }, 
-        {
-          "en": "Trmon or dic rachis internodesen"
-        }, 
-        {
-          "ru": "\u0427\u043b\u0435\u043d\u0438\u043a \u043e\u0441\u0438 \u043a\u043e\u043b\u043e\u0441\u043a\u0430 \u043f\u0448\u0435\u043d\u0438\u0446\u044b-\u043e\u0434\u043d\u043e\u0437\u0435\u0440\u043d\u044f\u043d\u043a\u0438 \u0438\u043b\u0438 \u043f\u0448\u0435\u043d\u0438\u0446\u044b-\u0434\u0432\u0443\u0437\u0435\u0440\u043d\u044f\u043d\u043a\u0438ru"
+          "en": "Alosa sp."
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "trmon or dic rachis internodes"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -10370,33 +10454,26 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/200", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3754", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/faunal_count", 
+      "@type": "xs:decimal", 
+      "prefLabel": "faunal count", 
       "label": [
         {
-          "en": "Prunus sp."
-        }, 
-        {
-          "en": "Prunus sp.en"
-        }, 
-        {
-          "ru": "\u041f\u0440\u0443\u043d\u0443\u0441 (\u0432\u0438\u0434 \u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d)ru"
+          "en": "Faunal Count"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "prunus sp."
+      ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/508", 
-      "@type": "xs:string", 
-      "prefLabel": "radius whole", 
       "label": [
         {
           "en": "Radius Whole"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001423", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "radius whole"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -10410,10 +10487,8 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/159", 
-      "@type": "xs:string", 
-      "prefLabel": "ivory", 
+      "exactMatch": "http://vocab.getty.edu/aat/300011857", 
       "label": [
         {
           "en": "Ivory"
@@ -10424,7 +10499,10 @@
         {
           "ru": "\u0421\u043b\u043e\u043d\u043e\u0432\u0430\u044f \u043a\u043e\u0441\u0442\u044cru"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material", 
+      "@type": "xs:string", 
+      "prefLabel": "ivory"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/454", 
@@ -10439,15 +10517,16 @@
       "prefLabel": "marten"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1199", 
-      "@type": "xs:string", 
-      "prefLabel": "garrulus glandarius", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/437", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9685", 
       "label": [
         {
-          "en": "Garrulus glandarius"
+          "en": "Domestic Cat"
         }
-      ]
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
+      "@type": "xs:string", 
+      "prefLabel": "domestic cat"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/430", 
@@ -10578,15 +10657,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/528", 
-      "@type": "xs:string", 
-      "prefLabel": "m?", 
       "label": [
         {
           "en": "M?"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/120_607_DT_VarVal", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex", 
+      "@type": "xs:string", 
+      "prefLabel": "m?"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag", 
@@ -10601,17 +10681,6 @@
         }, 
         {
           "ru": "\u0444\u043b\u0430\u0436\u043e\u043a \u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0437\u0430\u043f\u0438\u0441\u0438ru"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/503", 
-      "@type": "xs:string", 
-      "prefLabel": "humerus whole", 
-      "label": [
-        {
-          "en": "Humerus Whole"
         }
       ]
     }, 
@@ -10724,15 +10793,16 @@
       "prefLabel": "chicken"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/520", 
-      "@type": "xs:string", 
-      "prefLabel": "juvenile", 
       "label": [
         {
           "en": "Juvenile"
         }
-      ]
+      ], 
+      "closeMatch": "http://opencontext.org/types/9362136E-E8F5-4B8D-3990-14CE91632F10", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age", 
+      "@type": "xs:string", 
+      "prefLabel": "juvenile"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1156", 
@@ -10805,17 +10875,6 @@
       "label": [
         {
           "en": "ARSW, form 93/97"
-        }
-      ]
-    }, 
-    {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046", 
-      "@type": "xs:string", 
-      "prefLabel": "plain fineware", 
-      "label": [
-        {
-          "en": "Plain fineware"
         }
       ]
     }, 
@@ -10910,15 +10969,16 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/471", 
-      "@type": "xs:string", 
-      "prefLabel": "mtc distal", 
       "label": [
         {
           "en": "Mtc Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0002374", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "mtc distal"
     }, 
     {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1072", 
@@ -10948,6 +11008,18 @@
           "ru": "\u041c\u0435\u0442\u0430\u043b\u043b\u043e\u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430ru"
         }
       ]
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/212", 
+      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4202", 
+      "label": [
+        {
+          "en": "Sambucusnigra"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
+      "@type": "xs:string", 
+      "prefLabel": "sambucusnigra"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -10983,21 +11055,28 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype", 
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3", 
-      "@type": "xs:string", 
-      "prefLabel": "erosion", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074", 
       "label": [
         {
-          "en": "Erosion"
-        }, 
-        {
-          "en": "Erosionen"
-        }, 
-        {
-          "ru": "\u042d\u0440\u043e\u0437\u0438\u044fru"
+          "en": "Fineware"
         }
-      ]
+      ], 
+      "closeMatch": "http://vocab.getty.edu/aat/300264955", 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class", 
+      "@type": "xs:string", 
+      "prefLabel": "fineware"
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1136", 
+      "exactMatch": "http://nomisma.org/id/dichalkon", 
+      "label": [
+        {
+          "en": "Dichalkon"
+        }
+      ], 
+      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
+      "@type": "xs:string", 
+      "prefLabel": "dichalkon"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour", 
@@ -11009,18 +11088,6 @@
           "en": "10R 2,5/1"
         }
       ]
-    }, 
-    {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144/False", 
-      "exactMatch": "http://nomisma.org/id/tressis", 
-      "label": [
-        {
-          "en": "Tressis"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!tressis"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -11045,18 +11112,6 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1139/False", 
-      "exactMatch": "http://nomisma.org/id/lepton", 
-      "label": [
-        {
-          "en": "Lepton"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination", 
-      "@type": "xs:string", 
-      "prefLabel": "!lepton"
-    }, 
-    {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/968", 
       "@type": "xs:string", 
@@ -11064,6 +11119,16 @@
       "label": [
         {
           "en": "Megarian bowls"
+        }
+      ]
+    }, 
+    {
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth", 
+      "@type": "xs:string", 
+      "prefLabel": "teeth", 
+      "label": [
+        {
+          "en": "Teeth"
         }
       ]
     }, 
@@ -11130,18 +11195,6 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/442", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73334", 
-      "label": [
-        {
-          "en": "Koulan ?"
-        }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies", 
-      "@type": "xs:string", 
-      "prefLabel": "koulan ?"
-    }, 
-    {
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n", 
       "@type": "xs:string", 
       "prefLabel": "15n", 
@@ -11152,26 +11205,28 @@
       ]
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/468", 
-      "@type": "xs:string", 
-      "prefLabel": "ulna", 
       "label": [
         {
           "en": "Ulna"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001424", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "ulna"
     }, 
     {
-      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
       "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/466", 
-      "@type": "xs:string", 
-      "prefLabel": "radius distal", 
       "label": [
         {
           "en": "Radius Distal"
         }
-      ]
+      ], 
+      "closeMatch": "http://purl.obolibrary.org/obo/UBERON_0001423", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part", 
+      "@type": "xs:string", 
+      "prefLabel": "radius distal"
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -11196,7 +11251,7 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age", 
       "@type": "xs:string", 
       "prefLabel": "age", 
       "label": [
@@ -11206,16 +11261,15 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/222", 
-      "exactMatch": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181180", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046", 
+      "@type": "xs:string", 
+      "prefLabel": "plain fineware", 
       "label": [
         {
-          "en": "Buglossoides officinale"
+          "en": "Plain fineware"
         }
-      ], 
-      "inScheme": "https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype", 
-      "@type": "xs:string", 
-      "prefLabel": "buglossoides officinale"
+      ]
     }, 
     {
       "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
@@ -11251,12 +11305,13 @@
       ]
     }, 
     {
-      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth", 
+      "inScheme": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type", 
+      "@id": "http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873", 
       "@type": "xs:string", 
-      "prefLabel": "teeth", 
+      "prefLabel": "slip-painted ware (group 8,  yakobson) ", 
       "label": [
         {
-          "en": "Teeth"
+          "en": "Slip-painted ware (group 8,  Yakobson) "
         }
       ]
     }, 
