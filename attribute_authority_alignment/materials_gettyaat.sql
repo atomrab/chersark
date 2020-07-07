@@ -40,3 +40,30 @@ insert into cor_tbl_attribute(itemvalue,boolean, itemkey,attribute, cre_by, cre_
 (2627,1,"cor_tbl_span",1121,81,"2020-06-03T20:21:29.783Z"),
 (2628,1,"cor_tbl_span",1120,81,"2020-06-03T20:22:36.912Z"),
 (2629,1,"cor_tbl_span",1121,81,"2020-06-03T20:16:19.332Z");
+
+
+
+update cor_tbl_span set itemkey = "cor_lut_attribute", itemvalue = spantype, spantype=4 where id in (2614, 2613, 2612, 2611, 2610, 2619, 2618, 2617, 2616 , 2615, 2628, 2627, 2626,  2625, 2624, 2623, 2622, 2621, 2620, 2629)
+
+
+2614, 377  , Bone               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011798        ,     81, 2020-06-03 20:28:41 |
+| 2613, 374  , Marble             , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011443        ,     81, 2020-06-03 20:28:06 |
+| 2612, 323  , Glass              , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300010797        ,     81, 2020-06-03 20:27:34 |
+| 2611, 159  , Ivory              , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011857        ,     81, 2020-06-03 20:26:54 |
+| 2610, 158  , Pumice             , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011250        ,     81, 2020-06-03 20:26:26 |
+| 2619, 156  , Copper             , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011020        ,     81, 2020-06-03 20:25:27 |
+| 2618 ,155  , Horn               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011826        ,     81, 2020-06-03 20:25:02 |
+| 2617, 154  , Flint              , en        , http://www.w3.org/2004/02/skos/core#closeMatch                                , http://vocab.getty.edu/aat/300011141        ,     81, 2020-06-03 20:24:32 |
+| 2616, 153  , Lead               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011022        ,     81, 2020-06-03 20:23:54 |
+| 2615, 152  , Wood               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011914        ,     81, 2020-06-03 20:23:26 |
+| 2628, 151  , Pasta Vitrea       , en        , http://www.w3.org/2004/02/skos/core#closeMatch                                , http://vocab.getty.edu/aat/300263723        ,     81, 2020-06-03 20:22:36 |
+| 2627, 150  , Mineral            , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011068        ,     81, 2020-06-03 20:21:29 |
+| 2626, 149  , Gold               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011021        ,     81, 2020-06-03 20:20:55 |
+| 2625, 148  , Semi-precious Stone, en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011175        ,     81, 2020-06-03 20:20:23 |
+| 2624, 147  , Ceramic            , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300235507        ,     81, 2020-06-03 20:19:44 |
+| 2623, 146  , Stone              , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011176        ,     81, 2020-06-03 20:19:07 |
+| 2622, 145  , Clay               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300010439        ,     81, 2020-06-03 20:18:01 |
+| 2621, 144  , Carbon             , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300264720        ,     81, 2020-06-03 20:17:23 |
+| 2620, 142  , Bronze             , en        , http://www.w3.org/2004/02/skos/core#closeMatch                                , http://vocab.getty.edu/aat/300010942        ,     81, 2020-06-03 20:16:54 |
+| 2629, 141  , Iron               , en        , http://www.w3.org/2004/02/skos/core#exactMatch                                , http://vocab.getty.edu/aat/300011002        ,     81, 2020-06-03 20:16:19 |
+|

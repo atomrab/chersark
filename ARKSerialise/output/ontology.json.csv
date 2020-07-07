@@ -1,10 +1,11 @@
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale,1 to 50,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_8,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1007,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"class 4 (""gaza"")",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1205,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,phalacrocorax carbo,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/photographedon,-,date photographed,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/506,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mandible,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/891,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"glazed white ware i, hayes 1992",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/147,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,ceramic,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/147,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,ceramic,http://vocab.getty.edu/aat/300235507,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type," arsw, form 62 b",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/979,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified red-clay glazed ware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/78,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 6_6",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/865,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"arsw, form 62 b",-,-
@@ -35,12 +36,12 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/280,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1115,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,second half of 6th-first half of 7th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/860,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,brown gloss,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/324,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,cherson,http://nomisma.org/id/cherronesus,https://pleiades.stoa.org/places/226564
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/134,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,carbonised wood,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/479,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,astragalus,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/134,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,carbonised wood,-,https://www.britishmuseum.org/collection/term/x8877
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 6_3",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/95,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 6_4",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/108,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 6_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1221,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,labridae,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/487,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mpp,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/487,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mpp,-,http://purl.obolibrary.org/obo/UBERON_0003821
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1200,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,gavia arctica,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/weight,-,weight (g),http://nomisma.org/id/weight,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/933,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"class 12 (""running wave""; lrc 1-riley)",-,-
@@ -48,27 +49,27 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1193,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/36,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 4_4",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/91,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 4_2",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/253,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 4_3",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/463,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus distal,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,f,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/463,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus distal,-,http://purl.obolibrary.org/obo/UBERON_0000976
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/326,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,constantinople?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1204,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,phalacrocorax aristotelis,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,corinth,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 6_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/167,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,cereal grain fragments,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147368,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/75,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 4_1",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/84,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 4_3",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/85,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 4_2",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,accumulation,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,digitized,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10r 8_1,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/328,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,siscia,http://nomisma.org/id/siscia,https://pleiades.stoa.org/places/197504
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/972,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,group 3-4 (yakobson) - aegean ware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/96,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 3_3,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1132/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!ae3_4,http://nomisma.org/id/ae3_4,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 3_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/999,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 42 (gunsenin-i) and imitations,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!pentanummium,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/224,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,echinochloa  crus galli,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=90397,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1219,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,liza sp.,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1097,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,1st-2nd c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1062,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fine sgraffito group ,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1092,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,4th-6th c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/155,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,horn,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/155,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,horn,http://vocab.getty.edu/aat/300011826,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/107,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 5_6,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/37,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 5_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/49,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 5_1,-,-
@@ -84,12 +85,13 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/526,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/425,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,mussels,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6547,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/168,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,culm remains,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147368,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/83,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 3_2",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/512,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna shaft,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/512,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna shaft,-,http://purl.obolibrary.org/obo/UBERON_0001424
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/254,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 2_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/138,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,soil composition,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/872,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"aegean ware (group 3, yakobson)",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/222,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,buglossoides officinale,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181180,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1167,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,licinius,http://nomisma.org/id/licinius,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"zeuxippos ware (groups 1-2, yakobson)",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/486,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt shaft,-,http://purl.obolibrary.org/obo/UBERON_0001448
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/rollett,-,rollett and chiu (1994),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1028,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified cookware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/206,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,unidentified,https://eol.org/pages/42430800,-
@@ -113,14 +115,14 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/337,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1020,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,mortar (type),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/15,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,very good,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/130,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,vii,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/40,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 6_3,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1129,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,ae2,http://nomisma.org/id/ae2,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/910,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrd (""cypriot sigillata""), form 2",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,metallurgical,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/136,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,metallurgical,-,https://www.britishmuseum.org/collection/term/x8879
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/871,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"zeuxippos ware (groups 1-2, yakobson)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/483,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,carpal_tarsal,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/459,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,vertebrae,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/12,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,medium,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/total,-,total,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1195,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,corvus cornix,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/223,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,chenopodium album,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3559,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1118,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,9th c. ad?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/190,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,vicia sp,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3904,-
@@ -139,25 +141,24 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/124,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/170,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,hordeum vulgare,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4513,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/desc_brief,-,definition,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/956,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,bowls of 1st-2nd c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144/True,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,tressis,http://nomisma.org/id/tressis,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/146,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,stone,http://vocab.getty.edu/aat/300011176,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/496,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,lower teeth,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c_n,-,c_n,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payne,-,payne,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/116,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,glass,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/415,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic cattle,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9913,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/264,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel,medium reliability,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/519,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age,adult,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/519,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age,adult,-,http://opencontext.org/types/5D8848D1-75EE-47FF-95B9-2A73AFAC72F0
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/16,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,excellent,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/894,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fine sgraffito ware ,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,-,faunal species,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/143,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,iron_bronze,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/318,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,complex 2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1032,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,black gloss (pale and red clay),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1136/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!dichalkon,http://nomisma.org/id/dichalkon,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/118,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,none,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,-,room,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14az,-,c14 (az),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1137/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!follis,http://nomisma.org/id/follis,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/527,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,f,-,http://opencontext.org/types/5C3FEB6B-5F7B-4179-008C-3C98908C39AE
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1151,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,arcadius,http://nomisma.org/id/arcadius,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14k,-,c14 (k),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1093,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,2nd-4th c. ad,-,-
@@ -168,7 +169,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/195,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/129,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,v,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/catalog_cd,-,catalog code,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1061,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"champleve ware (group 4, yakobson) ",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/521,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex,male,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/521,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex,male,-,http://opencontext.org/types/903C6D12-D868-4411-C4FD-CD0DD392B7BF
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/7,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,root,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1004,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"hellenistic mortar, waster",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/220,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,brassica sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3717,-
@@ -184,7 +185,9 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/434,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/536,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,complex 1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/997,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,kashin - turquoise faience,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/315,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,complex 3,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/531,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,f?,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/531,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,f?,-,http://opencontext.org/types/120_606_DT_VarVal
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1142,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,stater,http://nomisma.org/id/stater,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1208,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,puffinus puffinus,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/payneage,-,payne age,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/441,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,european roe deer,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9858,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/93,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 7_6",-,-
@@ -197,12 +200,11 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/101,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/835,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,wheelmade cookware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/978,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain lids,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1050,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,light clay (zeest 104-105; shelov types e-f),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1143/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!tetrassarion,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/982,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified white-clay glazed fineware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/length,-,length,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/449,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,beluga sturgeon,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=61971,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/35,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 4_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/470,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc proximal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1139,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,lepton,http://nomisma.org/id/lepton,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1191,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,clangula hyemalis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/334,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,nicomedia or cyzicus,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/2,-,filled by,-,-
@@ -210,7 +212,6 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/418,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/115,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,tile,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/axis,-,axis,http://nomisma.org/id/axis,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/233,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,viola arvensis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=97415,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/74,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 6_3",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/description,-,description,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1165,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,heraclius,http://nomisma.org/id/heraclius,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/482,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,patella,-,-
@@ -220,8 +221,8 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1034,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/88,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 7_6",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/911,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,knidos (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/halstead,-,halstead age,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/413,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,l,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/417,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic goat,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9925,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/413,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,l,-,http://opencontext.org/types/599B5A8E-B4F3-461B-2C48-ABC59E41B882
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/217,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,anhusa sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=89629,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/265,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel,very good reliabilty,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/262,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat,natural,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/lastname,-,last name,-,-
@@ -229,11 +230,13 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/c14z,-,c14 (z),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1157,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,constantine i,http://nomisma.org/id/constantine_i,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/211,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,sambucus edulus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28503,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/329,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,nicomedia,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/452,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,porpoise,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9742,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/45,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 3_2",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1208,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,puffinus puffinus,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,chert,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/44,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 3_1",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1018,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fine sgraffito group cookware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/250,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 3_5",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,assarion,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,-,sample type,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1203,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,otis tarda,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/949,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,glazed white ware ii ,-,-
@@ -242,7 +245,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/252,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/276/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!gcps,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1177,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,theodosius i,http://nomisma.org/id/theodosius_i,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/interp,-,interpretation,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/156,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,copper,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/479,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,astragalus,-,http://purl.obolibrary.org/obo/UBERON_0002395
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/489,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,second phalange,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1209,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,rufibrenta ruficollis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/909,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,knidos,-,-
@@ -255,7 +258,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/926,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,-,birds,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/440,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,badger,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9662,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1057,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,lra 1,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"gww ii, type 3, hayes 1992",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,25,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/300,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,26,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/538,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,27,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/302,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,20,-,-
@@ -267,7 +270,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1215,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/227,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,fumaria officinalis.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=200993,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1194,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,corvus corax,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/419,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic pig,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9825,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 3_2,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,syrian? (kashin_faience),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1001,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form 1 (?)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sheepgoat,-,sheep_goat,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1052,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red clay (zeest 69),-,-
@@ -277,14 +280,14 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/447,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1224,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,gobius cobitis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1055,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"red clay (zeest 72), 2nd-3rd c. ad",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/126,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,plaster,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,-,material,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 33 (35?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/oldsamplecode,-,old sample code,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/923,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic plain fineware jar or bowl,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp2,-,dp2_p2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/154,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,flint,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/154,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,flint,-,http://vocab.getty.edu/aat/300011141
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/grant,-,grant age,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/133,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,flotation,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/217,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,anhusa sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=89629,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/133,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,flotation,-,https://www.britishmuseum.org/collection/term/x8876
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1223,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,sarda sarda,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1073,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,lid,http://kerameikos.org/id/lid,http://vocab.getty.edu/aat/300045712
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/55,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 8_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/918,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified middle byzantine glazed ware,-,-
@@ -293,43 +296,45 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/231,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/505,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,sternum,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1011,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,wheelmade cookware (including frags. of hellenistic cookpots) ,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/433,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,wild boar,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9823,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/151,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,pasta vitrea,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/151,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,pasta vitrea,-,http://vocab.getty.edu/aat/300263723
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1080,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,tile (class),-,http://vocab.getty.edu/aat/300010699
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/10,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,filling,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/229,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,lolium temulentum,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=34176,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/225,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,euphorbia helioscopia,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=154990,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,-,side,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/377,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,bone,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,-,side,-,http://opencontext.org/predicates/B1BB9E0B-B9B8-46B9-63F6-7E851D4F6E75
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/377,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,bone,http://vocab.getty.edu/aat/300011798,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/pubtext,-,publication text,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/453,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,turtle,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8459,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/9,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,burial,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/510,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,maxilla,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/937,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"class 36 (""black sea"")",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/522,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex,female,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/328,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,siscia,http://nomisma.org/id/siscia,https://pleiades.stoa.org/places/197504
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/148,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,semi-precious stone,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/522,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_sex,female,-,http://opencontext.org/types/6C480A08-2A37-4D08-FBC7-7C56D130AEDB
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/148,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,semi-precious stone,http://vocab.getty.edu/aat/300011175,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/11,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,dumping,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,-,fish,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1041,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,glazed jug,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/990,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,polychrome,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/927,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,heraklea,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/913,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,corinth,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/961,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,tiles with stamps,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1217,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,silurus glanis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/185,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,lens culinaris,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3864,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 3_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/232,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,malva pusilla,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=96480,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/450,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,carp-like fish,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7962,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/954,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, lrd, arsw (stems, walls)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/25,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,hellenistic,http://n2t.net/ark:/99152/p0b6j5mgvqt,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/60,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 4_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1089,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,hellenistic_roman,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/492,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,skull brain parts,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1059,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type," arsw, form 62 b",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/492,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,skull brain parts,-,http://purl.obolibrary.org/obo/UBERON_0001703
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,bad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/893,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic plain fineware jar,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1168,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,michael ii,http://nomisma.org/id/michael_ii,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/412,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sheepgoat,s_g,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1117,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,1st c. bc-3rd c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/532,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,child m?,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/532,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,child m?,-,http://opencontext.org/types/122_596_DT_VarVal | http://opencontext.org/types/120_607_DT_VarVal
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/421,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,red deer,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9860,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1141,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,stamenon (billon trachy),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1220,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,scophthalmus rhombus,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/457,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,ass,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9793,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/884,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,water pipe,-,-
@@ -342,29 +347,28 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/313,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/828,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"adsv, type v",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1186,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,anas strepera,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1081,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,brick (type),http://vocab.getty.edu/aat/300010463,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/498,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur proximal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/498,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur proximal,-,http://purl.obolibrary.org/obo/UBERON_0000981
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/921,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,chios (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/218,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,astragalus sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=20400,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1218,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,sander lucioperca,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,x,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1173,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,pulcheria,http://nomisma.org/id/aelia_pulcheria,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1211,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,unidentified bird,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/dp3,-,dp3_p3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/922,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic jar or bowl,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/830,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 24,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/157,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,bone_metal,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/139,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,mortar,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/139,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,mortar,-,https://www.britishmuseum.org/collection/term/x8882
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1047,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,glazed white ware i (hayes),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xii,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/852,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"glazed white ware ii, hayes 1992",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/959,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,open black-gloss forms,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 6_2,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/257,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xii,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/432,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,brown hare,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9983,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/854,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"glazed white ware iv (group 9, yakobson)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1185,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,anas sp.,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/452,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,porpoise,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9742,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/501,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt whole,-,http://purl.obolibrary.org/obo/UBERON_0001448
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/283,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,south,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/248,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5yr 7_4",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1142/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!stater,http://nomisma.org/id/stater,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/156,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,copper,http://vocab.getty.edu/aat/300011020,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/293,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xi,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/172,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,panicum miliaceum,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4540,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/957,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,closed gray-clay forms,-,-
@@ -374,30 +378,28 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_preservation
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/885,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,sgraffito ware (monochrome),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/dateexcavated,-,date excavated,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1023,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,polychrome white-clay,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/486,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt shaft,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1022,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"light clay (heraklea, sinope)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/203,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,juglans regia shells,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=51240,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,-,findtype,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!secure date,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/274,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale,1 to 10,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/984,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red-clay (e.g. zeest 72),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1141/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!stamenon (billon trachy),-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/56,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10r 8_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/420,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,horse,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9796,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1016,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,jugs,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,-,botany type,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/width,-,width,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/230,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,malva  silvestris,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=145754,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,late roman,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/81,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 6_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1190,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,calidris sp.,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/244,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 3_2,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1078,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,terracotta,-,http://vocab.getty.edu/aat/300047296
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/diameter,-,diameter,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1214,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,alosa sp.,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/181,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,trmon or dic rachis internodes,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/940,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,lid (type)s,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/840,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,light clay (zeest 104-105; types е-f-shelov),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/448,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,periwinkle,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31212,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/observations,-,observations,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/256,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xiv,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/374,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,marble,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/374,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,marble,http://vocab.getty.edu/aat/300011443,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/912,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,kos,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/61,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 4_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/166,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,avena sativa,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4498,-
@@ -418,24 +420,24 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/51,http://ica.tacc.
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/993,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,glazed white ware i,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1027,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified hellenistic and roman amphora,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/981,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"mortars, bowls",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/464,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus shaft,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/464,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus shaft,-,http://purl.obolibrary.org/obo/UBERON_0000976
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/m3,-,m3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/833,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 45  (gunsenin-iv),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/faunal_count,-,faunal count,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/200,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,prunus sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3754,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/58,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 8_6,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/862,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified amphora,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,r,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/414,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/side,r,-,http://opencontext.org/types/685E2BCC-2814-4F1C-7FFA-C136D47EB0FB
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/960,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,closed black-gloss forms,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/906,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,polychrome ware (white clay),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1008,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 22 (zeest-95; lra 3-riley),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/135,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,residue analysis,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/135,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,residue analysis,-,https://www.britishmuseum.org/collection/term/x8878
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/829,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 22 (zeest-95; lra 4-riley),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/928,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red clay,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/866,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 48 (gunsenin-iii),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/458,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,donkey,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9793,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/975,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,white-clay jugs,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/193,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,bromus arvensis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=55764,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/13,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,bad,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1195,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,corvus cornix,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/843,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified hellenistic_roman amphora,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1085,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,12th-13th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/17,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,modern,http://n2t.net/ark:/99152/p0b6j5m46gm,-
@@ -443,12 +445,12 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1158,https://ica.ta
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/263,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel,bad reliability,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1033,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"red clay (zeest 72, 76, 80)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1105,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,5th-first quarter 7th c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/437,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic cat,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9685,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1199,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,garrulus glandarius,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,-,mint,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1053,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,jug,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1075,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,mortar (class),http://vocab.getty.edu/aat/300395633,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/465,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius proximal,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/127,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,chert,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/465,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius proximal,-,http://purl.obolibrary.org/obo/UBERON_0001423
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1201,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,melanitta nigra,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/973,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"light clay, first centuries ad (sinope)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped,-,mapped?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/832,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 43 (gunsenin-ii),-,-
@@ -459,42 +461,42 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/540,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/306,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,tomb 2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/880,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,rhodes,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1043,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,gray clay with black gloss,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/499,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/499,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia,-,http://purl.obolibrary.org/obo/UBERON_0000979
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/881,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified middle byzantine glazed fineware,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags,long bones,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1132,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,ae3_4,http://nomisma.org/id/ae3_4,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/177,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,triticum monococcum,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/188,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,vicia sativa,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3908,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1159,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,constantius ii,http://nomisma.org/id/constantius_ii,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationint,-,formation (intentional),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1038,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 18 (lra 2-riley),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags,-,remains present,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,-,phase,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,slip-painted jug,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,-,phase,-,http://opencontext.org/vocabularies/oc-general/cat-phase
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/mws,-,mws_stage,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/29/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!completed,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 5_3,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1148,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,constantine vii,http://nomisma.org/id/constantine_vii,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/271/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!digitized,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1187,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,aquila chrysaetos,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/970,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,incense-burners,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/150,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,mineral,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/150,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,mineral,http://vocab.getty.edu/aat/300011068,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/4/1,-,fills,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/920,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,thasos (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1184,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,anas platyrhynchos,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/529,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,m,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/529,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,m,-,http://opencontext.org/types/8C21EC03-4029-4EA0-283C-B49324D8D610
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/422,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,dog,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9615,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/237,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,trifolium repens,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3899,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1068,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain fineware casserole?,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fine sgraffito group (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/284,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,north,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/410,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sheepgoat,ovis,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/90,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_8,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/272,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale,1 to 50,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer,-,photographed by,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/149,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,gold,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/149,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,gold,http://vocab.getty.edu/aat/300011021,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/539,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/79,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/105,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1210,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,turdus merula,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/89,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 7_6,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/511,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/511,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur,-,http://purl.obolibrary.org/obo/UBERON_0000981
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1127,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,dupondius,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1110,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,9th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/455,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,roker,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7781,-
@@ -504,23 +506,23 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/87,http://ica.tacc.
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/76,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 5_4,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/279,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,northeast,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/42,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 5_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/501,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt whole,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1133,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,ae4,http://nomisma.org/id/ae4,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator,-,excavator,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/68,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 5_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/490,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,third phalange,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/514,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,grifel'naya,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/514,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,grifel'naya,-,http://purl.obolibrary.org/obo/UBERON_0012267
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1054,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,jar,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/112,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10r 7_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1101,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,9th-10th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/249,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10r 5_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/152,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,wood,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/152,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,wood,http://vocab.getty.edu/aat/300011914,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/80,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10r 5_4,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/481,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,central,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/481,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,central,-,http://purl.obolibrary.org/obo/UBERON_0012131
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/140,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,architectural sample,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1104,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,late 10th-11th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/882,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,terracotta figurine,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/issuing,-,issuing authority,http://nomisma.org/id/authority,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/474,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur distal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/474,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur distal,-,http://purl.obolibrary.org/obo/UBERON_0000981
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/102,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 3_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/971,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,tile (type),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/251,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5y 3_1,-,-
@@ -532,24 +534,24 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1099,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1212,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,raja clavata,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1051,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,black and brown gloss,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/69,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 3_1,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1064,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,syrian? (kashin_faience),-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/57,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 3_2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/109,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 3_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,-,ceramic class,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1014,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,islamic fritware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1082,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,jar (class),http://vocab.getty.edu/aat/300195347,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/137,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,palaeobotanical,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/137,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,palaeobotanical,-,https://www.britishmuseum.org/collection/term/x8880
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/72,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 3_4,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1000,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,pseudo-kos (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/226,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,fallopia convolvulus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=76029,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/41,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 3_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/32,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 3_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/54,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 3_3,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1192,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,columba livia,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1188,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,aythya ferina,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/375,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,11th to 12th century,http://n2t.net/ark:/99152/p0b6j5mmx9p,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped,mapped,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/207,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,urtica sp,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3500,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/255,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,x,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1130/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!ae centenionalis,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1218,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,sander lucioperca,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xiii,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/113,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,gley 5g 8_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/929,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"light clay, first centuries ad ",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/reference,-,reference,http://nomisma.org/id/reference_work,-
@@ -557,17 +559,16 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1146,https://ica.ta
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1037,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"red-clay (zeest 72, 76)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/3/2,-,abutted by,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,-,sex,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!assarion,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/886,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form 1, hayes 1972",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/497,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/497,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius,-,http://purl.obolibrary.org/obo/UBERON_0001423
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/100,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 6_8,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/initials,-,initals,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/889,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form 10, hayes 1972",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/462,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus proximal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/462,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus proximal,-,http://purl.obolibrary.org/obo/UBERON_0000976
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/99,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 5_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1148,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,constantine vii,http://nomisma.org/id/constantine_vii,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/46,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 5_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/66,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 5_1,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"slip-painted ware (group 8,  yakobson) ",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/974,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fine sgraffito group (?),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/261,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat,artificial,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/245,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 7_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/869,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,middle byzantine plain fineware jar,-,-
@@ -579,38 +580,37 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/890,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1100,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,7th-9th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1035,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,stamped tile,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1206,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,podiceps cristatus,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/141,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,iron,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/303,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,25,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/141,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,iron,http://vocab.getty.edu/aat/300011002,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/892,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"gww ii, type 3, hayes 1992",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/21,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,middle byzantine (9-12th century),http://n2t.net/ark:/99152/p0b6j5mq3ms,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/214,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,setaria viridis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4556,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/212,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,sambucusnigra,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4202,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/denomination,-,denomination,http://nomisma.org/ontology#Denomination,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/319,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,courtyard,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/282,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,southeast,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1196,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,corvus monedula,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/916,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,storage jar,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/5/1,-,bonds with,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,-,findtype,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/309,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,31a,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/denomination,-,denomination,http://nomisma.org/ontology#Denomination,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/442,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,koulan ?,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73334,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1189,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,bucephala clangula,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/201,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,corylus avellana shells,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=13451,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,-,munsell colour,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/988,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"chersonesos, stamped",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,-,formation type,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,-,formation type,-,http://opencontext.org/predicates/040b458d-98cd-4c41-83ee-c289d3cc0a0b
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/895,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,cos,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/326,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,constantinople?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/reverse,-,reverse,http://nomisma.org/id/reverse,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/513,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna distal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/513,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna distal,-,http://purl.obolibrary.org/obo/UBERON_0001424
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/82,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"2,5y 2,5_1",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1198,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,gallus gallus f. domestica,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/224,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,echinochloa  crus galli,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=90397,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1138/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!half follis,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/962,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,late roman,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/221,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,buglossoides arvense,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181181,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/23,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,roman,http://n2t.net/ark:/99152/p0b6j5mh84m,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1116,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,early medieval,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1143,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,tetrassarion,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/266,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel,good reliability,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/182,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,trmon or dic spikelet forks,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/183,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,triticum mon spikelet forks,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/335,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,cyzicus,http://nomisma.org/id/cyzicus,https://pleiades.stoa.org/places/511218
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,group 8 (yakobson ) - slip-painted ware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1154,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,chersonesos,http://nomisma.org/id/cherronesus,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1095,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,1st c. bc-2nd c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/977,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,kashin pottery - turquoise glazed faience bowl,-,-
@@ -620,10 +620,8 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,-,period
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/509,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,cranium,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/297,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,29,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/427,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,scallop,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6566,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1135/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!decanummium,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1009,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,syrian (?) glazed ware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/317,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,church,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1133/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!ae4,http://nomisma.org/id/ae4,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/microwear,-,microwear,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/187,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,vicia ervilia,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=154498,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1102,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,9th-13th c. ad,-,-
@@ -637,9 +635,10 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/281,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/intact,-,intact?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/59,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"5yr 2,5_2",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/70,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"5yr 2,5_1",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,bronze,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1138,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,half follis,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/142,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,bronze,-,http://vocab.getty.edu/aat/300010942
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/902,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,brick,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,cookware (type),-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/503,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus whole,-,http://purl.obolibrary.org/obo/UBERON_0000976
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/208,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,olea europaea,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4146,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1003,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"light clay, first centuries ad (s-iv, vnukov)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationnat,-,formation (natural),-,-
@@ -649,11 +648,11 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/965,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/325,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,constantinople,http://nomisma.org/id/constantinople,https://pleiades.stoa.org/places/520998
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/2/1,-,covers,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/925,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,kalypter of the 8th-10th c. (?) with stamp,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/530,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,child,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/530,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,child,-,http://opencontext.org/types/122_596_DT_VarVal
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/273,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale,1 to 20,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1005,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,closed red-slip form ,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1029,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"glazed white ware ii, hayes",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/485,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt distal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/485,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt distal,-,http://purl.obolibrary.org/obo/UBERON_0001448
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/obverse,-,obverse,http://nomisma.org/id/obverse,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/955,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red-slip jug,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/186,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,pisum sativum,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3888,-
@@ -663,14 +662,14 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/958,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/321,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,tomb 3 (courtyard),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1084,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,9th-11th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/939,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic casserole,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/258,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xiii,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/470,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc proximal,-,http://purl.obolibrary.org/obo/UBERON_0002374
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/3/1,-,abuts,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/128,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,viii,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1207,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,podiceps nigricollis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/2/2,-,covered by,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/478,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia shaft,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/478,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia shaft,-,http://purl.obolibrary.org/obo/UBERON_0000979
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1153,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,caracalla,http://nomisma.org/id/caracalla,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/493,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,skull facial parts,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/493,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,skull facial parts,-,http://purl.obolibrary.org/obo/UBERON_0000209
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/65,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 6_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/839,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"red clay (zeest - 69, 72, 73)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/53,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 6_2,-,-
@@ -679,13 +678,14 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1150,https://ica.ta
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/131,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,vi,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/pdfs,-,pdf(s),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/435,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,sturgeon-type,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7900,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1137,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,follis,http://nomisma.org/id/follis,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/289,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,ii,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/986,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 51-52,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/14,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/preservation,good,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/836,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,pithos (type),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1025,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,constantinople white-clay ,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/868,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified early byzantine amphora,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/144,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,carbon,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/144,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,carbon,http://vocab.getty.edu/aat/300264720,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/86,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 4_4,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/52,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 4_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/298,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,n_a,-,-
@@ -693,6 +693,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/33,http://ica.tacc.
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1183,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,anas clypeata,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,-,ceramic type,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/900,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red clay (zeest - 72),-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1130,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,ae centenionalis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/314,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,31 probe,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/875,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,mortarium,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/907,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,chios,-,-
@@ -703,8 +704,9 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/874,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/461,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,scapula,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/28/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!closed,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1175,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,romanus iv,http://nomisma.org/id/romanus_iv,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,pentanummium,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/476,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia proximal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1140,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,pentanummium,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/476,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia proximal,-,http://purl.obolibrary.org/obo/UBERON_0000979
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,-,material,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/903,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"gww ii, type 13-14",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/436,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,cyprinoid,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7953,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1172,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,theodosius ii,http://nomisma.org/id/theodosius_ii,-
@@ -719,18 +721,16 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/914,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/936,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"class 24 (""black sea"" with rilled zones)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1147,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,basil ii,http://nomisma.org/id/basilius_ii,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/67,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,10yr 2_2,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1201,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,melanitta nigra,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/827,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 3 (zeest-100),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1019,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,arsw,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1164,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,justinian i,http://nomisma.org/id/justinian_i,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/950,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,incense-burner,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/472,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc shaft,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/472,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc shaft,-,http://purl.obolibrary.org/obo/UBERON_0002374
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1222,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,scorpaena sp.,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/941,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,oinochoai,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/947,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,group 8 (yakobson ) - slip-painted ware,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/335,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,cyzicus,http://nomisma.org/id/cyzicus,https://pleiades.stoa.org/places/511218
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/376,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/phase,xv,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1112,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,3rd-5th c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1192,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,columba livia,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/209,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,rubus  idaeus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32247,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/234,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,polygonum convolvulus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=76029,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/424,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,human,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606,-
@@ -742,20 +742,18 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/63,http://ica.tacc.
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/39,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 4_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/987,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified amphora (small fragments),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1106,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,2nd-1st c. bc,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1223,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,sarda sarda,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/934,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 18 (with funnel rim; lra 2-riley),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/103,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 6_3,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1152,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,basil i,http://nomisma.org/id/basilius_i,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/73,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,7_5 yr 6_4,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/504,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur whole,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1030,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,slip-painted jug,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/504,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur whole,-,http://purl.obolibrary.org/obo/UBERON_0000981
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/spanlabel/5/1,-,bonds with,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1160,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,diocletian,http://nomisma.org/id/diocletian,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/320,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,main street,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1078,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,terracotta,-,http://vocab.getty.edu/aat/300047296
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/285,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,east,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/202,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,morus nigra,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85232,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,!scanned,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/500,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia whole,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/500,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia whole,-,http://purl.obolibrary.org/obo/UBERON_0000979
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1176,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,justin ii,http://nomisma.org/id/justin_ii,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/905,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"gww ii, type 3",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/976,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic amphora,-,-
@@ -768,13 +766,15 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/534,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/176,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,triticum dicoccon,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/height,-,height,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1045,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"arsw, form 32_58",-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/417,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic goat,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9925,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/963,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,zeest 72,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1067,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 33 (35?),-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,erosion,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/collectionnum,-,collection #,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/964,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,cookware (type),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/219,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,ballota nigra,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=194200,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/face,-,facing,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1042,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, arsw form ?",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/484,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt proximal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/484,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtt proximal,-,http://purl.obolibrary.org/obo/UBERON_0001448
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1163,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,justin i,http://nomisma.org/id/justin_i,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/27/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,sketch,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/50,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"gley n 2,5_",-,-
@@ -785,27 +785,27 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1002,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/494,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,upper teeth,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/883,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified late byzantine glazed fineware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/238,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,trifolium sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3898,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/477,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia distal,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/469,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtcwhole,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/477,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,tibia distal,-,http://purl.obolibrary.org/obo/UBERON_0000979
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/469,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtcwhole,-,http://purl.obolibrary.org/obo/UBERON_0002374
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/19,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,late byzantine (13th-14th century),http://n2t.net/ark:/99152/p0b6j5mzmnj,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,fineware,-,http://vocab.getty.edu/aat/300264955
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/507,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc whole,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/525,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags,long bones,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/507,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc whole,-,http://purl.obolibrary.org/obo/UBERON_0002374
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/215,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,setaria viridis verticillata,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=149379,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/153,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,lead,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/153,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,lead,http://vocab.getty.edu/aat/300011022,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/845,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 4 (lra 3-riley),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/451,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,serpenta,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=8570,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/438,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,fox,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9627,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/ceramic_total,-,total of ceramics,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/comments,-,comments,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/fish_count,-,fish count,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1129/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!ae2,http://nomisma.org/id/ae2,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1135,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,decanummium,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/332,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/92,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,2.5y 4_4,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/826,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"class 2 (""carrot"")",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1044,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,red-clay glazed ware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1113,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,8th-10th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1111,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,1st c. bc -2nd c. ad,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/145,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,clay,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/145,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,clay,http://vocab.getty.edu/aat/300010439,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/931,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 2,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/930,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/917,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,fritware,-,-
@@ -815,10 +815,10 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/944,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1063,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,strainer,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/908,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,thasos,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/502,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,fibula,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/146,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,stone,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,tressis,http://nomisma.org/id/tressis,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/480,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,calcaneous,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/475,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur shaft,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/158,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,pumice,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/475,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,femur shaft,-,http://purl.obolibrary.org/obo/UBERON_0000981
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/158,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,pumice,http://vocab.getty.edu/aat/300011250,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/460,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ribs,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/953,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form 10 a",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/26/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,secure date,-,-
@@ -826,7 +826,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1086,http://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/330,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,kerkinitis,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/birds_count,-,birds count,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/338,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,nikomedia?,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/467,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius shaft,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/467,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius shaft,-,http://purl.obolibrary.org/obo/UBERON_0001423
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1012,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain red-clay jugs (including hellenistic examples),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/878,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,light clay,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/filetype/sketches,-,sketches,-,-
@@ -836,7 +836,7 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/985,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/838,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,lid (type),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/333,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,cherson?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/171,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,hordeum vulgare var.coeleste,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4513,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/132,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,organic material,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/132,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/sampletype,organic material,-,https://www.britishmuseum.org/collection/term/x8875
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1049,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unspecified amphora,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/932,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 4 (gaza type; lra 3-riley),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/247,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 4_4,-,-
@@ -847,18 +847,18 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1071,https://ica.ta
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/area,-,area,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/24,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/period,early byzantine (5th-7th century),http://n2t.net/ark:/99152/p0b6j5mtpfd,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/210,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,ficus carica,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3494,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/181,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,trmon or dic rachis internodes,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1214,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,alosa sp.,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/876,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,special vessel,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/426,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,oyster,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6563,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/851,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain fineware jar,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/277/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,geo-referenced,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/drawnon,-,drawn on,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/200,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,prunus sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3754,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/508,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius whole,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/numbertype/faunal_count,-,faunal count,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/508,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius whole,-,http://purl.obolibrary.org/obo/UBERON_0001423
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/935,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 22 (zeest-95; lra 10-riley),-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/159,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,ivory,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/159,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/material,ivory,http://vocab.getty.edu/aat/300011857,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/454,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,marten,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9658,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1199,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/birds,garrulus glandarius,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/437,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic cat,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9685,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/430,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,crab,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6752,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/datetype/interpretedon,-,interpreted on,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/216,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,silene sp,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3573,-
@@ -869,9 +869,8 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/887,http://ica.tacc
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/firstname,-,first name,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/8,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,construction,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/495,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,lower jaw,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/528,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,m?,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/528,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_sex,m?,-,http://opencontext.org/types/120_607_DT_VarVal
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,-,record status flag,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/503,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,humerus whole,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby,-,illustrator,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/205,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,unidentified leguminosae,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3803,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/523/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/skeletal_frags,skull,-,-
@@ -880,14 +879,13 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/stratrel,-,stra
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/942,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,closed plain form,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/339,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mint,heracleia,http://nomisma.org/id/heracleia_pontica,https://pleiades.stoa.org/places/844944
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/446,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,chicken,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9031,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/520,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age,juvenile,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/520,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age,juvenile,-,http://opencontext.org/types/9362136E-E8F5-4B8D-3990-14CE91632F10
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1156,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,constans,http://nomisma.org/id/constans,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1066,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,chios (capped),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1179,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,zeno,http://nomisma.org/id/zeno,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1114,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,1st-3rd c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/119,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/findtype,metal,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1048,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"arsw, form 93_97",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain fineware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/275/True,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/recflag,scanned,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/236,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,rumex  crispus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=174649,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/996,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,hellenistic_roman amphora,-,-
@@ -896,36 +894,36 @@ http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/228,https://ica.tac
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1109,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,10th or 13th c. ad?,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/857,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form 2, hayes 1972 ",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/307,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/room,grave 1,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/471,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc distal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/471,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,mtc distal,-,http://purl.obolibrary.org/obo/UBERON_0002374
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1072,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,storage,-,http://vocab.getty.edu/aat/300198880
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/6,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,metalworking,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/212,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,sambucusnigra,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4202,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1039,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,glazed white ware ii (hayes),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1076,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,special,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1216,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/fish,cyprinidae,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/3,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/formationtype,erosion,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1074,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_class,fineware,-,http://vocab.getty.edu/aat/300264955
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1136,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,dichalkon,http://nomisma.org/id/dichalkon,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/243,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,"10r 2,5_1",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1144/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!tressis,http://nomisma.org/id/tressis,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/896,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified middle-late byzantine amphora,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1040,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"polychrome ware (group 6, yakobson) ",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1139/False,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/denomination,!lepton,http://nomisma.org/id/lepton,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/968,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,megarian bowls,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth,-,teeth,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1145,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ctlissuingauthority,anastasius i,http://nomisma.org/id/anastasius,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/scale,-,scale,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/416,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,domestic sheep,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9940,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1096,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_date,4th-5th c. ad,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/488,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,first phalange,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/442,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunalspecies,koulan ?,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73334,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/15n,-,15n,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/468,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/466,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius distal,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/468,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,ulna,-,http://purl.obolibrary.org/obo/UBERON_0001424
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/466,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_part,radius distal,-,http://purl.obolibrary.org/obo/UBERON_0001423
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/831,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,class 41,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/269/False,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/mapped,!mapped,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/skeletal_age,-,age,-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/222,https://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/botanytype,buglossoides officinale,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181180,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/faunal_age,-,age,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1046,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,plain fineware,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/867,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"red clay (zeest - 72, 73, 75)",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/980,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,light clay (zeest 104-105; shelov type e-f),-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1065,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"lrc, form ?",-,-
-http://ica.tacc.utexas.edu/chersonesos/ark/concept/txttype/teeth,-,teeth,-,-
+http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/873,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,"slip-painted ware (group 8,  yakobson) ",-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/110,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,5yr 7_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/34,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/munsellcolour,gley 5gy 8_1,-,-
 http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/967,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attributetype/ceramic_type,unidentified type,-,-
