@@ -1,4 +1,4 @@
-﻿label,@id,map,@type,alt_type,skos:sameas,skos:sameas,skos:closematch,notes,date_start,edtf,date_end,edtf
+label,@id,map,@type,alt_type,skos:sameas,skos:sameas,skos:closematch,notes,date_start,edtf,date_end,edtf
 illustrator,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/drawnby,metadata,action,foaf:person,,,dcterms:creator,,,,,
 excavator,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/excavator,metadata,action,foaf:person,,,dcterms:creator,,,,,
 photographed by,http://ica.tacc.utexas.edu/chersonesos/ark/concept/actiontype/photographer,metadata,action,foaf:person,,,dcterms:creator,,,,,
@@ -142,7 +142,7 @@ gley 5g 8_1,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/113/Tru
 !ae centenionalis,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1130/False,nomisma,numismatic,,,,,,,,,
 !ae3_4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1132/False,nomisma,numismatic,,http://nomisma.org/id/ae3_4,,,,,,,
 !ae4,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1133/False,nomisma,numismatic,,http://nomisma.org/id/ae4,,,,,,,
-!assarion,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134/False,nomisma,numismatic,,,,,,,,,
+!assarion,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1134/False,nomisma,numismatic,,http://nomisma.org/id/as,,,,,,,
 !decanummium,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1135/False,nomisma,numismatic,,,,,,,,,
 !dichalkon,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1136/False,nomisma,numismatic,,http://nomisma.org/id/dichalkon,,,,,,,
 !follis,http://ica.tacc.utexas.edu/chersonesos/ark/concept/attribute/1137/False,nomisma,numismatic,,http://nomisma.org/id/follis,,,,,,,
