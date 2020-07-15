@@ -186,7 +186,7 @@ def getSpanLabel(spanlabel):
         return spanlabels[spanlabel]
     except KeyError:
         spanlabeljson = getJson("{}/json".format(spanlabel), ark_cookies)
-        for item in spanlabeljson[spanlabel]:
+        for item in spanlabeljson[spanlabel[:-2]]:
                 try:
                     spanlabels[spanlabel] = item[u'http://purl.org/dc/terms/title']['value'].lower()
                 except KeyError:
@@ -586,9 +586,25 @@ for prop in context:
     labels = []
     for concept in concepts:
         if u'closeMatch' in concept.keys():
-            ontobj[u'closeMatch'] = concept[u'closeMatch']['value']
+            try:
+                if type(ontobj[u'closeMatch']) == unicode:
+                    if(ontobj[u'closeMatch']==concept[u'closeMatch']['value']):
+                        continue
+                    ontobj[u'closeMatch'] = [ontobj[u'closeMatch'],concept[u'closeMatch']['value']]
+            except:
+                ontobj[u'closeMatch'] = concept[u'closeMatch']['value']
+
         if u'exactMatch' in concept.keys():
-            ontobj[u'exactMatch'] = concept[u'exactMatch']['value']
+            try:
+                print(type(ontobj[u'exactMatch']))
+                if type(ontobj[u'exactMatch']) == unicode:
+                    if(ontobj[u'exactMatch']==concept[u'exactMatch']['value']):
+                        continue
+                    print [ontobj[u'exactMatch'],concept[u'exactMatch']['value']]
+                    ontobj[u'exactMatch'] = [ontobj[u'exactMatch'],concept[u'exactMatch']['value']]
+            except:
+                ontobj[u'exactMatch'] = concept[u'exactMatch']['value']
+
         if u'http://www.w3.org/2004/02/skos/core#inScheme' in concept.keys():
             ontobj[u'inScheme'] = concept[u'http://www.w3.org/2004/02/skos/core#inScheme']['value']
         if u'http://www.w3.org/2001/XMLSchema#type' in concept.keys():
