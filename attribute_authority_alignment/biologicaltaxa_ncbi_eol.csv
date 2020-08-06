@@ -137,7 +137,7 @@ bird_species,,Corvus monedula,European jackdaw,Corvus monedula,Corvus monedula,h
 bird_species,,Coturnix coturnix,Common quail,Coturnix coturnix,Coturnix coturnix,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9091,9091,https://eol.org/pages/45513806,Dead link in NCBI
 bird_species,,Gallus gallus f. Domestica,Domestic chicken,Gallus gallus,Gallus gallus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9031,9031,https://eol.org/pages/45513816,Not linked from NCBI
 bird_species,,Garrulus glandarius,Eurasian jay,Garrulus glandarius,Garrulus glandarius,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=56783,56783,https://eol.org/pages/45515235,Dead link in NCBI
-bird_species,,Gavia arctica,Arctic loon,Gavia arctica,Gavia arctica,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=57069,57069,https://eol.org/pages/45508996,Dead link in NCBI
+bird_species,,Gavia arctica,Black-throated loon,Gavia arctica,Gavia arctica,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=57069,57069,https://eol.org/pages/45508996,Dead link in NCBI
 bird_species,,Melanitta nigra,Common scoter,Melanitta nigra,Melanitta nigra,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=198027,198027,https://eol.org/pages/45510595,Dead link in NCBI
 bird_species,,Netta rufina,Red-crested pochard,Netta rufina,Netta rufina,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=30387,30387,https://eol.org/pages/45513548,Dead link in NCBI
 bird_species,,Otis tarda,Great bustard,Otis tarda,Otis tarda,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73107,73107,https://eol.org/pages/45513576,Dead link in NCBI
@@ -148,6 +148,13 @@ bird_species,,Podiceps nigricollis,Black-necked grebe,Podiceps nigricollis,Podic
 bird_species,,Puffinus puffinus,Manx shearwater,Puffinus puffinus,Puffinus puffinus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=48688,48688,https://eol.org/pages/45511311,Not linked from NCBI
 bird_species,,Rufibrenta ruficollis,Red-breasted goose,Branta ruficollis,Branta ruficollis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=184715,184715,https://eol.org/pages/45513542,Dead link in NCBI; primary name Branta ruficollis in NCBI and EOL
 bird_species,,Turdus merula,Common blackbird,Turdus merula,Turdus merula,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9187,9187,https://eol.org/pages/45510215,Dead link in NCBI
+bird_species,,Aegithalos caudatus,Long-tailed tit,Aegithalos caudatus,Aegithalos caudata,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=73327,73327,https://eol.org/pages/45515414,Dead link in NCBI
+bird_species,,Gavia stellata,Red-throated loon,Gavia stellata,Gavia stellata,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37040,37040,https://eol.org/pages/45508995,Dead link in NCBI
+bird_species,,Larus cachinnans,Caspian gull,Larus cachinnans,Larus cachinnans,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=119609,119609,https://eol.org/pages/45513594,Dead link in NCBI
+bird_species,,Podiceps auritus,Horned grebe,Podiceps auritus,Podiceps auritus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37050,37050,https://eol.org/pages/45509032,Dead link in NCBI
+bird_species,,Podiceps grisegena,Red-necked grebe,Podiceps grisegena,Podiceps grisegena,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80367,80367,https://eol.org/pages/45509031,Dead link in NCBI
+bird_species,,Streptopelia sp.,Turtle dove,Streptopelia sp.,Streptopelia sp.,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36242,36242,https://eol.org/pages/45509389,Dead link in NCBI; this seems to be the page for the Streptopelia family
+bird_species,,Tadorna tadorna,Shelduck,Tadorna tadorna,Tadorna tadorna,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=75865,75865,https://eol.org/pages/45511262,Not linked from NCBI
 fish_species,,Raja clavata,Thornback skate,Raja clavata,Raja clavata,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7781,7781,https://eol.org/pages/46560547,Not linked from NCBI
 fish_species,,Acipenseridae,Sturgeon family,Acipenseridae,Acipenseridae,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7900,7900,https://eol.org/pages/8302,
 fish_species,,Alosa sp.,Herring family including shad,Alosa,Alosa,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=34772,34772,https://eol.org/pages/46562368,Dead link in NCBI
