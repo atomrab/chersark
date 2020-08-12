@@ -1,0 +1,56 @@
+﻿Source ID,Source Label,Language,Match Type,Target URI,Target Concept
+54,worked bone,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300011798,bone (material)
+43,stamped amphora handle,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300264921,transport amphorae
+36,rod or bar,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300014669,rods (object genre)
+34,pin or needle,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300024788,piercing tools
+26,metal vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300015336,metalwork (visual works)
+21,kiln waster,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300253876,waste
+18,horse-riding gear,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300255533,animal work equipment
+15,ground stone axe,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300400808,ax heads
+13,glass vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300010898,glassware
+4,ceramic vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300151343,ceramics (object genre)
+2,architectural fragment,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300000885,architectural elements
+3,basin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300045614,basins (vessels)
+1,anchor,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300219429,anchors (watercraft equipment)
+6,charcoal,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300012862,charcoal (material)
+7,coin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300037222,coins (money)
+8,crucible or cupel,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300196462,crucibles
+9,devotional,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300234144,devotional objects
+10,fastener,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300036363,fasteners
+11,fishhook,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024418,fishhooks
+12,gamepiece,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300211101,game pieces (game elements)
+17,hardware,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033260,hardware (components)
+55,worked stone,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300011176,stone (worked rock)
+53,wire,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300011063,wire
+52,window component,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300433044,window element
+51,whetstone,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300023299,whetstones
+50,weight,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300343371,weights (object genres)
+49,weapon,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300036926,weapons
+48,unidentifiable,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300379012,undetermined (information indicator)
+47,tool,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024841,tools
+46,thimble,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300247551,thimbles
+45,tile,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300010699,roofing tile
+20,key,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033579,keys (hardware)
+44,surface decoration,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300001987,surface elements (architectural)
+42,sphere,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300217875,balls (object genres)
+41,spindle whorl,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300263796,whorls (spindle flywheels)
+40,slag,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300011790,slag
+39,sheet metal,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300223016,sheet metal
+38,signet,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300028877,seals (artifacts)
+23,bell,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300041872,bells (idiophones)
+37,sculpture,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300047090,sculpture (visual works)
+24,lighting,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300037581,lighting devices
+35,ring,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300263678,rings (object genres)
+33,pestle,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024725,pestles
+32,ornament,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300266794,ornaments (object genre)
+31,natural object,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300404125,natural objects
+30,nail,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033565,nails (fasteners)
+29,mortar,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024724,mortars (grinding tools)
+25,lock,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033407,locks (securing devices)
+28,mold,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024814,molds (shaping equipment)
+27,millstone,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300185256,millstones (equipment components)
+22,knife,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024668,knives
+19,inlay,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300256033,inlays (decorations)
+16,handle,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024927,handles (components)
+14,graffiti,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300015613,graffiti (casual notations)
+5,chain,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300014625,chains (object genres)

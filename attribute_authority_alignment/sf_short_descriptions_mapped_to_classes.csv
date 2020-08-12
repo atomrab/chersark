@@ -1,0 +1,794 @@
+﻿module,code,short_dx,class
+sfi_cd,CH06SR_3736,Anchor,anchor
+sfi_cd,CH04SR_2265,Anchor (?),anchor
+sfi_cd,CH04SR_2377,arch detail,architectural fragment
+sfi_cd,CH04SR_2348,arch frag,architectural fragment
+sfi_cd,CH04SR_2347,arch frag w/plaster,architectural fragment
+sfi_cd,CH04SR_2366,architec fragment with plaster,architectural fragment
+sfi_cd,CH06SR_3450,Architechtural fragment,architectural fragment
+sfi_cd,CH01PA_1079,architectonic element,architectural fragment
+sfi_cd,CH04SR_2183,architectual detail (cornice),architectural fragment
+sfi_cd,CH04SR_2337,architectual frag,architectural fragment
+sfi_cd,CH06SR_3933,Architectural / sculptural fragment,architectural fragment
+sfi_cd,CH04SR_2295,Architectural decoration/relief,architectural fragment
+sfi_cd,CH04SR_2408,Architectural detail,architectural fragment
+sfi_cd,CH05SR_2788,Architectural detail (0.85m from 17.2385),architectural fragment
+sfi_cd,CH05SR_2846,Architectural detail (1.60m from 17.2385),architectural fragment
+sfi_cd,CH05SR_2887,Architectural detail (2.00 from 17.2385),architectural fragment
+sfi_cd,CH05SR_2779,Architectural detail (door frame),architectural fragment
+sfi_cd,CH04SR_2328,Architectural detail (marble),architectural fragment
+sfi_cd,CH05SR_2867,Architectural detail (part of column),architectural fragment
+sfi_cd,CH05SR_2751,Architectural detail (part of cornice),architectural fragment
+sfi_cd,CH05SR_3354,architectural detail (slab),architectural fragment
+sfi_cd,CH06SR_3673,Architectural detail with iron nail,architectural fragment
+sfi_cd,CH04SR_2228,architectural detail with plaster,architectural fragment
+sfi_cd,CH01PA_877,architectural element,architectural fragment
+sfi_cd,CH04SR_2208,architectural frag,architectural fragment
+sfi_cd,CH04SR_2209,architectural frag with inscription,architectural fragment
+sfi_cd,CH04SR_2304,Architectural fragment,architectural fragment
+sfi_cd,CH04SR_2306,Architectural fragment - cross inscribed,architectural fragment
+sfi_cd,CH04SR_2717,Architectural fragment -- cornice w/rosettes,architectural fragment
+sfi_cd,CH04SR_2174,architectural fragment (column),architectural fragment
+sfi_cd,CH06SR_3913,Architectural fragment (revetment),architectural fragment
+sfi_cd,CH04SR_2175,architectural fragment with cross,architectural fragment
+sfi_cd,CH04SR_2302,Architectural fragment with nail,architectural fragment
+sfi_cd,CH04SR_2226,Architectural fragment with plaster (glyphed),architectural fragment
+sfi_cd,CH04SR_2149,architecture detail,architectural fragment
+sfi_cd,CH01PA_13,Blocco,architectural fragment
+sfi_cd,CH01PA_289,Blocco Inciso,architectural fragment
+sfi_cd,CH02PA_1860,capital,architectural fragment
+sfi_cd,CH04SR_2254,Capital (Frg),architectural fragment
+sfi_cd,CH04SR_2193,carved marble,architectural fragment
+sfi_cd,CH01PA_391,Chiave D'Arco,architectural fragment
+sfi_cd,CH01PA_636,Cippo,architectural fragment
+sfi_cd,CH01PA_164,Colonna,architectural fragment
+sfi_cd,CH04SR_2731,Column,architectural fragment
+sfi_cd,CH01PA_348,Conca,architectural fragment
+sfi_cd,CH01PA_654,Cornice,architectural fragment
+sfi_cd,CH04SR_2169,cornice frag from northeast extension,architectural fragment
+sfi_cd,CH01PA_901,door step,architectural fragment
+sfi_cd,CH04SR_2224,Doorjamb fragment/tombstone,architectural fragment
+sfi_cd,CH01PA_113,Elemento Architettonico,architectural fragment
+sfi_cd,CH01PA_779,Elemento Porta,architectural fragment
+sfi_cd,CH04SR_2258,Fragment of Arch (architectural stone),architectural fragment
+sfi_cd,CH06SR_3522,Fragment of marble object/architectural,architectural fragment
+sfi_cd,CH06SR_3995,Fragment of masonry with stucco molding,architectural fragment
+sfi_cd,CH06SR_3500,Fragment of plaster,architectural fragment
+sfi_cd,CH04SR_2722,Large marble architectural fragment,architectural fragment
+sfi_cd,CH04SR_2723,Large marble column capital with graffito gameboards,architectural fragment
+sfi_cd,CH06SR_3601,Marble Fragment,architectural fragment
+sfi_cd,CH06SR_3671,Marble fragment/architectural detail,architectural fragment
+sfi_cd,CH04SR_2229,marble tile,architectural fragment
+sfi_cd,CH06SR_3562,Marble/architectural fragment,architectural fragment
+sfi_cd,CH06SR_3812,Revetment,architectural fragment
+sfi_cd,CH05SR_2826,Slab with architectural detail,architectural fragment
+sfi_cd,CH05SR_3268,slab; architectural detail,architectural fragment
+sfi_cd,CH04SR_2721,Small marble column capital,architectural fragment
+sfi_cd,CH01PA_425,Soglia,architectural fragment
+sfi_cd,CH04SR_2341,squared stone with plaster,architectural fragment
+sfi_cd,CH02PA_1138,step,architectural fragment
+sfi_cd,CH05SR_2816,Stone slab,architectural fragment
+sfi_cd,CH04SR_2262,Voussoir block from door/window,architectural fragment
+sfi_cd,CH04SR_2255,Worked Stone,architectural fragment
+sfi_cd,CH04SR_2256,Worked Stone covered by plaster,architectural fragment
+sfi_cd,CH01PA_1288,Bacino,basin
+sfi_cd,CH02PA_2031,basin,basin
+sfi_cd,CH01PA_373,Vasca,basin
+sfi_cd,CH04SR_2652,3 frags bronze,bell
+sfi_cd,CH02PA_1419,bell,bell
+sfi_cd,CH06SR_3838,Bronze bell,bell
+sfi_cd,CH01PA_398,Campanello,bell
+sfi_cd,CH04SR_2361,iron bell,bell
+sfi_cd,CH05SR_3303,object (from sample 443),bell
+sfi_cd,CH04SR_2684,Round bell,bell
+sfi_cd,CH01PA_1061,Amphora,ceramic vessel
+sfi_cd,CH01PA_43,Anfora,ceramic vessel
+sfi_cd,CH04SR_2705,Articulated glazed vessel in situ in rm 33,ceramic vessel
+sfi_cd,CH04SR_2192,Articulated vessel,ceramic vessel
+sfi_cd,CH06SR_3970,Bottom of amphora (palaeobotanical sample 635 was taken from this bottom),ceramic vessel
+sfi_cd,CH06SR_3685,Botton of vessel with graphitti,ceramic vessel
+sfi_cd,CH04SR_2173,ceramic object (Handle),ceramic vessel
+sfi_cd,CH01PA_781,Ceramica islamica,ceramic vessel
+sfi_cd,CH01PA_791,Ciotola,ceramic vessel
+sfi_cd,CH01PA_1062,Cooking pot,ceramic vessel
+sfi_cd,CH01PA_227,Coppetta,ceramic vessel
+sfi_cd,CH06SR_3821,Cover,ceramic vessel
+sfi_cd,CH04SR_2416,Green glaze almost complete pot (2 frags),ceramic vessel
+sfi_cd,CH04SR_2158,Green glaze jug,ceramic vessel
+sfi_cd,CH04SR_2171,intact green-glazed jug,ceramic vessel
+sfi_cd,CH01PA_900,jar,ceramic vessel
+sfi_cd,CH01PA_1305,knob,ceramic vessel
+sfi_cd,CH02PA_1300,lid,ceramic vessel
+sfi_cd,CH04SR_2343,little globular pottery jar,ceramic vessel
+sfi_cd,CH01PA_293,Oggetto [fragment of ceramic cooking stand],ceramic vessel
+sfi_cd,CH01PA_345,Oggetto [fragments of ceramic cooking stand],ceramic vessel
+sfi_cd,CH02PA_2010,OVEN,ceramic vessel
+sfi_cd,CH04SR_2321,Pieces of amphorae,ceramic vessel
+sfi_cd,CH01PA_349,Pithos,ceramic vessel
+sfi_cd,CH04SR_2399,pot (half),ceramic vessel
+sfi_cd,CH04SR_2392,pot (water jug?),ceramic vessel
+sfi_cd,CH06SR_3675,Stopper (?),ceramic vessel
+sfi_cd,CH01PA_153,Tappo,ceramic vessel
+sfi_cd,CH05SR_3271,unguentarium,ceramic vessel
+sfi_cd,CH04SR_2549,Vessel fragment (green glaze),ceramic vessel
+sfi_cd,CH04SR_2586,Wall of pithos with decoration,ceramic vessel
+sfi_cd,CH04SR_2407,water jug,ceramic vessel
+sfi_cd,CH01PA_792,Catena per Lucerna,chain
+sfi_cd,CH02PA_979,chain,chain
+sfi_cd,CH04SR_2303,Chain link,chain
+sfi_cd,CH05SR_3074,Chain link - from sieve,chain
+sfi_cd,CH05SR_3313,hook/part of chain link (from sieve),chain
+sfi_cd,CH04SR_2595,Iron chain,chain
+sfi_cd,CH06SR_3639,Object (from sample),chain
+sfi_cd,CH05SR_3139,Object (part of chain?),chain
+sfi_cd,CH05SR_3304,"object, part of chain link (from sample 453)",chain
+sfi_cd,CH06SR_3572,Suspension chain for lamp,chain
+sfi_cd,CH01PA_808,fragment of charcoal,charcoal
+sfi_cd,CH04SR_2128,Large piece of wood charcoal,charcoal
+sfi_cd,CH04SR_2232,Shaped burnt wood,charcoal
+sfi_cd,CH05SR_3349, coin,coin
+sfi_cd,CH04SR_2146,13th century coin,coin
+sfi_cd,CH04SR_2157,broken coin,coin
+sfi_cd,CH04SR_2195,bronze coin,coin
+sfi_cd,CH04SR_2727,Bronze disk (medallion or coin?),coin
+sfi_cd,CH04SR_2117,Coin,coin
+sfi_cd,CH06SR_3516,Coin (?),coin
+sfi_cd,CH05SR_3272,coin (2 pieces),coin
+sfi_cd,CH05SR_2884,Coin (2.00m from point 17.2385),coin
+sfi_cd,CH05SR_2975,Coin (cleaning profiles of pit in room 37),coin
+sfi_cd,CH06SR_3929,Coin (courtyard),coin
+sfi_cd,CH06SR_3760,Coin (from circular constuction where conservators are working),coin
+sfi_cd,CH05SR_2857,Coin (from sample 243),coin
+sfi_cd,CH05SR_2973,Coin (from sample 329),coin
+sfi_cd,CH05SR_3374,coin (from sample 474),coin
+sfi_cd,CH05SR_3382,coin (from sample 503),coin
+sfi_cd,CH05SR_3383,coin (from sample 505),coin
+sfi_cd,CH05SR_2966,Coin (from sieve-below the layer of stones where spot-heights taken),coin
+sfi_cd,CH05SR_2972,Coin (from sieve),coin
+sfi_cd,CH06SR_3702,Coin (From the apse),coin
+sfi_cd,CH04SR_2406,coin (half),coin
+sfi_cd,CH05SR_3225,Coin (sieve),coin
+sfi_cd,CH06SR_3431,Coin (two fragments),coin
+sfi_cd,CH04SR_2344,coin frag,coin
+sfi_cd,CH05SR_3238,coin from sieve,coin
+sfi_cd,CH04SR_2716,"Coin, heavily corroded",coin
+sfi_cd,CH04SR_2191,fragment of bronze coin,coin
+sfi_cd,CH04SR_2140,Fragmentary coin,coin
+sfi_cd,CH04SR_2511,Frg. of a coin,coin
+sfi_cd,CH04SR_2176,intact medieval coin,coin
+sfi_cd,CH01PA_6,Moneta,coin
+sfi_cd,CH06SR_3730,Object (coin?),coin
+sfi_cd,CH05SR_2994,Object (from sieve)/ coin,coin
+sfi_cd,CH06SR_3707,Object (rivet),coin
+sfi_cd,CH04SR_2289,Partial coin,coin
+sfi_cd,CH05SR_2741,Piece of bronze (coin?),coin
+sfi_cd,CH04SR_2179,Pierced coin,coin
+sfi_cd,CH04SR_2137,Roman coin,coin
+sfi_cd,CH04SR_2160,small broken bronze coin,coin
+sfi_cd,CH04SR_2178,small coin (hellenistic?),coin
+sfi_cd,CH04SR_2126,Small thick coin,coin
+sfi_cd,CH04SR_2144,well preserved coin (9th-10th century),coin
+sfi_cd,CH05SR_3098,Crucible,crucible or cupel
+sfi_cd,CH05SR_3057,Cuppel,crucible or cupel
+sfi_cd,CH05SR_3089,Cuppel (2 pieces),crucible or cupel
+sfi_cd,CH05SR_3069,"Cuppel, copper or part crucible",crucible or cupel
+sfi_cd,CH04SR_2424,Bronze cross,devotional
+sfi_cd,CH01PA_546,Croce,devotional
+sfi_cd,CH05SR_2981,Cross (from sieve) - found near wall 499,devotional
+sfi_cd,CH01PA_840,Icon,devotional
+sfi_cd,CH04SR_2100,"""*buckle*""",fastener
+sfi_cd,CH06SR_3994,Bell-button,fastener
+sfi_cd,CH04SR_2277,Belt Buckle,fastener
+sfi_cd,CH06SR_3613,Book buckle/clasp,fastener
+sfi_cd,CH01PI_5,Bottone,fastener
+sfi_cd,CH04SR_2641,Bronze buckle,fastener
+sfi_cd,CH04SR_2444,Bronze object (button?),fastener
+sfi_cd,CH02PA_1438,BUCKLE,fastener
+sfi_cd,CH05SR_2910,Buckle (from Sample 254),fastener
+sfi_cd,CH02PA_1965,button,fastener
+sfi_cd,CH06SR_3442,Button (?),fastener
+sfi_cd,CH04SR_2180,button or sewing tool,fastener
+sfi_cd,CH05SR_3091,Cleat,fastener
+sfi_cd,CH05SR_2800,Object (belt decoration?),fastener
+sfi_cd,CH05SR_2824,Object (button?),fastener
+sfi_cd,CH05SR_3052,Sinker (?),fastener
+sfi_cd,CH04SR_2268,Small Bronze Button,fastener
+sfi_cd,CH04SR_2558,Weaving implement (?),fastener
+sfi_cd,CH01PI_4,Amo,fishhook
+sfi_cd,CH06SR_3596,Bronze/Lead Hooks with Sinker,fishhook
+sfi_cd,CH05SR_2971,Hook (from sieve),fishhook
+sfi_cd,CH05SR_3297,hooks (6 pieces),fishhook
+sfi_cd,CH04SR_2152,blackened game piece with star design,gamepiece
+sfi_cd,CH05SR_2743,Game piece,gamepiece
+sfi_cd,CH05SR_2807,Game piece (fragment),gamepiece
+sfi_cd,CH05SR_2858,Game piece or counter,gamepiece
+sfi_cd,CH05SR_3103,"Game piece, token",gamepiece
+sfi_cd,CH06SR_3574,Game piece/token,gamepiece
+sfi_cd,CH06SR_3668,Token (game piece) From sample 543,gamepiece
+sfi_cd,CH05SR_2881,Token-Game piece,gamepiece
+sfi_cd,CH01PA_212,Tondello,gamepiece
+sfi_cd,CH04SR_2153,white game piece with plus design,gamepiece
+sfi_cd,CH01PA_516,Ansa,glass vessel
+sfi_cd,CH01PA_359,Ansa Bicchiere,glass vessel
+sfi_cd,CH01PA_850,base,glass vessel
+sfi_cd,CH05SR_2739,Base of a column,glass vessel
+sfi_cd,CH04SR_2601,base of a cup,glass vessel
+sfi_cd,CH01PA_364,Bicchiere,glass vessel
+sfi_cd,CH04SR_2109,Body Shard,glass vessel
+sfi_cd,CH01PA_727,Bottiglia,glass vessel
+sfi_cd,CH02PA_1027,bottom,glass vessel
+sfi_cd,CH02PA_1781,Calice,glass vessel
+sfi_cd,CH04SR_2105,Flat,glass vessel
+sfi_cd,CH01PA_139,Fondo,glass vessel
+sfi_cd,CH01PA_1108,fragment,glass vessel
+sfi_cd,CH04SR_2101,Fragment of wall of vessel,glass vessel
+sfi_cd,CH04SR_2292,Glass base (Lamp?),glass vessel
+sfi_cd,CH04SR_2108,Glass rim,glass vessel
+sfi_cd,CH04SR_2499,Glass with trace of gold,glass vessel
+sfi_cd,CH06SR_3530,Goblet/object,glass vessel
+sfi_cd,CH01PA_1058,handle,glass vessel
+sfi_cd,CH04SR_2170,"melted handle, maybe lamp",glass vessel
+sfi_cd,CH01PA_1146,rim,glass vessel
+sfi_cd,CH01PA_526,Vetro Decorato,glass vessel
+sfi_cd,CH05SR_3128,Game board (on tile),graffiti
+sfi_cd,CH04SR_2335,Engraved Stone,graffiti
+sfi_cd,CH04SR_2182,engraved stone (boat),graffiti
+sfi_cd,CH05SR_2790,Epigraphic material (graffiti),graffiti
+sfi_cd,CH01PA_508,Lastra Decorata,graffiti
+sfi_cd,CH06SR_3993,Limestone architectural block with graffito,graffiti
+sfi_cd,CH04SR_2118,sherd with greek inscription,graffiti
+sfi_cd,CH06SR_3842,Axe,ground stone axe
+sfi_cd,CH06SR_3714,Handle (?),handle
+sfi_cd,CH05SR_2944,Handle (cleaning profiles of pit in rm 37),handle
+sfi_cd,CH06SR_3695,Handle/rod (?),handle
+sfi_cd,CH05SR_2892,Instrument (handle),handle
+sfi_cd,CH04SR_2539,Iron handle,handle
+sfi_cd,CH04SR_2476,Iron Object (handle),handle
+sfi_cd,CH05SR_3079,Object (Handle of spoon or instrument),handle
+sfi_cd,CH05SR_3094,Object (maybe part of the bucket),handle
+sfi_cd,CH06SR_3513,"Worked bone, handle",handle
+sfi_cd,CH04SR_2200,a round object with a hole,hardware
+sfi_cd,CH05SR_2776,Bracket,hardware
+sfi_cd,CH05SR_2931,Bracket (?),hardware
+sfi_cd,CH05SR_3119,Bracket (door),hardware
+sfi_cd,CH04SR_2372,bronze button or rock,hardware
+sfi_cd,CH04SR_2155,bronze circular object,hardware
+sfi_cd,CH04SR_2274,Bronze hook,hardware
+sfi_cd,CH01PA_278,Cerniera per Porta,hardware
+sfi_cd,CH05SR_2829,Circular object,hardware
+sfi_cd,CH06SR_3469,Clamp,hardware
+sfi_cd,CH04SR_2394,cramp,hardware
+sfi_cd,CH04SR_2380,cross-shaped hook,hardware
+sfi_cd,CH04SR_2215,curved iron object,hardware
+sfi_cd,CH05SR_2736,Disc,hardware
+sfi_cd,CH04SR_2733,Fitting for a bucket?,hardware
+sfi_cd,CH06SR_3512,Fixture,hardware
+sfi_cd,CH01PA_277,Gancio,hardware
+sfi_cd,CH01PA_210,Grappa,hardware
+sfi_cd,CH01PA_1780,hinge,hardware
+sfi_cd,CH02PA_1269,hook,hardware
+sfi_cd,CH05SR_2769,Hook (?),hardware
+sfi_cd,CH05SR_3140,Hook / instrument,hardware
+sfi_cd,CH04SR_2469,Horse equipment,hardware
+sfi_cd,CH05SR_2838,Instrument,hardware
+sfi_cd,CH04SR_2603,iron (bronze?) hook,hardware
+sfi_cd,CH04SR_2666,Iron and bronze twisted object,hardware
+sfi_cd,CH04SR_2467,Iron blob,hardware
+sfi_cd,CH04SR_2439,Iron clip (?),hardware
+sfi_cd,CH04SR_2352,iron disk,hardware
+sfi_cd,CH04SR_2540,Iron disk with decoration,hardware
+sfi_cd,CH04SR_2522,Iron fixture,hardware
+sfi_cd,CH04SR_2682,Iron fragment,hardware
+sfi_cd,CH04SR_2446,Iron hasp,hardware
+sfi_cd,CH04SR_2271,Iron hook,hardware
+sfi_cd,CH04SR_2431,Iron key hook,hardware
+sfi_cd,CH04SR_2156,Iron object,hardware
+sfi_cd,CH04SR_2656,Iron object (2 frags),hardware
+sfi_cd,CH05SR_3035,Iron object (bronze object was attached),hardware
+sfi_cd,CH04SR_2134,Iron object (lock/hinge etc. ?),hardware
+sfi_cd,CH04SR_2296,Iron object from a door,hardware
+sfi_cd,CH04SR_2634,Iron object melted onto stone,hardware
+sfi_cd,CH04SR_2127,Iron object with bronze nail,hardware
+sfi_cd,CH04SR_2510,Iron object with nails,hardware
+sfi_cd,CH04SR_2680,"Iron object, 3cm diameter",hardware
+sfi_cd,CH04SR_2359,iron object/hinge,hardware
+sfi_cd,CH04SR_2553,Iron plaqette with hole,hardware
+sfi_cd,CH04SR_2486,Iron plate,hardware
+sfi_cd,CH04SR_2541,Iron plate (0 + 10 cm),hardware
+sfi_cd,CH05SR_2747,Iron plate with copper alloy rivet,hardware
+sfi_cd,CH04SR_2395,Iron strap,hardware
+sfi_cd,CH04SR_2240,Iron strap with nail (context may be contemporary with floor - found inside area of wall),hardware
+sfi_cd,CH04SR_2393,latch/strap object,hardware
+sfi_cd,CH04SR_2294,Lead clamp,hardware
+sfi_cd,CH04SR_2360,lead object,hardware
+sfi_cd,CH06SR_3518,Link w/ part of an iron object,hardware
+sfi_cd,CH04SR_2621,melted iron object,hardware
+sfi_cd,CH04SR_2227,metal object,hardware
+sfi_cd,CH04SR_2668,Metal object with traces of wood,hardware
+sfi_cd,CH05SR_2841,Object (1.40m from point 17.2385),hardware
+sfi_cd,CH05SR_3070,Object (2 fragments),hardware
+sfi_cd,CH06SR_3656,Object (cleaning of courtyard),hardware
+sfi_cd,CH05SR_3117,"Object (door, fastener?)",hardware
+sfi_cd,CH05SR_2803,Object (from sample 175),hardware
+sfi_cd,CH05SR_2948,Object (from sample 249),hardware
+sfi_cd,CH05SR_2974,Object (from sample 254),hardware
+sfi_cd,CH05SR_3302,object (from sample 439),hardware
+sfi_cd,CH06SR_3657,Object (from sample)/plate,hardware
+sfi_cd,CH05SR_3017,Object (from sieve),hardware
+sfi_cd,CH05SR_3028,Object (from sieve) / strip,hardware
+sfi_cd,CH05SR_3361,object (from wheel barrow),hardware
+sfi_cd,CH05SR_3115,Object (part of a door),hardware
+sfi_cd,CH05SR_2840,Object (Plate?),hardware
+sfi_cd,CH05SR_3105,Object with wood remains,hardware
+sfi_cd,CH05SR_2763,Object- part of ring (?),hardware
+sfi_cd,CH05SR_3019,Object/ plate,hardware
+sfi_cd,CH05SR_3018,Object/ strip,hardware
+sfi_cd,CH05SR_3080,Objects (5),hardware
+sfi_cd,CH05SR_3298,objects (from sample 338),hardware
+sfi_cd,CH04SR_2423,Part of ring,hardware
+sfi_cd,CH04SR_2136,Part of ring or harness,hardware
+sfi_cd,CH06SR_3628,Plate/object,hardware
+sfi_cd,CH06SR_3681,Plate/Strip,hardware
+sfi_cd,CH05SR_2818,Spike,hardware
+sfi_cd,CH06SR_3683,Strip/Bar,hardware
+sfi_cd,CH04SR_2425,Suspension hook,hardware
+sfi_cd,CH04SR_2411,Three fragments of iron object(s),hardware
+sfi_cd,CH04SR_2657,Triangular iron object,hardware
+sfi_cd,CH04SR_2139,Two fragments of iron objects,hardware
+sfi_cd,CH04SR_2426,Unidentified iron object,hardware
+sfi_cd,CH04SR_2561,Worked bone with iron,hardware
+sfi_cd,CH04SR_2384,Stirrup fragment,horse-riding gear
+sfi_cd,CH06SR_3704,Fragment with incised figural decoration (inlay?) (from sample 577),inlay
+sfi_cd,CH06SR_3793,Worked object (inlay),inlay
+sfi_cd,CH05SR_3245,worked object; male head (from sieve),inlay
+sfi_cd,CH04SR_2376,iron key,key
+sfi_cd,CH04SR_2163,iron key (two fragments),key
+sfi_cd,CH04SR_2489,Key,key
+sfi_cd,CH05SR_3329,key (from sieve),key
+sfi_cd,CH06SR_3629,Object (part of key),key
+sfi_cd,CH01PA_33,Scarto,kiln waster
+sfi_cd,CH05SR_3283,dagger,knife
+sfi_cd,CH04SR_2437,Iron knife,knife
+sfi_cd,CH01PA_1385,knife,knife
+sfi_cd,CH05SR_3001,Knife (?),knife
+sfi_cd,CH05SR_3180,Knife blade,knife
+sfi_cd,CH04SR_2616,knife blade frag,knife
+sfi_cd,CH04SR_2419,Knife blade frag (?),knife
+sfi_cd,CH04SR_2551,Knife fragment,knife
+sfi_cd,CH04SR_2556,Knife with bone handle,knife
+sfi_cd,CH05SR_3037,Object (knife),knife
+sfi_cd,CH04SR_2291,Remains of knife (?),knife
+sfi_cd,CH04SR_2172,tip of knife blade,knife
+sfi_cd,CH04SR_2370,bronze object (lamp holder),lighting
+sfi_cd,CH04SR_2354,copper hooks w/iron attachment,lighting
+sfi_cd,CH04SR_2141,Hook with long shaft (for lamp?),lighting
+sfi_cd,CH04SR_2185,bronze and iron sheet object,lighting
+sfi_cd,CH04SR_3975,Fragment of copper-alloy polycandelon,lighting
+sfi_cd,CH04SR_2686,Fragment of lamp,lighting
+sfi_cd,CH04SR_2401,glass lamp,lighting
+sfi_cd,CH01PA_1047,lamp,lighting
+sfi_cd,CH06SR_3508,Lamp (fragment),lighting
+sfi_cd,CH01PA_496,Lucerna,lighting
+sfi_cd,CH05SR_2885,Object (leg),lighting
+sfi_cd,CH04SR_2327,Polycandelon,lighting
+sfi_cd,CH06SR_3517,Roman Lamp,lighting
+sfi_cd,CH05SR_3097,Lock,lock
+sfi_cd,CH06SR_3962,Lock bolt for a chest lock,lock
+sfi_cd,CH06SR_3575,2 fragments of bronze vessel,metal vessel
+sfi_cd,CH04SR_2699,Base of bucket (also sample 74),metal vessel
+sfi_cd,CH05SR_3269,fragment of a vessel,metal vessel
+sfi_cd,CH06SR_3954,Object (10 fragments),metal vessel
+sfi_cd,CH04SR_2535,Vessel,metal vessel
+sfi_cd,CH05SR_3095,Vessel (bucket),metal vessel
+sfi_cd,CH04SR_2246,2 x frags Grinding Stone,millstone
+sfi_cd,CH04SR_2330,Fragment of millstone (imported stone),millstone
+sfi_cd,CH05SR_2823,Fragmentarily preserved grindstone,millstone
+sfi_cd,CH04SR_2234,Grind Stone,millstone
+sfi_cd,CH05SR_2889,Grind stone (fragment),millstone
+sfi_cd,CH04SR_2143,Grinding stone,millstone
+sfi_cd,CH04SR_2221,Grinding stone fragment,millstone
+sfi_cd,CH04SR_2664,Grindstone,millstone
+sfi_cd,CH06SR_3626,Grindstone/millstone (2 pieces),millstone
+sfi_cd,CH04SR_2196,half of possible grindstone,millstone
+sfi_cd,CH01PA_108,Macina,millstone
+sfi_cd,CH01PA_1067,millstone,millstone
+sfi_cd,CH06SR_3545,Millstone (?),millstone
+sfi_cd,CH06SR_3515,Millstone (2 pieces),millstone
+sfi_cd,CH04SR_2267,Nearly intact Grindstone,millstone
+sfi_cd,CH01PA_809,quern stone,millstone
+sfi_cd,CH01PA_1462,quernstone,millstone
+sfi_cd,CH06SR_3427,Three fragments of millstone,millstone
+sfi_cd,CH01PA_39,Matrice,mold
+sfi_cd,CH05SR_3030,Mold,mold
+sfi_cd,CH06SR_3705,Mould,mold
+sfi_cd,CH01PA_319,Mortaio,mortar
+sfi_cd,CH04SR_2241,Mortar Fragment,mortar
+sfi_cd,CH06SR_3839,Mortar with stones,mortar
+sfi_cd,CH02PA_1199, folded nail,nail
+sfi_cd,CH04SR_2106,Broken nail - bent in curve,nail
+sfi_cd,CH04SR_2168,bronze nail head,nail
+sfi_cd,CH01PA_10,Chiodo,nail
+sfi_cd,CH01PA_100,Chiodo Piegato,nail
+sfi_cd,CH02PA_1005,folded nail,nail
+sfi_cd,CH04SR_2102,Fragment  of a nail,nail
+sfi_cd,CH05SR_2742,Inidentified (fragment of nail),nail
+sfi_cd,CH04SR_2103,Nail,nail
+sfi_cd,CH05SR_2848,Nail (furniture nail),nail
+sfi_cd,CH04SR_2219,nail (tomb),nail
+sfi_cd,CH04SR_2112,Nail head,nail
+sfi_cd,CH06SR_3712,Nail or tack,nail
+sfi_cd,CH04SR_2284,Nail shaft,nail
+sfi_cd,CH06SR_3826,Nail with wood,nail
+sfi_cd,CH05SR_3284,nail/pin,nail
+sfi_cd,CH01PA_849,neil,nail
+sfi_cd,CH06SR_3549,Object,nail
+sfi_cd,CH06SR_3677,Object (from sample 536),nail
+sfi_cd,CH06SR_3678,Object (from sample 537),nail
+sfi_cd,CH06SR_3679,Object (from sample 540),nail
+sfi_cd,CH05SR_3359,object (from sieve),nail
+sfi_cd,CH06SR_3663,Object (Nail),nail
+sfi_cd,CH05SR_2773,Object (unidentifiable),nail
+sfi_cd,CH05SR_2983,"Object, nail/ spike",nail
+sfi_cd,CH04SR_2263,Ornamental tack or stud identified in sieve,nail
+sfi_cd,CH06SR_3755,Small nail (room 38),nail
+sfi_cd,CH06SR_3519,Tack,nail
+sfi_cd,CH04SR_2725,Preserved uncarbonized wood fragment,natural object
+sfi_cd,CH04SR_3997,Two bovine astragaloi,natural object
+sfi_cd,CH04SR_2275,Worked bone (Possibly fish ear bone),natural object
+sfi_cd,CH05SR_3034,Worked stone (sculpture?),natural object
+sfi_cd,CH04SR_2325,Iron harness with copper badge,ornament
+sfi_cd,CH01PA_449,Anello,ornament
+sfi_cd,CH02PA_1461,Bead,ornament
+sfi_cd,CH05SR_2737,Bead (?),ornament
+sfi_cd,CH06SR_3725,Bead (2 fragments),ornament
+sfi_cd,CH04SR_2167,bead (amethyst?),ornament
+sfi_cd,CH05SR_2893,Bead (from Sample 244),ornament
+sfi_cd,CH05SR_2947,Bead (from sample 258),ornament
+sfi_cd,CH05SR_3287,bead (from sieve),ornament
+sfi_cd,CH04SR_2259,Bead from large necklace,ornament
+sfi_cd,CH01PA_1,Bracciale,ornament
+sfi_cd,CH01PA_1015,bracelet,ornament
+sfi_cd,CH05SR_3113,Bracelet (?),ornament
+sfi_cd,CH05SR_3258,bracelet (2 pieces) from sieve,ornament
+sfi_cd,CH05SR_3241,bracelet (from sieve),ornament
+sfi_cd,CH06SR_3937,Bracelet fragment,ornament
+sfi_cd,CH04SR_2718,Bronze bead,ornament
+sfi_cd,CH01PA_665,Ciondolo,ornament
+sfi_cd,CH01PA_1476,earing,ornament
+sfi_cd,CH01PA_828,Earring,ornament
+sfi_cd,CH04SR_2198,earring or pendant,ornament
+sfi_cd,CH01PA_439,Fibbia,ornament
+sfi_cd,CH01PA_258,Fibbietta,ornament
+sfi_cd,CH01PA_1329,Fibula,ornament
+sfi_cd,CH01PA_969,Fibule,ornament
+sfi_cd,CH04SR_2269,Frag-t of glass Bracelet,ornament
+sfi_cd,CH04SR_2161,fragment of finger ring,ornament
+sfi_cd,CH06SR_3840,Glass insert,ornament
+sfi_cd,CH06SR_3719,Glass inset,ornament
+sfi_cd,CH04SR_2120,Green glass tessera/inset,ornament
+sfi_cd,CH04SR_2119,Half bead,ornament
+sfi_cd,CH05SR_2989,Jewellery,ornament
+sfi_cd,CH04SR_2342,necklace bead,ornament
+sfi_cd,CH06SR_3881,Object (earring),ornament
+sfi_cd,CH01PA_251,Orecchino,ornament
+sfi_cd,CH02PA_1102,pearl,ornament
+sfi_cd,CH02PA_1264,pendant,ornament
+sfi_cd,CH06SR_3969,Pendant(?) (from sample 724),ornament
+sfi_cd,CH06SR_3964,Pendant/ button,ornament
+sfi_cd,CH04SR_2251,Pendant/earring,ornament
+sfi_cd,CH05SR_2911,Piece of bracelet,ornament
+sfi_cd,CH04SR_2212,rock-crystal pendant/earring,ornament
+sfi_cd,CH04SR_2681,Small gold bead,ornament
+sfi_cd,CH01PA_158,Vago Collana,ornament
+sfi_cd,CH06SR_3686,Fragment of Pestle,pestle
+sfi_cd,CH06SR_3902,Pestle?,pestle
+sfi_cd,CH01PA_221,Ago,pin or needle
+sfi_cd,CH04SR_2454,Iron needle,pin or needle
+sfi_cd,CH04SR_2456,Iron object (NEEDLE?),pin or needle
+sfi_cd,CH05SR_3177,Needle,pin or needle
+sfi_cd,CH05SR_3207,Needle (2 pieces),pin or needle
+sfi_cd,CH05SR_3153,Needle / pin,pin or needle
+sfi_cd,CH06SR_3713,Object/bar,pin or needle
+sfi_cd,CH06SR_3528,Object/wire (pin?),pin or needle
+sfi_cd,CH02PA_1132,pin,pin or needle
+sfi_cd,CH06SR_3397,Pin (?),pin or needle
+sfi_cd,CH06SR_3734,Pin (from sample 576),pin or needle
+sfi_cd,CH06SR_3727,Pin/wire/rod (in apse),pin or needle
+sfi_cd,CH04SR_2186,worked bone pin,pin or needle
+sfi_cd,CH04SR_2264,~ 3 cm iron ring,ring
+sfi_cd,CH05SR_3311,annulus (from sieve) ring?,ring
+sfi_cd,CH04SR_2548,Bronze ring,ring
+sfi_cd,CH04SR_2266,Iron ring ~3cm Diameter,ring
+sfi_cd,CH02PA_1130,ring,ring
+sfi_cd,CH05SR_2865,Ring (from sieve),ring
+sfi_cd,CH04SR_2138,Ring and attachment,ring
+sfi_cd,CH06SR_3761,Ring or hoop,ring
+sfi_cd,CH04SR_2145,small ring,ring
+sfi_cd,CH06SR_3439,Lead bar,rod or bar
+sfi_cd,CH06SR_3744,Object (bar or rod),rod or bar
+sfi_cd,CH06SR_3603,Object (rod or wire),rod or bar
+sfi_cd,CH01PA_777,Sbarra,rod or bar
+sfi_cd,CH04SR_2124,fragment of a small statue of hercules,sculpture
+sfi_cd,CH04SR_2148,fragment of head/statue,sculpture
+sfi_cd,CH06SR_3973,Fragment of marble sculpture with Heracles wrestling the Nemean Lion,sculpture
+sfi_cd,CH04SR_2409,Half head of statue,sculpture
+sfi_cd,CH06SR_3583,Marble sculpture leg,sculpture
+sfi_cd,CH04SR_2358,Piece of Roman tombstone,sculpture
+sfi_cd,CH04SR_2297,Relief fragment,sculpture
+sfi_cd,CH06SR_3786,Sculptural fragment,sculpture
+sfi_cd,CH06SR_3535,2 fr. Of bronze/strip/plate,sheet metal
+sfi_cd,CH06SR_3658,2 fragments of Bronze,sheet metal
+sfi_cd,CH04SR_2719,3 frags of bronze object,sheet metal
+sfi_cd,CH06SR_3634,3 pieces of bronze,sheet metal
+sfi_cd,CH04SR_2550,Bronze fragment,sheet metal
+sfi_cd,CH06SR_3388,Bronze object (plaque),sheet metal
+sfi_cd,CH06SR_3835,Bronze object (strip),sheet metal
+sfi_cd,CH06SR_3390,Bronze object (tube),sheet metal
+sfi_cd,CH06SR_3844,Bronze strip,sheet metal
+sfi_cd,CH06SR_3410,Fragment of flat object,sheet metal
+sfi_cd,CH04SR_2537,Fragments,sheet metal
+sfi_cd,CH05SR_2813,Hammer scale,sheet metal
+sfi_cd,CH05SR_2999,Instrument (from sieve),sheet metal
+sfi_cd,CH02PA_1084,Lamina,sheet metal
+sfi_cd,CH04SR_2210,lead band,sheet metal
+sfi_cd,CH06SR_3831,Obejct,sheet metal
+sfi_cd,CH02PA_1003,object,sheet metal
+sfi_cd,CH06SR_3602,Object - Plate/Strip,sheet metal
+sfi_cd,CH05SR_3082,Object - strip,sheet metal
+sfi_cd,CH06SR_3919,Object (from muddy soil from 821),sheet metal
+sfi_cd,CH06SR_3505,"Object (from profile below wall 257, room 38)",sheet metal
+sfi_cd,CH06SR_3810,Object (from profile),sheet metal
+sfi_cd,CH05SR_2802,Object (from sample 153),sheet metal
+sfi_cd,CH06SR_3415,Object (plaque),sheet metal
+sfi_cd,CH06SR_3487,Object (Plaque/plate),sheet metal
+sfi_cd,CH06SR_3832,Object (strip or plate),sheet metal
+sfi_cd,CH05SR_3118,Object (strip),sheet metal
+sfi_cd,CH05SR_3149,Object / tube,sheet metal
+sfi_cd,CH05SR_2949,"Object, part of instrument",sheet metal
+sfi_cd,CH05SR_3077,"Object, strip",sheet metal
+sfi_cd,CH06SR_3465,Object/Plate,sheet metal
+sfi_cd,CH06SR_3660,Object/strip,sheet metal
+sfi_cd,CH06SR_3892,Object/strip/plate,sheet metal
+sfi_cd,CH06SR_3386,Part of bronze object,sheet metal
+sfi_cd,CH06SR_3387,Part of bronze object/tubing,sheet metal
+sfi_cd,CH05SR_2767,Part of instrument,sheet metal
+sfi_cd,CH04SR_2403,piece of plate,sheet metal
+sfi_cd,CH06SR_3479,Piece/fragment,sheet metal
+sfi_cd,CH06SR_3664,Piece/plate/strip,sheet metal
+sfi_cd,CH06SR_3672,Piece/plate/strip of bronze,sheet metal
+sfi_cd,CH06SR_3489,Pieces,sheet metal
+sfi_cd,CH06SR_3480,Pieces/strip,sheet metal
+sfi_cd,CH05SR_2750,Plate,sheet metal
+sfi_cd,CH05SR_2810,Plate (1.20m from point 17.2385),sheet metal
+sfi_cd,CH05SR_3367,plate (3 pieces),sheet metal
+sfi_cd,CH06SR_3708,Plate (coin?),sheet metal
+sfi_cd,CH05SR_3299,plate (from sample 436),sheet metal
+sfi_cd,CH05SR_3154,Plate /  strip,sheet metal
+sfi_cd,CH05SR_3081,Plate / Strip (2 pieces),sheet metal
+sfi_cd,CH06SR_3526,Plate or strip,sheet metal
+sfi_cd,CH05SR_2897,Plate; instrument blade,sheet metal
+sfi_cd,CH05SR_3301,plates (from sample 380),sheet metal
+sfi_cd,CH05SR_3109,Plates / strips (from sieve),sheet metal
+sfi_cd,CH05SR_3364,"ring (5 pieces), strip",sheet metal
+sfi_cd,CH05SR_2752,strip,sheet metal
+sfi_cd,CH05SR_2992,Strip (from sieve),sheet metal
+sfi_cd,CH05SR_3365,strip/ plate,sheet metal
+sfi_cd,CH06SR_3779,Strip/Fragment,sheet metal
+sfi_cd,CH06SR_3441,Strip/Plate,sheet metal
+sfi_cd,CH04SR_2563,Unidentified bronze object,sheet metal
+sfi_cd,CH05SR_2929,Ring inlay with incised representation of God,signet
+sfi_cd,CH04SR_2494,Weight,signet
+sfi_cd,CH04SR_2123,Glass slag - 2 pieces,slag
+sfi_cd,CH04SR_2201,iron/slag (11 frags),slag
+sfi_cd,CH01PA_1255,salg,slag
+sfi_cd,CH01PA_146,Scoria,slag
+sfi_cd,CH02PA_1009,slag,slag
+sfi_cd,CH04SR_2197,slag concretion,slag
+sfi_cd,CH04SR_2184,slag concretion (3 frags),slag
+sfi_cd,CH04SR_2216,slag from concentration,slag
+sfi_cd,CH01PA_1089,slags,slag
+sfi_cd,CH06SR_3435,Ball,sphere
+sfi_cd,CH05SR_2819,ball (found on the wall),sphere
+sfi_cd,CH04SR_2242,Clay ball,sphere
+sfi_cd,CH02PA_1369,shot,sphere
+sfi_cd,CH04SR_2453,Sling bullet,sphere
+sfi_cd,CH04SR_2207,sling shot,sphere
+sfi_cd,CH05SR_3192,Sphere,sphere
+sfi_cd,CH04SR_2545,Stone object,sphere
+sfi_cd,CH04SR_2604,stone shot,sphere
+sfi_cd,CH01PA_553,Fuseruola,spindle whorl
+sfi_cd,CH04SR_2187,half spindle whorl,spindle whorl
+sfi_cd,CH06SR_3974,Partial spindle whorl,spindle whorl
+sfi_cd,CH05SR_3122,Sinker,spindle whorl
+sfi_cd,CH01PA_1090,spindle whorl,spindle whorl
+sfi_cd,CH05SR_3236,spindle whorl (from sieve),spindle whorl
+sfi_cd,CH04SR_2573,Spindle whorl (Kiev Rus),spindle whorl
+sfi_cd,CH04SR_2135,Spindle whorl broken,spindle whorl
+sfi_cd,CH06SR_3891,Amphora handle with stamp,stampled amphora handle
+sfi_cd,CH06SR_3502,2 fragments of plaster,surface decoration
+sfi_cd,CH04SR_2282,Gold tessera (perhaps just glass),surface decoration
+sfi_cd,CH05SR_3250,molded plaster pieces (3),surface decoration
+sfi_cd,CH04SR_2252,Mosaic Tessera,surface decoration
+sfi_cd,CH04SR_2181,mosaic tesserae,surface decoration
+sfi_cd,CH06SR_3430,Pieces of plaster,surface decoration
+sfi_cd,CH04SR_2154,plaster architectural decoration,surface decoration
+sfi_cd,CH06SR_3827,Plaster with fresco fragment,surface decoration
+sfi_cd,CH01PA_467,Tessera,surface decoration
+sfi_cd,CH05SR_3176,Wall decoration fragment,surface decoration
+sfi_cd,CH04SR_2114,Thimble,thimble
+sfi_cd,CH04SR_2122,Thimble with incised decoration,thimble
+sfi_cd,CH01PA_879,decorated tile,tile
+sfi_cd,CH01PA_52,Tegola,tile
+sfi_cd,CH06SR_3783,Tile,tile
+sfi_cd,CH04SR_2121,Blade of knife or implement,tool
+sfi_cd,CH04SR_2231,Bone Tool,tool
+sfi_cd,CH04SR_2706,Bronze cylinder,tool
+sfi_cd,CH04SR_2159,bronze object,tool
+sfi_cd,CH01PA_1316,chisel,tool
+sfi_cd,CH06SR_3856,Comb handle,tool
+sfi_cd,CH04SR_2326,Head of tool or weapon,tool
+sfi_cd,CH05SR_2738,Instrument (fragment),tool
+sfi_cd,CH04SR_2371,iron frags from tool (animal brush),tool
+sfi_cd,CH04SR_2150,Iron Implement,tool
+sfi_cd,CH04SR_2427,Iron object (tool ?),tool
+sfi_cd,CH04SR_2214,iron object (tool frag ?),tool
+sfi_cd,CH04SR_2707,Iron object in situ in rm 33,tool
+sfi_cd,CH04SR_2206,iron socket,tool
+sfi_cd,CH04SR_2320,Iron tool,tool
+sfi_cd,CH04SR_2312,Iron tool (wool brush?),tool
+sfi_cd,CH02PA_1054,mirror,tool
+sfi_cd,CH05SR_2758,Object (part of an axe),tool
+sfi_cd,CH05SR_2917,Object (spike),tool
+sfi_cd,CH05SR_2970,Object; part instrument,tool
+sfi_cd,CH04SR_3976,Profiled blunt end of a bone pin or stylus.,tool
+sfi_cd,CH01PA_143,Raschiatoio,tool
+sfi_cd,CH04SR_2679,Stylus,tool
+sfi_cd,CH02PA_1539,tool,tool
+sfi_cd,CH05SR_2945,Tool (cleaning profiles of pit in rm 37),tool
+sfi_cd,CH05SR_2906,Tool (from the wall 298),tool
+sfi_cd,CH04SR_2217,tool frag,tool
+sfi_cd,CH04SR_2205,tool head object,tool
+sfi_cd,CH05SR_3342,tool/ axe head,tool
+sfi_cd,CH04SR_2577,Tool/Blade,tool
+sfi_cd,CH05SR_2982,Tool/weapon,tool
+sfi_cd,CH04SR_2130,weaving impliment ?,tool
+sfi_cd,CH04SR_2116,Worked bone point,tool
+sfi_cd,CH04SR_3978,Worked bone point with incised decoration,tool
+sfi_cd,CH04SR_2700,Bronze object (2 frags),unidentifiable
+sfi_cd,CH04SR_2702,Bronze objects,unidentifiable
+sfi_cd,CH04SR_2279,Chips,unidentifiable
+sfi_cd,CH05SR_2760,Object - unidentifiable,unidentifiable
+sfi_cd,CH05SR_3060,Object (2 pieces),unidentifiable
+sfi_cd,CH06SR_3608,Object (attached to stone),unidentifiable
+sfi_cd,CH05SR_3300,object (from sample 445),unidentifiable
+sfi_cd,CH06SR_3735,Object (from sample 559),unidentifiable
+sfi_cd,CH06SR_3920,Object (from sample 701),unidentifiable
+sfi_cd,CH06SR_3971,Object (from sample 731),unidentifiable
+sfi_cd,CH05SR_3286,object (from sieve?),unidentifiable
+sfi_cd,CH05SR_2775,Object (unidentifialble),unidentifiable
+sfi_cd,CH06SR_3889,Object taken as sample for residual analysis number 738,unidentifiable
+sfi_cd,CH05SR_3014,Object/ instrument part,unidentifiable
+sfi_cd,CH06SR_3484,Piece,unidentifiable
+sfi_cd,CH06SR_3428,Piece of bronze,unidentifiable
+sfi_cd,CH05SR_3051,Plate / strip,unidentifiable
+sfi_cd,CH05SR_2755,Semicircular object,unidentifiable
+sfi_cd,CH04SR_2131,Tube/Cylinder,unidentifiable
+sfi_cd,CH06SR_3394,Two fragments of bronze object,unidentifiable
+sfi_cd,CH06SR_3497,Two pieces of bronze,unidentifiable
+sfi_cd,CH05SR_2740,Unidentified corroded object,unidentifiable
+sfi_cd,CH04SR_2461,unidentified lead object,unidentifiable
+sfi_cd,CH05SR_2753,Unidentified object,unidentifiable
+sfi_cd,CH05SR_2748,Unspecified circular object,unidentifiable
+sfi_cd,CH01PA_1421,waste,unidentifiable
+sfi_cd,CH02PA_2017,WORKED,unidentifiable
+sfi_cd,CH05SR_2749,Worked object,unidentifiable
+sfi_cd,CH05SR_3333,arrow head,weapon
+sfi_cd,CH05SR_2964,Arrow head from Tomb 5,weapon
+sfi_cd,CH04SR_2273,Bullet (Crimean War),weapon
+sfi_cd,CH05SR_2855,Cannon ball,weapon
+sfi_cd,CH05SR_2772,Cannon ball/ shot,weapon
+sfi_cd,CH04SR_2290,cannonball frag(Crimean War ?),weapon
+sfi_cd,CH04SR_2298,Cannonball fragments,weapon
+sfi_cd,CH04SR_2188,Crimean War cannonball,weapon
+sfi_cd,CH05SR_2734,Fragment of cannon ball,weapon
+sfi_cd,CH05SR_2745,Grape shot,weapon
+sfi_cd,CH04SR_2107,Grape shot - Crimean war?,weapon
+sfi_cd,CH04SR_2113,grapeshot,weapon
+sfi_cd,CH04SR_2592,Iron object (probably goes with SF 2565),weapon
+sfi_cd,CH04SR_2418,Iron object (spearhead),weapon
+sfi_cd,CH04SR_2502,Iron sling bullet,weapon
+sfi_cd,CH04SR_2339,iron spearhead,weapon
+sfi_cd,CH04SR_2324,Iron with copper inlay,weapon
+sfi_cd,CH04SR_2125,Long thin arrowhead with haft - 15x17 cm,weapon
+sfi_cd,CH04SR_2565,Sword/Knife,weapon
+sfi_cd,CH05SR_2754,Two fragments of Cannon ball,weapon
+sfi_cd,CH04SR_2132,Biconical net weight,weight
+sfi_cd,CH04SR_2693,Lead loom weight,weight
+sfi_cd,CH04SR_2142,Loom weight,weight
+sfi_cd,CH04SR_2218,loom weight (or net weight),weight
+sfi_cd,CH01PA_118,Mola,weight
+sfi_cd,CH04SR_2559,Net weight (Fishing),weight
+sfi_cd,CH06SR_3684,Object (for divers' belt),weight
+sfi_cd,CH01PA_472,Peso,weight
+sfi_cd,CH01PA_150,Peso da Telaio,weight
+sfi_cd,CH04SR_2452,Pyramidal loom weight,weight
+sfi_cd,CH05SR_2977,"Rectangular object (""tesserae"")",weight
+sfi_cd,CH05SR_2978,Ring like object annulus,weight
+sfi_cd,CH04SR_2421,Stone object with hole and graffiti,weight
+sfi_cd,CH06SR_3447,Weight (Loom or fishing),weight
+sfi_cd,CH06SR_3507,Weight (possibly),weight
+sfi_cd,CH05SR_2795,Weight (sinker or loom weight),weight
+sfi_cd,CH01PA_1760,wheat stone,whetstone
+sfi_cd,CH06SR_3785,Whestone,whetstone
+sfi_cd,CH01PA_854,whet,whetstone
+sfi_cd,CH02PA_1995,whet stone,whetstone
+sfi_cd,CH01PA_1014,whetstone,whetstone
+sfi_cd,CH06SR_3547,Whetstone (?),whetstone
+sfi_cd,CH06SR_3509,Whetstone (?) (Cleaning of room 31a),whetstone
+sfi_cd,CH04SR_2104,Shard,window glazing
+sfi_cd,CH01PA_714,Vetro da finestra,window glazing
+sfi_cd,CH05SR_2774,Window seal,window glazing
+sfi_cd,CH05SR_3257,(disintegrated) object,wire
+sfi_cd,CH05SR_3293,coiled wire,wire
+sfi_cd,CH05SR_3371,wire,wire
+sfi_cd,CH01PA_1134,astragalo,worked bone
+sfi_cd,CH06SR_3912,Astragalos,worked bone
+sfi_cd,CH01PA_1155,astragalus,worked bone
+sfi_cd,CH04SR_2547,Bone instrument,worked bone
+sfi_cd,CH06SR_3384,Bone object,worked bone
+sfi_cd,CH04SR_2429,Bone object (Horse/bridle equipment?),worked bone
+sfi_cd,CH06SR_3999,Bone object (pin?),worked bone
+sfi_cd,CH06SR_3424,Bone object with carved decoration,inlay
+sfi_cd,CH04SR_2645,Bone with traces of carving,worked bone
+sfi_cd,CH05SR_2988,Carved object (from wheel barrow),inlay
+sfi_cd,CH01PA_822,corno,worked bone
+sfi_cd,CH05SR_3159,Decorated object,inlay
+sfi_cd,CH04SR_2247,Fish Bone with traces of carving,natural artifact
+sfi_cd,CH04SR_2213,fragment with incised decoration,worked bone
+sfi_cd,CH05SR_3191,Object (carved bone),worked bone
+sfi_cd,CH01PA_109,Oggetto,worked bone
+sfi_cd,CH01PA_126,Osso Lavorato,worked bone
+sfi_cd,CH06SR_3682,Panel/Plaque,inlay
+sfi_cd,CH04SR_3977,Part of a worked bone object,worked bone
+sfi_cd,CH04SR_2386,plaque,worked bone
+sfi_cd,CH06SR_3957,Plaque/ panel,inlay
+sfi_cd,CH04SR_2317,Polished/worked animal horn,worked bone
+sfi_cd,CH04SR_2165,worked bone,worked bone
+sfi_cd,CH06SR_3564,Worked bone (?),worked bone
+sfi_cd,CH05SR_2781,Worked bone (found near wall 49),worked bone
+sfi_cd,CH04SR_2569,Worked horn,worked bone
+sfi_cd,CH04SR_2336,3x frags engraved stone,worked stone
+sfi_cd,CH01PA_408,Abbeveratoio,worked stone
+sfi_cd,CH05SR_2877,Decorated geometrically rectangular pumice,worked stone
+sfi_cd,CH05SR_3337,flint (from sieve),worked stone
+sfi_cd,CH05SR_3339,flint core,worked stone
+sfi_cd,CH06SR_3836,Flint flake,worked stone
+sfi_cd,CH05SR_3161,Flint tool,worked stone
+sfi_cd,CH05SR_2822,Fragment of decorated object,worked stone
+sfi_cd,CH06SR_3612,fragment/whetstone,worked stone
+sfi_cd,CH06SR_3552,Grinding Stone (for cosmetics),worked stone
+sfi_cd,CH05SR_3022,Knapped flint,worked stone
+sfi_cd,CH01PA_176,Lastrina Lavorata,worked stone
+sfi_cd,CH06SR_3644,Lithic,worked stone
+sfi_cd,CH01PA_116,Nucleo,worked stone
+sfi_cd,CH05SR_2871,Nucleus (1.70m from 17.2385),worked stone
+sfi_cd,CH06SR_3905,Object/Tool,worked stone
+sfi_cd,CH01PA_414,Oggetto Lavorato,worked stone
+sfi_cd,CH01PA_147,Palla,worked stone
+sfi_cd,CH06SR_3437,Piece of flint,worked stone
+sfi_cd,CH06SR_3701,Piece of flint/flake,worked stone
+sfi_cd,CH01PA_175,Pietra Lavorata,worked stone
+sfi_cd,CH04SR_2517,Round engraved object,worked stone
+sfi_cd,CH01PA_120,Scheggia,worked stone
+sfi_cd,CH05SR_2946,Slab (cleaning profiles of pit in rm 37),worked stone
+sfi_cd,CH04SR_2355,stone object - thymaterion or kernos,worked stone
+sfi_cd,CH04SR_2635,"Stone object, 2 frags",worked stone
+sfi_cd,CH06SR_3790,Stopper,worked stone
+sfi_cd,CH05SR_3317,worked flint,worked stone
+sfi_cd,CH04SR_2334,worked stone frag,worked stone
+sfi_cd,CH04SR_2151,Iron/Clay Concentration of iron object on clay roofing material,tool
+sfi_cd,CH01PA_905,nc,
+sfi_cd,CH06SR_3565,Number not used,
+sfi_cd,CH06SR_3972,Object/ plate (from sample 731),
+sfi_cd,CH01PA_825,orlo,
+sfi_cd,CH01PA_55,Ossa Umane,
