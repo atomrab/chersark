@@ -1,0 +1,106 @@
+﻿en_db_label,ark_db_label,ru_zoo_report_label,en_bird_rpt_label,en_fish_rpt_label,preferred_en_label
+Vertebrae,vertebrae,Позвонки,,,Vertebra
+Ribs,ribs,Ребра,Costae,rib,Rib
+Scapula,scapula,Лопатка,Scapula,scapula,Scapula
+Ulna,ulna,Локтевая,Ulna,,Ulna
+Mtc whole,mtc whole,Пястная,,,Metacarpal
+Pelvis,pelvis,Таз,Pelvis,,Pelvis
+Astragalus,astragalus,Таранная,,,Astragalus
+Calcaneous,calcaneous,Пяточная,,,Calcaneus
+Central,central,Центральная,,,Os centrale
+Patella,patella,Коленная чашечка,,,Patella
+Carpal/Tarsal,carpal_tarsal,Другие суставные,,,Carpal/Tarsal
+Mpp,mpp,Метаподий,,,Metapodium
+First Phalange,first phalange,І фаланга,Phalanx 1,,First phalange
+Second Phalange,second phalange,ІІ фаланга,,,Second phalange
+Third Phalange,third phalange,ІІІ фаланга,,,Third phalange
+Horn Core,horn core,Роговые стержни,,,Horn core
+Skull Brain Parts,skull brain parts,Мозговые части черепа,Neurocranium,,Neurocranium
+Skull Facial Parts,skull facial parts,Лицевые части черепа,,,Frontal cranial bones
+Upper Teeth,upper teeth,Зубы верхние,,,Upper teeth
+Lower Jaw,lower jaw,Нижняя челюсть,,,Lower jaw
+Lower Teeth,lower teeth,Зубы нижние,,,Lower teeth
+Tibia Whole,tibia whole,Большая берцовая,,,Tibia
+Mtt Whole,mtt whole,Плюсневая,,,Metatarsal
+Fibula,fibula,Малая берцовая,,,Fibula
+Humerus Whole,humerus whole,Плечевая,Humerus,,Humerus
+Femur Whole,femur whole,Бедренная,Femur,,Femur
+Sternum,sternum,Грудина,Sternum,,Sternum
+Radius Whole,radius whole,Лучевая,Radius,,Radius
+Cranium,cranium,Череп,Cranium,skull,Cranium
+Equine Splint Bone,equine splint bone,Грифельная,,,Equine splint bone
+Antler,antler,Рог,,,Antler
+Humerus Proximal,humerus proximal,,,,Humerus proximal
+Humerus Distal,humerus distal,,,,Humerus distal
+Humerus Shaft,humerus shaft,,,,Humerus shaft
+Radius Proximal,radius proximal,,,,Radius proximal
+Radius Distal,radius distal,,,,Radius distal
+Radius Shaft,radius shaft,,,,Radius shaft
+Mtc Proximal,mtc proximal,,,,Metacarpal proximal
+Mtc Distal,mtc distal,,,,Metacarpal distal
+Mtc Shaft,mtc shaft,,,,Metacarpal shaft
+Femur Distal,femur distal,,,,Femur distal
+Femur Shaft,femur shaft,,,,Femur shaft
+Tibia Proximal,tibia proximal,,,,Tibia proximal
+Tibia Distal,tibia distal,,,,Tibia distal
+Tibia Shaft,tibia shaft,,,,Tibia shaft
+Mtt Proximal,mtt proximal,,,,Metatarsal proximal
+Mtt Distal,mtt distal,,,,Metatarsal distal
+Mtt Shaft,mtt shaft,,,,Metatarsal shaft
+Femur Proximal,femur proximal,,,,Femur proximal
+Mandible,mandible,,Mandibula,,Mandible
+Maxilla,maxilla,,,maxilla,Maxilla
+Ulna Shaft,ulna shaft,,,,Ulna shaft
+Ulna Distal,ulna distal,,,,Ulna distal
+,,,Coracoideum,,Coracoid bone
+,,,Carpometacarpus,,Carpometacarpus
+,,,Tibiotarsus,,Tibiotarsus
+,,,Tarsometatarsus,,Tarsometatarsus
+,,,Os nasale,,Os nasale
+,,,Carina sterni,,Sternal keel
+,,,Furcula,,Furcula
+,,,Diaphysis,,Diaphysis
+,,,Phalanx,,Phalanx
+,,,Cervical vertebra,,Cervical vertebra
+,,,,denticle,Denticle
+,,,,premaxilla,Premaxilla
+,,,,dentale,Dentary
+,,,,articulare,Articular bone
+,,,,quadrate,Quadrate bone
+,,,,keratohyale,Ceratohyale bone
+,,,,epihyale,Hyomandibular element
+,,,,hypohyale,Hypohyal bone
+,,,,urohyale,Urohyal bone
+,,,,hyomandibula,Hyomandibular element
+,,,,palatine,Palatine bone
+,,,,ectopterygoid,Ectopterygoid bone
+,,,,entopterygoid,Entopterygoid bone
+,,,,operculum,Opercle
+,,,,preoperculum,Preopercle
+,,,,suboperculum,Subopercle
+,,,,interoperculum,Interopercle
+,,,,cleithrum,Cleithrum
+,,,,supracleithrum,Supracleithrum
+,,,,posttemporale,Posttemporal bone
+,,,,precaudal vertebra,Precaudal vertebra
+,,,,caudal vertebra,Caudal vertebra
+,,,,urophore,Ural centrum
+,,,,haemal or neural spine of vertebra,Neural spine
+,,,,transversal process of precaudal vertebra,Transverse process of precaudal vertebra
+,,,,precaudal or caudal vertebra,Precaudal or caudal vertebra
+,,,,pterygiophore,Dorsal fin pterygiophore
+,,,,os anale,Anal fin pterygiophore
+,,,,branchiostegale,Branchiostegal ray
+,,,,branchial fragment,Part of branchial basket
+,,,,radiale,Radial bone
+,,,,ventral spine,Pelvic fin spine
+,,,,basipterygium,Basipterygium
+,,,,pectoral spine,Pectoral fin spine
+,,,,circumorbitale,Infraorbital
+,,,,Weberian apparatus,Weberian apparatus
+,,,,dorsal spine,Dorsal fin spine
+,,,,lepidotriche,Lepidotrichium
+,,,,scute,Fish scute
+,,,,fulcra,Fulcrum
+,,,,dentale and articulare,Bone of lower jaw
+,,,,os pharyngeale inferior,Pharyngeal tooth plate

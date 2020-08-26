@@ -1,0 +1,56 @@
+﻿linnaean_normalized,ru_report_label,en_db_label,ark_id,ark_label,preferred_en_label
+Bos taurus,Бык домашний,Bos taurus,415,Domestic Cattle,Domestic cattle
+Ovis aries,Овца домашняя,Ovis aries,416,Domestic Sheep,Domestic sheep
+Capra hircus,Коза домашняя,Capra hircus,417,Domestic Goat,Domestic goat
+Caprinae,Овца и коза,Ovis/Capra,418,Domestic Sheep/Goat,Domestic sheep/goat
+Sus domestica,Свинья домашняя,Sus domestica Gray,419,Domestic Pig,Domestic pig
+Equus caballus,Лошадь домашняя,Equus caballus,420,Horse,Horse
+Cervus elaphus,Олень благородный,Cervus elaphus L.,421,Red Deer,Red deer
+Canis lupus familiaris,Собака домашняя,Canis familiaris,422,Dog,Dog
+Bos primigenius,Тур?,Aurochs?,423,Aurochs?,Aurochs?
+Homo sapiens,Человек,Homo sapien,424,Human,Human
+Mytilidae,Мидия,Mytilus sp.,425,Mussels,Mussel
+Ostreidae,Устрица,Ostrea sp.,426,Oyster,Oyster
+Pectinidae,Гребешок,Pecten spp.,427,Scallop,Scallop
+Aves,Птицы,Aves sp.,428,Bird,Bird
+Pisces,Рыбы,Pisces sp.,429,Fish,Fish
+Brachyura,Краб,Crab,430,Crab,Crab
+Mammalia,Не определено,Unidentifiable,431,Unidentifiable,Unidentifiable
+Lepus europaeus,Заяц русак,Lepus europaeus Pallas,432,Brown Hare,Brown hare
+Sus scrofa,Кабан,Sus scrofa,433,Wild Boar,Wild boar
+Delphinus,Дельфин (вид не установлен),Delphinus sp.,434,Dolphin,Dolphin
+Acipenseridae,Осетр ,Sturgeon-type,435,Sturgeon-type,Sturgeon-type
+Cyprinidae,Карповые рыбы,Carp-like,436,Cyprinoid,Cyprinoid
+Felis catus,Кот домашний,Felis domestica,437,Domestic Cat,Domestic cat
+Vulpes vulpes,Лисица обыкновенная,Vulpes vulpes L.,438,Fox,Fox
+Rodentia,Грызун,Rodentia,439,Rodents,Rodent
+Meles meles,Барсук,Meles meles,440,badger,Badger
+Capreolus capreolus,Косуля европейская,Capreolus capreolus,441,European Roe Deer,European Roe Deer
+Equus hemionus kulan,Кулан?,Koulan ?,442,Koulan ?,Kulan?
+Felis silvestris,Кот лесной,Felis silvestris Schreber,443,Forest cat,Wildcat
+Patellidae,Моллюска Limpet,Limpet,444,Limpet,Limpet
+Saiga tatarica,Сайга,Saiga tatarica Pallas,445,Saiga,Saiga
+Gallus gallus,Курица домашняя,Gallus domestica,446,Chicken,Domestic chicken
+Mollusca,Другие моллюски,Mollusc,447,type of mollusc,Unspecified mollusc
+Littorinidae,Литторины,littoria littoria,448,periwinkle,Periwinkle
+Huso huso,Белуга,sturgeon beluga,449,beluga sturgeon,Beluga
+Cyprinus carpio,Сазан,Sazan,450,carp-like fish,Carp
+Serpentes,Змея,Snake,451,Serpenta,Snake
+Phocoena phocoena,Морская свинья,Phocoena phocoena,452,porpoise,Harbor porpoise
+Testudines,Черепаха,turtle,453,turtle,Turtle
+Martes,Куница,Martes sp.,454,marten,Marten
+Raja clavata,Морская лисица,Raja clavata L,455,roker,Thornback skate
+Vulpes corsac,Корсак,Vulpes corsac,456,Corsac Fox,Corsac fox
+Equus asinus,Осел домашний,Asinus domesticus,457,ass,Ass
+Equus asinus,Осел домашний,Equus asinus,458,Donkey,Donkey
+Castor fiber,Бобр речной,European beaver,,,European beaver?
+Mustela putorius,Хорёк,European polecat,,,European polecat?
+Helix pomatia,Виноградная улитка,Helix,,,Vineyard snail
+Cardiidae,Сердцевидка,Cardium spp.,,,Cockle family
+Silurus glanis,Сом,Catfish,,,Catfish
+Esox,Щука,Pike,,,Pike
+Esox,Чёрная щука,Pickerel,,,Pickerel
+Sander lucioperca,Судак,Pike-perch,,,Pike-perch
+Rutilus frisii,Вырезуб,Rutilus frisii,,,Black Sea roach
+Acipenseridae,Осетр ,Sturgeon,,,Sturgeon-type
+Neogastropoda,Моллюска Spirillus,Spirillus,,,Marine snail
