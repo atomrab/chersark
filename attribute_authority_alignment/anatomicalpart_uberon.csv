@@ -1,108 +1,109 @@
-part_mammal,part_mammal_ru,part_bird,part_fish,uberon_id,notes
-vertebrae,????????,,,http://purl.obolibrary.org/obo/UBERON_0002412,
-ribs,?????,Costae,rib,http://purl.obolibrary.org/obo/UBERON_0002228,
-scapula,???????,Scapula,scapula,http://purl.obolibrary.org/obo/UBERON_0006849,
-humerus proximal,,,,http://purl.obolibrary.org/obo/UBERON_0000976,probably best to closeMatch areas of long bone to single anatomical id
-humerus distal,,,,http://purl.obolibrary.org/obo/UBERON_0000976,
-humerus shaft,,,,http://purl.obolibrary.org/obo/UBERON_0000976,
-radius proximal,,,,http://purl.obolibrary.org/obo/UBERON_0001423,
-radius distal,,,,http://purl.obolibrary.org/obo/UBERON_0001423,
-radius shaft,,,,http://purl.obolibrary.org/obo/UBERON_0001423,
-ulna,????????,Ulna,,http://purl.obolibrary.org/obo/UBERON_0001424,
-mtc whole,???????,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
-mtc proximal,,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
-mtc distal,,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
-mtc shaft,,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
-pelvis,???????; ???,Pelvis,,http://purl.obolibrary.org/obo/UBERON_0001270,
-femur distal,,,,http://purl.obolibrary.org/obo/UBERON_0000981,
-femur shaft,,,,http://purl.obolibrary.org/obo/UBERON_0000981,
-tibia proximal,,,,http://purl.obolibrary.org/obo/UBERON_0000979,
-tibia distal,,,,http://purl.obolibrary.org/obo/UBERON_0000979,
-tibia shaft,,,,http://purl.obolibrary.org/obo/UBERON_0000979,
-astragalus,????????,,,http://purl.obolibrary.org/obo/UBERON_0002395,
-calcaneous,????????,,,http://purl.obolibrary.org/obo/UBERON_0001450,correct spelling is calcaneus
-central,???????????,,,http://purl.obolibrary.org/obo/UBERON_0012131,probably centrale or centralia: os centrale or central mesopodium bone
-patella,???????? ???????,,,http://purl.obolibrary.org/obo/UBERON_0002446,
-carpal_tarsal,?????? ?????????,,,http://purl.obolibrary.org/obo/EMAPA_36579,
-mtt proximal,,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
-mtt distal,,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
-mtt shaft,,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
-mpp,?????????,,,http://purl.obolibrary.org/obo/UBERON_0003821,metapodial proximal?
-first phalange,? ???????,Phalanx 1,,http://purl.obolibrary.org/obo/UBERON_0004302,
-second phalange,?? ???????,,,http://purl.obolibrary.org/obo/UBERON_0004301,
-third phalange,??? ???????,,,http://purl.obolibrary.org/obo/UBERON_0004300,
-horn core,??????? ???????,,,http://purl.obolibrary.org/obo/UBERON_0006970,
-skull brain parts,???????? ????? ??????,Neurocranium,,http://purl.obolibrary.org/obo/UBERON_0001703,matched to neurocranium
-skull facial parts,??????? ????? ??????,,,http://purl.obolibrary.org/obo/UBERON_0000209,matched to frontal bone
-upper teeth,???? ???????,,,http://purl.obolibrary.org/obo/UBERON_0009680,
-lower jaw,?????? ???????,,,http://purl.obolibrary.org/obo/UBERON_0003278,matched to skeleton of lower jaw
-lower teeth,???? ??????,,,http://purl.obolibrary.org/obo/UBERON_0009679,
-femur proximal,,,,http://purl.obolibrary.org/obo/UBERON_0000981,
-tibia whole,??????? ????????,,,http://purl.obolibrary.org/obo/UBERON_0000979,
-mtt whole,?????????,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
-fibula,????? ????????,,,http://purl.obolibrary.org/obo/UBERON_0001446,
-humerus whole,????????,Humerus,,http://purl.obolibrary.org/obo/UBERON_0000976,
-femur whole,?????????,Femur,,http://purl.obolibrary.org/obo/UBERON_0000981,
-sternum,,Sternum,,http://purl.obolibrary.org/obo/UBERON_0000975,
-mandible,,Mandibula,,http://purl.obolibrary.org/obo/UBERON_0001684,
-radius whole,???????,Radius,,http://purl.obolibrary.org/obo/UBERON_0001423,
-cranium,,Cranium,skull,http://purl.obolibrary.org/obo/UBERON_0003128,
-maxilla,,,maxilla,http://purl.obolibrary.org/obo/UBERON_0002397,
-ulna shaft,,,,http://purl.obolibrary.org/obo/UBERON_0001424,
-ulna distal,,,,http://purl.obolibrary.org/obo/UBERON_0001424,
-equine splint bone,??????????,,,http://purl.obolibrary.org/obo/UBERON_0012267,
-m1,?1,,,http://purl.obolibrary.org/obo/UBERON_0018376,
-m2,?2,,,http://purl.obolibrary.org/obo/UBERON_0018606,
-m3,?3,,,http://purl.obolibrary.org/obo/UBERON_0018377,
-,,Coracoideum,,http://purl.obolibrary.org/obo/UBERON_0004743,coracoid bone
-,,Carpometacarpus,,http://purl.obolibrary.org/obo/UBERON_0011205,
-,,Tibiotarsus,,http://purl.obolibrary.org/obo/UBERON_0008194,
-,,Tarsometatarsus,,http://purl.obolibrary.org/obo/UBERON_0008195,
-,,Os nasale,,http://purl.obolibrary.org/obo/UBERON_0001681,
-,,Carina sterni,,http://purl.obolibrary.org/obo/UBERON_4200069,sternal keel
-,,Furcula,,http://purl.obolibrary.org/obo/UBERON_0007841,
-,,Diaphysis,,http://purl.obolibrary.org/obo/UBERON_0004769,used to describe long bone shafts that cannot be determined to limb
-,,Phalanx,,http://purl.obolibrary.org/obo/UBERON_0003221,appropriate for mammals as well
-,,Cervical vertebra,,http://purl.obolibrary.org/obo/UBERON_0002413,
-,,,denticle,http://purl.obolibrary.org/obo/UBERON_0000041,odontode scale
-,,,premaxilla,http://purl.obolibrary.org/obo/UBERON_0002244,
-,,,dentale,http://purl.obolibrary.org/obo/UBERON_0004742,dentary
-,,,articulare,http://purl.obolibrary.org/obo/UBERON_2001805,articular bone
-,,,quadrate,http://purl.obolibrary.org/obo/UBERON_0006597,quadrate bone
-,,,keratohyale,http://purl.obolibrary.org/obo/UBERON_0011611,ceratohyale bone
-,,,epihyale,http://purl.obolibrary.org/obo/UBERON_0011608,hyomandibular element
-,,,hypohyale,http://purl.obolibrary.org/obo/UBERON_0004751,hypohyal bone
-,,,urohyale,http://purl.obolibrary.org/obo/UBERON_2000452,
-,,,hyomandibula,http://purl.obolibrary.org/obo/UBERON_0011608,hyomandibular element; not clear how this differs in our ontology from epihyale
-,,,palatine,http://purl.obolibrary.org/obo/UBERON_0001682,palatine bone
-,,,ectopterygoid,http://purl.obolibrary.org/obo/UBERON_0011634,ectopterygoid bone
-,,,entopterygoid,http://purl.obolibrary.org/obo/UBERON_2000657,
-,,,operculum,http://purl.obolibrary.org/obo/UBERON_2000250,opercle
-,,,preoperculum,http://purl.obolibrary.org/obo/UBERON_2000264,preopercle
-,,,suboperculum,http://purl.obolibrary.org/obo/UBERON_2000284,subopercle
-,,,interoperculum,http://purl.obolibrary.org/obo/UBERON_2000674,interopercle
-,,,cleithrum,http://purl.obolibrary.org/obo/UBERON_0004741,
-,,,supracleithrum,http://purl.obolibrary.org/obo/UBERON_2000594,
-,,,posttemporale,http://purl.obolibrary.org/obo/UBERON_2000549,posttemporal
-,,,precaudal vertebra,http://purl.obolibrary.org/obo/UBERON_4300223,
-,,,caudal vertebra,http://purl.obolibrary.org/obo/UBERON_0001095,
-,,,urophore,http://purl.obolibrary.org/obo/UBERON_2002085,match is unclear; may refer to ural centrum
-,,,haemal or neural spine of vertebra,http://purl.obolibrary.org/obo/UBERON_2001364; http://purl.obolibrary.org/obo/UBERON_0001076,hemal spine; neural spine
-,,,transversal process of precaudal vertebra,http://purl.obolibrary.org/obo/UBERON_0001077,more generally matched to transverse process of vertebra
-,,,precaudal or caudal vertebra,http://purl.obolibrary.org/obo/UBERON_0010913,generic match to vertebral element
-,,,pterygiophore,http://purl.obolibrary.org/obo/UBERON_2001419,dorsal fin pterygiophore?
-,,,os anale,http://purl.obolibrary.org/obo/UBERON_2001420,anal fin pterygiophore
-,,,branchiostegale,http://purl.obolibrary.org/obo/UBERON_2000476,branchiostegal ray?
-,,,branchial fragment,http://purl.obolibrary.org/obo/UBERON_0009119,parts of branchial basket?
-,,,radiale,http://purl.obolibrary.org/obo/UBERON_0001427,
-,,,ventral spine,http://purl.obolibrary.org/obo/UBERON_2002270,pelvic fin spine
-,,,basipterygium,http://purl.obolibrary.org/obo/UBERON_2100623,
-,,,pectoral spine,http://purl.obolibrary.org/obo/UBERON_2001787,pectoral fin spine
-,,,circumorbitale,http://purl.obolibrary.org/obo/UBERON_2000376,infraorbital
-,,,Weberian apparatus,http://purl.obolibrary.org/obo/UBERON_2001188,
-,,,dorsal spine,http://purl.obolibrary.org/obo/UBERON_2002261,dorsal fin spine
-,,,lepidotriche,http://purl.obolibrary.org/obo/UBERON_4000172,lepidotrichium
-,,,scute,http://purl.obolibrary.org/obo/UBERON_2002294,fish scute
-,,,fulcra,http://purl.obolibrary.org/obo/UBERON_2002291,fulcrum
-,,,dentale and articulare,http://purl.obolibrary.org/obo/UBERON_0004768,bone of lower jaw
-,,,os pharyngeale inferior,http://purl.obolibrary.org/obo/UBERON_2001647,broader match to pharyngeal tooth plate because the close match to the lower bone is unclear
+part_mammal,part_bird,part_fish,uberon_id,notes
+vertebrae,,,http://purl.obolibrary.org/obo/UBERON_0002412,
+ribs,Costae,rib,http://purl.obolibrary.org/obo/UBERON_0002228,
+scapula,Scapula,scapula,http://purl.obolibrary.org/obo/UBERON_0006849,
+humerus proximal,,,http://purl.obolibrary.org/obo/UBERON_0000976,probably best to closeMatch areas of long bone to single anatomical id
+humerus distal,,,http://purl.obolibrary.org/obo/UBERON_0000976,
+humerus shaft,,,http://purl.obolibrary.org/obo/UBERON_0000976,
+radius proximal,,,http://purl.obolibrary.org/obo/UBERON_0001423,
+radius distal,,,http://purl.obolibrary.org/obo/UBERON_0001423,
+radius shaft,,,http://purl.obolibrary.org/obo/UBERON_0001423,
+ulna,Ulna,,http://purl.obolibrary.org/obo/UBERON_0001424,
+mtc whole,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
+mtc proximal,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
+mtc distal,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
+mtc shaft,,,http://purl.obolibrary.org/obo/UBERON_0002374,metacarpal
+pelvis,Pelvis,,http://purl.obolibrary.org/obo/UBERON_0001270,
+femur distal,,,http://purl.obolibrary.org/obo/UBERON_0000981,
+femur shaft,,,http://purl.obolibrary.org/obo/UBERON_0000981,
+tibia proximal,,,http://purl.obolibrary.org/obo/UBERON_0000979,
+tibia distal,,,http://purl.obolibrary.org/obo/UBERON_0000979,
+tibia shaft,,,http://purl.obolibrary.org/obo/UBERON_0000979,
+astragalus,,,http://purl.obolibrary.org/obo/UBERON_0002395,
+calcaneous,,,http://purl.obolibrary.org/obo/UBERON_0001450,correct spelling is calcaneus
+central,,,http://purl.obolibrary.org/obo/UBERON_0012131,probably centrale or centralia: os centrale or central mesopodium bone
+patella,,,http://purl.obolibrary.org/obo/UBERON_0002446,
+carpal_tarsal,,,http://purl.obolibrary.org/obo/EMAPA_36579,
+mtt proximal,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
+mtt distal,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
+mtt shaft,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
+mpp,,,http://purl.obolibrary.org/obo/UBERON_0003821,metapodial proximal?
+first phalange,Phalanx 1,,http://purl.obolibrary.org/obo/UBERON_0004302,
+second phalange,,,http://purl.obolibrary.org/obo/UBERON_0004301,
+third phalange,,,http://purl.obolibrary.org/obo/UBERON_0004300,
+horn core,,,http://purl.obolibrary.org/obo/UBERON_0006970,
+skull brain parts,Neurocranium,,http://purl.obolibrary.org/obo/UBERON_0001703,matched to neurocranium
+skull facial parts,,,http://purl.obolibrary.org/obo/UBERON_0000209,matched to frontal bone
+upper teeth,,,http://purl.obolibrary.org/obo/UBERON_0009680,
+lower jaw,,,http://purl.obolibrary.org/obo/UBERON_0003278,matched to skeleton of lower jaw
+lower teeth,,,http://purl.obolibrary.org/obo/UBERON_0009679,
+femur proximal,,,http://purl.obolibrary.org/obo/UBERON_0000981,
+tibia whole,,,http://purl.obolibrary.org/obo/UBERON_0000979,
+mtt whole,,,http://purl.obolibrary.org/obo/UBERON_0001448,metatarsal
+fibula,,,http://purl.obolibrary.org/obo/UBERON_0001446,
+humerus whole,Humerus,,http://purl.obolibrary.org/obo/UBERON_0000976,
+femur whole,Femur,,http://purl.obolibrary.org/obo/UBERON_0000981,
+sternum,Sternum,,http://purl.obolibrary.org/obo/UBERON_0000975,
+mandible,Mandibula,,http://purl.obolibrary.org/obo/UBERON_0001684,
+radius whole,Radius,,http://purl.obolibrary.org/obo/UBERON_0001423,
+cranium,Cranium,skull,http://purl.obolibrary.org/obo/UBERON_0003128,
+maxilla,,maxilla,http://purl.obolibrary.org/obo/UBERON_0002397,
+ulna shaft,,,http://purl.obolibrary.org/obo/UBERON_0001424,
+ulna distal,,,http://purl.obolibrary.org/obo/UBERON_0001424,
+equine splint bone,,,http://purl.obolibrary.org/obo/UBERON_0012267,
+m1,,,http://purl.obolibrary.org/obo/UBERON_0018376,
+m2,,,http://purl.obolibrary.org/obo/UBERON_0018606,
+m3,,,http://purl.obolibrary.org/obo/UBERON_0018377,
+antler,,,http://purl.obolibrary.org/obo/UBERON_0006971,
+,Coracoideum,,http://purl.obolibrary.org/obo/UBERON_0004743,coracoid bone
+,Carpometacarpus,,http://purl.obolibrary.org/obo/UBERON_0011205,
+,Tibiotarsus,,http://purl.obolibrary.org/obo/UBERON_0008194,
+,Tarsometatarsus,,http://purl.obolibrary.org/obo/UBERON_0008195,
+,Os nasale,,http://purl.obolibrary.org/obo/UBERON_0001681,
+,Carina sterni,,http://purl.obolibrary.org/obo/UBERON_4200069,sternal keel
+,Furcula,,http://purl.obolibrary.org/obo/UBERON_0007841,
+,Diaphysis,,http://purl.obolibrary.org/obo/UBERON_0004769,used to describe long bone shafts that cannot be determined to limb
+,Phalanx,,http://purl.obolibrary.org/obo/UBERON_0003221,appropriate for mammals as well
+,Cervical vertebra,,http://purl.obolibrary.org/obo/UBERON_0002413,
+,,denticle,http://purl.obolibrary.org/obo/UBERON_0000041,odontode scale
+,,premaxilla,http://purl.obolibrary.org/obo/UBERON_0002244,
+,,dentale,http://purl.obolibrary.org/obo/UBERON_0004742,dentary
+,,articulare,http://purl.obolibrary.org/obo/UBERON_2001805,articular bone
+,,quadrate,http://purl.obolibrary.org/obo/UBERON_0006597,quadrate bone
+,,keratohyale,http://purl.obolibrary.org/obo/UBERON_0011611,ceratohyale bone
+,,epihyale,http://purl.obolibrary.org/obo/UBERON_0011608,hyomandibular element
+,,hypohyale,http://purl.obolibrary.org/obo/UBERON_0004751,hypohyal bone
+,,urohyale,http://purl.obolibrary.org/obo/UBERON_2000452,
+,,hyomandibula,http://purl.obolibrary.org/obo/UBERON_0011608,hyomandibular element; not clear how this differs in our ontology from epihyale
+,,palatine,http://purl.obolibrary.org/obo/UBERON_0001682,palatine bone
+,,ectopterygoid,http://purl.obolibrary.org/obo/UBERON_0011634,ectopterygoid bone
+,,entopterygoid,http://purl.obolibrary.org/obo/UBERON_2000657,
+,,operculum,http://purl.obolibrary.org/obo/UBERON_2000250,opercle
+,,preoperculum,http://purl.obolibrary.org/obo/UBERON_2000264,preopercle
+,,suboperculum,http://purl.obolibrary.org/obo/UBERON_2000284,subopercle
+,,interoperculum,http://purl.obolibrary.org/obo/UBERON_2000674,interopercle
+,,cleithrum,http://purl.obolibrary.org/obo/UBERON_0004741,
+,,supracleithrum,http://purl.obolibrary.org/obo/UBERON_2000594,
+,,posttemporale,http://purl.obolibrary.org/obo/UBERON_2000549,posttemporal
+,,precaudal vertebra,http://purl.obolibrary.org/obo/UBERON_4300223,
+,,caudal vertebra,http://purl.obolibrary.org/obo/UBERON_0001095,
+,,urophore,http://purl.obolibrary.org/obo/UBERON_2002085,match is unclear; may refer to ural centrum
+,,haemal or neural spine of vertebra,http://purl.obolibrary.org/obo/UBERON_2001364; http://purl.obolibrary.org/obo/UBERON_0001076,hemal spine; neural spine
+,,transversal process of precaudal vertebra,http://purl.obolibrary.org/obo/UBERON_0001077,more generally matched to transverse process of vertebra
+,,precaudal or caudal vertebra,http://purl.obolibrary.org/obo/UBERON_0010913,generic match to vertebral element
+,,pterygiophore,http://purl.obolibrary.org/obo/UBERON_2001419,dorsal fin pterygiophore?
+,,os anale,http://purl.obolibrary.org/obo/UBERON_2001420,anal fin pterygiophore
+,,branchiostegale,http://purl.obolibrary.org/obo/UBERON_2000476,branchiostegal ray?
+,,branchial fragment,http://purl.obolibrary.org/obo/UBERON_0009119,parts of branchial basket?
+,,radiale,http://purl.obolibrary.org/obo/UBERON_0001427,
+,,ventral spine,http://purl.obolibrary.org/obo/UBERON_2002270,pelvic fin spine
+,,basipterygium,http://purl.obolibrary.org/obo/UBERON_2100623,
+,,pectoral spine,http://purl.obolibrary.org/obo/UBERON_2001787,pectoral fin spine
+,,circumorbitale,http://purl.obolibrary.org/obo/UBERON_2000376,infraorbital
+,,Weberian apparatus,http://purl.obolibrary.org/obo/UBERON_2001188,
+,,dorsal spine,http://purl.obolibrary.org/obo/UBERON_2002261,dorsal fin spine
+,,lepidotriche,http://purl.obolibrary.org/obo/UBERON_4000172,lepidotrichium
+,,scute,http://purl.obolibrary.org/obo/UBERON_2002294,fish scute
+,,fulcra,http://purl.obolibrary.org/obo/UBERON_2002291,fulcrum
+,,dentale and articulare,http://purl.obolibrary.org/obo/UBERON_0004768,bone of lower jaw
+,,os pharyngeale inferior,http://purl.obolibrary.org/obo/UBERON_2001647,broader match to pharyngeal tooth plate because the close match to the lower bone is unclear
