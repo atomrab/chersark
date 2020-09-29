@@ -28,7 +28,7 @@ def getJson(url, cookie = False, values = False, username=False, password=False)
             r = requests.get(url,verify=verify)
     except:
         sleepsec = random.random()*10
-        print "Connection Error, retrying in {}s".format(round(sleepsec,2))
+        print "Connection Error, on {} retrying in {}s".format(url, round(sleepsec,2))
         sys.stdout.flush()
         time.sleep(sleepsec)
         return getJson(url, cookie, values, username, password)
@@ -75,11 +75,21 @@ def getItem(module,item):
     
     #empty list for properties
     fields = []
+
+    processedfields = []
     
     #loop the modules' available fields
     for fieldidx in module['fields']:
-        
+
         field = module['fields'][fieldidx]
+
+        try:
+            if field['classtype'] in processedfields:
+                continue
+            processedfields.append(field['classtype'])
+        except KeyError:
+            print fieldidx
+            print field['dataclass']
         
         #different classtypes need handled differently as per resfieldfunction 
         fieldFunc = resFieldFunction.get(field['dataclass'], lambda a,b: ["Invalid classtype {}".format(b['dataclass'])])
@@ -94,7 +104,11 @@ def getItem(module,item):
         #fieldfunctions return lists of results as a field may have more than one value eg a person may hold more than one role
         #flatten the properties into the item to make it json-ld like, multiple values become lists
         for data in fielddata:
-            fieldid = data.keys()[0]
+            try:
+                fieldid = data.keys()[0]
+            except AttributeError:
+                print data
+                continue
             try:
                 if isinstance(item[fieldid], list):
                     item[fieldid].append( data[fieldid] )
@@ -122,11 +136,9 @@ def getItems(module):
     # if the user specified a sample length, only get that may items of each module
     if itemList:
         sample = random.sample(itemList,min(samplelen,len(itemList)))
-        # if (itemkey == "cxt_cd") :
-#             sample.append({"itemkey":"cxt_cd","cxt_cd":"CH05SR_434"})
-#
-        # if (itemkey == "smp_cd") :
-   #          sample.append({"smp_cd":"CH04SR_2","itemkey":"smp_cd"})
+        if (itemkey == "cxt_cd") :
+            sample.append({"itemkey":"cxt_cd","cxt_cd":"CH04SR_414"})
+
     else:
         sample = {}
         
@@ -169,28 +181,30 @@ def getAttributeType(attributetype):
     return getProp(attributetype)
     
 def getProp(uri):
-    uri = uri.replace("https","http")
     try:
         return props[uri]
     except KeyError:
         urijson = getJson("{}/json".format(uri), ark_cookies)
         for item in urijson[urijson.keys()[0]]:
-            if u'http://purl.org/dc/terms/title' in item.keys():
-                props[uri] = cleanPropName(item[u'http://purl.org/dc/terms/title']['value'])
+            if u'https://purl.org/dc/terms/title' in item.keys():
+                props[uri] = cleanPropName(item[u'https://purl.org/dc/terms/title']['value'])
                 return props[uri]
 
 #spans are handled slightly differently as they go in both directions
 def getSpanLabel(spanlabel):
-    spanlabel = spanlabel.replace("https","http")
     try:
         return spanlabels[spanlabel]
     except KeyError:
         spanlabeljson = getJson("{}/json".format(spanlabel), ark_cookies)
-        for item in spanlabeljson[spanlabel[:-2]]:
-                try:
-                    spanlabels[spanlabel] = item[u'http://purl.org/dc/terms/title']['value'].lower()
-                except KeyError:
-                    continue
+        try:
+            items = spanlabeljson[spanlabel]
+        except KeyError:
+            items = spanlabeljson[spanlabel[:-2]]
+        for item in items:
+            try:
+                spanlabels[spanlabel] = item[u'https://purl.org/dc/terms/title']['value'].lower()
+            except KeyError:
+                continue
         props[spanlabel] = spanlabels[spanlabel]
         return spanlabels[spanlabel]
         
@@ -234,17 +248,17 @@ def resField(item, field):
 
 #here are the get functions for various dataclass
 def getAttribute(attribute, boolean):
-    attribute = attribute.replace("https","http")
+    attribute = attribute.replace("http:","https:")
     try:
         return attributes[attribute+str(boolean)]
     except KeyError:
         attributejson = getJson("{}/json".format(attribute), ark_cookies)
         
         for item in attributejson[attributejson.keys()[0]]:
-            if u'http://purl.org/dc/terms/title' in item.keys():
-                attrvalue = item[u'http://purl.org/dc/terms/title']['value'].lower()
-            elif u'http://www.w3.org/2004/02/skos/core#inScheme' in item.keys():
-                attrid = getAttributeType(item[u'http://www.w3.org/2004/02/skos/core#inScheme']['value'])
+            if u'https://purl.org/dc/terms/title' in item.keys():
+                attrvalue = item[u'https://purl.org/dc/terms/title']['value'].lower()
+            elif u'https://www.w3.org/2004/02/skos/core#inScheme' in item.keys():
+                attrid = getAttributeType(item[u'https://www.w3.org/2004/02/skos/core#inScheme']['value'])
             else:
                 continue
         
@@ -362,7 +376,7 @@ def resFileField(item, field):
                 
                 for item in filejson[filejson.keys()[0]]:
                     try:
-                        fileuri = item["http://purl.org/dc/terms/identifier"]["value"]
+                        fileuri = item["https://purl.org/dc/terms/identifier"]["value"]
                     except KeyError:
                         continue
                 
@@ -425,10 +439,10 @@ def resNumberField(item, field):
     for field in data:
         fieldvalue = float(field[fieldtype])
         fielddata = {"value": fieldvalue}
-        if field['attached_frags']:
-            chainRequest['cor_tbl_number'] = field['id']
-            rawChainData = getJson( api_url, ark_cookies, chainRequest)
-            chainData = rawChainData[field['id']][0]
+        chainRequest['cor_tbl_number'] = field['id']
+        rawChainData = getJson( api_url, ark_cookies, chainRequest)
+        chainData = rawChainData[field['id']][0]
+        if (chainData):
             for chainDatum in chainData:
                 chainid = "{}/concept/attribute/{}".format(root_url, chainDatum['attribute'])
                 chain_attr_boolean = '1' == chainDatum['boolean']
@@ -439,6 +453,21 @@ def resNumberField(item, field):
                     chainitem = {chainid:chain_attr_boolean}
                 fielddata.update(chainitem)
         returndata.append({ fieldid: fielddata })
+
+    if fieldid in ('earliest start','latest start','earliest end','latest end'):
+
+        for data in returndata:
+            try:
+                year = data[fieldid]['value']
+
+                if year>0:
+                    year = str(int(year)).zfill(4)
+                else:
+                    year = "-"+str(int(year))[1:].zfill(4)
+
+                data[fieldid]['value'] = year
+            except KeyError:
+                continue
 
     return returndata
 
@@ -458,14 +487,23 @@ def resSpans(item, field):
     
     for field in data:
         if field:
+            try:
+                spanlabel = field['spanlabel']
+            except KeyError:
+                spanlabel = 6
             if field['end'] == item[item['itemkey']]:
-                fieldid = "{}/concept/spanlabel/{}/2".format(root_url, field['spanlabel'])
+                fieldid = "{}/concept/spanlabel/{}/2".format(root_url, spanlabel)
+            else:
+                fieldid = "{}/concept/spanlabel/{}/1".format(root_url, spanlabel)
+
+            if field['end'] == item[item['itemkey']]:
                 fielddata = "{}/{}/{}".format(root_url, item['itemkey'], field['beg'])
             else:
-                fieldid = "{}/concept/spanlabel/{}/1".format(root_url, field['spanlabel'])
                 fielddata = "{}/{}/{}".format(root_url, item['itemkey'], field['end'])
+
             fieldid = getSpanLabel(fieldid)
             returndata.append({ fieldid: fielddata })
+
 
     return returndata
 
@@ -484,6 +522,7 @@ resFieldFunction = {
 
 #set up a few variables from the user
 root_url = sys.argv[1]
+perm_url = "https://n2t.net/ark:/87610/t66h2r"
 api_url = "{}/api.php".format(root_url)
 
 ark_user = sys.argv[2]
@@ -509,9 +548,9 @@ data = {
 
 arkModules = getJson(api_url, ark_cookies, {"req":"describeItems"});
 for module in arkModules:
-    fields = getJson(api_url, ark_cookies, {"req":"describeFields","item_key":module['itemkey']});
     if module['itemkey'] in ['cor_cd','fil_cd']:
         continue
+    fields = getJson(api_url, ark_cookies, {"req":"describeFields","item_key":module['itemkey']});
 
     for k, v in fields.items():
         if k in ['conf_field_{}'.format(module['itemkey']), 'conf_field_itemkey','conf_field_skos','conf_field_linkeddata']:
@@ -544,12 +583,13 @@ def process():
     
     module = requestQ.get()
     #fill the data object a lists of the items in that module
-    data[module['itemkey'][:3]]=getItems(module)
+    data[module['itemkey'][:3]] = getItems(module)
+    print "completed {}".format(module['itemkey'])
     requestQ.task_done()
 
 #set up a thread for each module
 for i in range(x):
-    t = threading.Thread(target=process)
+    t = threading.Thread(target = process)
     t.daemon = True
     t.start()
     time.sleep(1/float(x))
@@ -571,6 +611,9 @@ i=0
 ont = []
 
 for prop in context:
+
+    #context[prop] = context[prop].replace(root_url, root_url)
+    print context[prop]
     irisplit = context[prop].split("/")
     if irisplit[-1] == "True":
         if "{}/False".format("/".join(irisplit[:-1])) not in props:
@@ -605,25 +648,25 @@ for prop in context:
             except:
                 ontobj[u'exactMatch'] = concept[u'exactMatch']['value']
 
-        if u'http://www.w3.org/2004/02/skos/core#inScheme' in concept.keys():
-            ontobj[u'inScheme'] = concept[u'http://www.w3.org/2004/02/skos/core#inScheme']['value']
-        if u'http://www.w3.org/2001/XMLSchema#type' in concept.keys():
-            ontobj[u'@type'] = concept[u'http://www.w3.org/2001/XMLSchema#type']['value']
-        if u'http://www.w3.org/2004/02/skos/core#label' in concept.keys():
-            label = concept[u'http://www.w3.org/2004/02/skos/core#label']
+        if u'https://www.w3.org/2004/02/skos/core#inScheme' in concept.keys():
+            ontobj[u'inScheme'] = concept[u'https://www.w3.org/2004/02/skos/core#inScheme']['value']
+        if u'https://www.w3.org/2001/XMLSchema#type' in concept.keys():
+            ontobj[u'@type'] = concept[u'https://www.w3.org/2001/XMLSchema#type']['value']
+        if u'https://www.w3.org/2004/02/skos/core#label' in concept.keys():
+            label = concept[u'https://www.w3.org/2004/02/skos/core#label']
             labels.append({label["lang"]:label["value"]})
-        if u'http://www.w3.org/2000/01/rdf-schema#label' in concept.keys():
-            label = concept[u'http://www.w3.org/2000/01/rdf-schema#label']
+        if u'https://www.w3.org/2000/01/rdf-schema#label' in concept.keys():
+            label = concept[u'https://www.w3.org/2000/01/rdf-schema#label']
             labels.append({label["lang"]:label["value"]})
     ontobj["label"] = labels
     ont.append(ontobj)
 
 ontology= {
     "@context": {
-        "label": { "@id": 'http://www.w3.org/2004/02/skos/core#label', "@container": "@language" },
-        "closeMatch" : "http://www.w3.org/2004/02/skos/core#closeMatch",
-        "exactMatch" : "http://www.w3.org/2004/02/skos/core#exactMatch",
-        "inScheme" : "http://www.w3.org/2004/02/skos/core#inScheme"
+        "label": { "@id": 'https://www.w3.org/2004/02/skos/core#label', "@container": "@language" },
+        "closeMatch" : "https://www.w3.org/2004/02/skos/core#closeMatch",
+        "exactMatch" : "https://www.w3.org/2004/02/skos/core#exactMatch",
+        "inScheme" : "https://www.w3.org/2004/02/skos/core#inScheme"
     },
     "@set":ont
 }
@@ -634,11 +677,11 @@ with open("output/ontology.json", "w+") as write_file:
 #add the module keys to the context
 for module in modules.keys():
     modkey =module[:3] 
-    context[modkey] = "{}/module/{}".format(root_url, modkey)
+    context[modkey] = "{}/concept/itemkey/{}".format(root_url, modkey)
     
 #this is the context
 data["@context"] = context
 
 print "writing {} modules".format(x)
 with open("output/data.json", "w+") as write_file:
-    write_file.write(json.dumps(data, indent=2))
+    write_file.write(json.dumps(data, indent=2).replace(root_url, perm_url))
