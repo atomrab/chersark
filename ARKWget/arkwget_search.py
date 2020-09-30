@@ -96,10 +96,16 @@ def processPage(soup, depth, follow = True):
             if count is 0 :
                 checkComplete(fauxdexurl)
 
-        allbutton = re.search('all', anchor['href'])
-        print({'allbutton':allbutton})
+        allbutton = re.search('search/atr/([0-9]+)/([0-9]+)/1/all', anchor['href'])
         if(allbutton):
-            print("got an all url")
+            showallurl = root_url.strip("/")+raw_anchor.strip().replace(ark_root,"")
+            cursor.execute('''SELECT count(*) from pages where url = ?''', (showallurl,))
+            count = cursor.fetchone()[0]
+            if count is 0 :
+                checkComplete(showallurl)
+
+        allbutton = re.search('search/key/([0-9]+)/([0-9all]+)/all', anchor['href'])
+        if(allbutton):
             showallurl = root_url.strip("/")+raw_anchor.strip().replace(ark_root,"")
             cursor.execute('''SELECT count(*) from pages where url = ?''', (showallurl,))
             count = cursor.fetchone()[0]
@@ -121,7 +127,7 @@ def processPage(soup, depth, follow = True):
     
     prettysoup =  soup.prettify()
 
-    prettysoup = prettysoup.replace(" &amp;&amp; "," && ").replace("resolution &gt; cutoff","resolution > cutoff").replace("index&lt;0","index<0").replace("ht &gt; largest_child","ht > largest_child").replace("index&gt;iframeids","index>iframeids")
+    prettysoup = prettysoup.replace(" &amp;&amp; "," && ").replace("resolution &gt; cutoff","resolution > cutoff").replace("index&lt;0","index<0").replace("ht &gt; largest_child","ht > largest_child").replace("index&gt;iframeids","index>iframeids").replace("i&lt;features.length","i < features.length").replace("i &lt; features.length","i < features.length").replace("i &lt; rulesarr.length","i < rulesarr.length").replace("canvas.width &gt; 0","canvas.width > 0")
     return prettysoup
 
 def updateScreen(message):
@@ -312,8 +318,7 @@ def getSearchPage(url):
 
     tail = "search" + url.split("search")[1]
     depth = len(tail.split("/"))-1
-    # processed_soup = processPage(soup, depth, False)
-    processed_soup = processPage(soup, depth, True)
+    processed_soup = processPage(soup, depth, False)
 
     try:
         os.makedirs(destination + tail[:tail.rfind("/")])
@@ -460,7 +465,8 @@ core_pages = [
     'data_view.php',
     'user_home.php',
     'index.php',
-    'map_view.php'
+    'map_view.php',
+    'micro_view.php'
 ]
 
 
@@ -471,7 +477,7 @@ except:
     print "no metadata"
     insertMetadata("numberOfPages", str(numberOfItems))
 
-    for page in core_pages:
+for page in core_pages:
         getPage(page,ark_cookies)
 
 for item in ark:
