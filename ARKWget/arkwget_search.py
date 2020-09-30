@@ -96,6 +96,16 @@ def processPage(soup, depth, follow = True):
             if count is 0 :
                 checkComplete(fauxdexurl)
 
+        allbutton = re.search('all', anchor['href'])
+        print({'allbutton':allbutton})
+        if(allbutton):
+            print("got an all url")
+            showallurl = root_url.strip("/")+raw_anchor.strip().replace(ark_root,"")
+            cursor.execute('''SELECT count(*) from pages where url = ?''', (showallurl,))
+            count = cursor.fetchone()[0]
+            if count is 0 :
+                checkComplete(showallurl)
+
     images = soup.findAll("img")
     for image in images:
         image['src'] = process_img(image['src'], depth)
@@ -302,7 +312,8 @@ def getSearchPage(url):
 
     tail = "search" + url.split("search")[1]
     depth = len(tail.split("/"))-1
-    processed_soup = processPage(soup, depth, False)
+    # processed_soup = processPage(soup, depth, False)
+    processed_soup = processPage(soup, depth, True)
 
     try:
         os.makedirs(destination + tail[:tail.rfind("/")])
