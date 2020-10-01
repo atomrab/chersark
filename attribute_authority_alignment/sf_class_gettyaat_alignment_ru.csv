@@ -1,0 +1,56 @@
+﻿Source ID,Source Label,Language,Match Type,Target URI,Target Concept,ru_alt
+54,worked bone,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300011798,bone (material),обработанная кость
+43,stamped amphora handle,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300264921,transport amphorae,амфора с клеймом
+36,rod or bar,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300014669,rods (object genre),стержень
+34,pin or needle,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300024788,piercing tools,булавка или игла
+26,metal vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300015336,metalwork (visual works),изделия из металла
+21,kiln waster,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300253876,waste,бракованное изделие
+18,horse-riding gear,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300255533,animal work equipment,конская сбруя
+15,ground stone axe,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300400808,ax heads,шлифованный топор
+13,glass vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300010898,glassware,стеклянные изделия
+4,ceramic vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300151343,ceramics (object genre),изделия из керамики
+2,architectural fragment,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300000885,architectural elements,архитектурная деталь
+3,basin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300045614,basins (vessels),ёмкость
+1,anchor,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300219429,anchors (watercraft equipment),якорь
+6,charcoal,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300012862,charcoal (material),древесный уголь
+7,coin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300037222,coins (money),монета
+8,crucible or cupel,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300196462,crucibles,тигель
+9,devotional,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300234144,devotional objects,религиозный объект
+10,fastener,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300036363,fasteners,застёжка
+11,fishhook,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024418,fishhooks,рыболовный крючок
+12,gamepiece,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300211101,game pieces (game elements),часть игры
+17,hardware,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033260,hardware (components),оборудование
+55,worked stone,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300011176,stone (worked rock),обработанный камень
+53,wire,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300011063,wire,проволока
+52,window component,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300433044,window element,часть окна
+51,whetstone,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300023299,whetstones,оселок
+50,weight,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300343371,weights (object genres),гиря
+49,weapon,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300036926,weapons,оружие
+48,unidentifiable,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300379012,undetermined (information indicator),неопознанный
+47,tool,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024841,tools,орудие
+46,thimble,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300247551,thimbles,напёрсток
+45,tile,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300010699,roofing tile,черепица
+20,key,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033579,keys (hardware),ключ
+44,surface decoration,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300001987,surface elements (architectural),украшение поверхности
+42,sphere,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300217875,balls (object genres),сфероид
+41,spindle whorl,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300263796,whorls (spindle flywheels),пряслице
+40,slag,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300011790,slag,шлак
+39,sheet metal,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300223016,sheet metal,листовой металл
+38,signet,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300028877,seals (artifacts),печать
+23,bell,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300041872,bells (idiophones),колокольчик или бубенчик
+37,sculpture,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300047090,sculpture (visual works),скульптура
+24,lighting,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300037581,lighting devices,осветительные приборы
+35,ring,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300263678,rings (object genres),кольцо
+33,pestle,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024725,pestles,пест
+32,ornament,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300266794,ornaments (object genre),орнамент
+31,natural object,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300404125,natural objects,природный объект
+30,nail,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033565,nails (fasteners),гвоздь
+29,mortar,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024724,mortars (grinding tools),ступка
+25,lock,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300033407,locks (securing devices),замóк
+28,mold,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024814,molds (shaping equipment),форма
+27,millstone,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300185256,millstones (equipment components),жёрнов
+22,knife,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024668,knives,нож
+19,inlay,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300256033,inlays (decorations),насечка
+16,handle,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300024927,handles (components),рукоятка
+14,graffiti,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300015613,graffiti (casual notations),граффити
+5,chain,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300014625,chains (object genres),цепь или цепочка
