@@ -10,7 +10,7 @@
 13,glass vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300010898,glassware,стеклянные изделия
 4,ceramic vessel,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300151343,ceramics (object genre),изделия из керамики
 2,architectural fragment,en,http://www.w3.org/2004/02/skos/core#broadMatch,http://vocab.getty.edu/aat/300000885,architectural elements,архитектурная деталь
-3,basin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300045614,basins (vessels),ёмкость
+3,basin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300045614,basins (vessels),бассейн
 1,anchor,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300219429,anchors (watercraft equipment),якорь
 6,charcoal,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300012862,charcoal (material),древесный уголь
 7,coin,en,http://www.w3.org/2004/02/skos/core#closeMatch,http://vocab.getty.edu/aat/300037222,coins (money),монета
